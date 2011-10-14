@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#af16987358e2b9bc587826f944af48d29" title="SpatialIndex::RTree::Index::findLeastEnlargement" alt="" coords="383,5,759,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a9c7d11c3a3b293fa8836d2c274a4e98b" title="SpatialIndex::RTree::Index::findLeastOverlap" alt="" coords="400,56,741,83"/>
+<area shape="rect" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="481,107,660,133"/>
+<area shape="rect" href="$classTools_1_1PoolPointer.html#a1271c75568f77d3fdf6da28a7f17d1c6" title="Tools::PoolPointer::relinquish" alt="" coords="457,157,684,184"/>
+<area shape="rect" href="$classTools_1_1PoolPointer.html#af0053e9941177ddc3b887714c9a2a2a5" title="Tools::PoolPointer::unique" alt="" coords="468,208,673,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index_1_1OverlapEntry.html#adf0d7a3ff6f2bfac932fffd9991c5e53" title="SpatialIndex::RTree::Index::OverlapEntry::compareEntries" alt="" coords="808,56,1240,83"/>
+</map>

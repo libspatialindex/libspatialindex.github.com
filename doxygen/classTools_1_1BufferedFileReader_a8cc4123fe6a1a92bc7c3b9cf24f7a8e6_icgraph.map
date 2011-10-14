@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTools_1_1TemporaryFile.html#ab4f368e3fd089fb869445047723ae2b0" title="Tools::TemporaryFile::readBytes" alt="" coords="341,31,592,57"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree::ExternalSorter::Record::loadFromFile" alt="" coords="641,31,1073,57"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree::ExternalSorter::getNextRecord" alt="" coords="1124,5,1511,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4cd6cd15e42fe7d84d84e1326eded66a" title="SpatialIndex::RTree::ExternalSorter::sort" alt="" coords="1164,56,1471,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4ef2be0ea586950154e772d01cbf2432" title="SpatialIndex::RTree::ExternalSorter::insert" alt="" coords="1560,56,1880,83"/>
+</map>

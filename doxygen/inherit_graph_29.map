@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1IEvolvingShape.html" title="SpatialIndex::IEvolvingShape" alt="" coords="879,524,1108,551"/>
+<area shape="rect" href="$classSpatialIndex_1_1MovingPoint.html" title="SpatialIndex::MovingPoint" alt="" coords="1165,549,1373,576"/>
+<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html" title="SpatialIndex::MovingRegion" alt="" coords="1159,499,1380,525"/>
+<area shape="rect" href="$classTools_1_1IInterval.html" title="Tools::IInterval" alt="" coords="404,461,529,488"/>
+<area shape="rect" href="$classSpatialIndex_1_1ITimeShape.html" title="SpatialIndex::ITimeShape" alt="" coords="611,473,819,500"/>
+<area shape="rect" href="$classTools_1_1Interval.html" title="Tools::Interval" alt="" coords="655,423,775,449"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimePoint.html" title="SpatialIndex::TimePoint" alt="" coords="897,575,1089,601"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html" title="SpatialIndex::TimeRegion" alt="" coords="889,473,1097,500"/>
+<area shape="rect" href="$classTools_1_1IObject.html" title="Tools::IObject" alt="" coords="7,563,124,589"/>
+<area shape="rect" href="$classSpatialIndex_1_1IEntry.html" title="SpatialIndex::IEntry" alt="" coords="173,259,333,285"/>
+<area shape="rect" href="$classSpatialIndex_1_1LineSegment.html" title="SpatialIndex::LineSegment" alt="" coords="607,639,823,665"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html" title="SpatialIndex::Point" alt="" coords="637,575,792,601"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html" title="SpatialIndex::Region" alt="" coords="629,524,800,551"/>
+<area shape="rect" href="$classSpatialIndex_1_1IData.html" title="SpatialIndex::IData" alt="" coords="388,259,545,285"/>
+<area shape="rect" href="$classSpatialIndex_1_1INode.html" title="SpatialIndex::INode" alt="" coords="385,157,548,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Data.html" title="SpatialIndex::MVRTree::Data" alt="" coords="603,360,827,387"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Data.html" title="SpatialIndex::RTree::Data" alt="" coords="613,259,816,285"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Data.html" title="SpatialIndex::TPRTree::Data" alt="" coords="604,309,825,336"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Node.html" title="SpatialIndex::MVRTree::Node" alt="" coords="600,157,829,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Node.html" title="SpatialIndex::RTree::Node" alt="" coords="611,208,819,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Node.html" title="SpatialIndex::TPRTree::Node" alt="" coords="603,56,827,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Index.html" title="SpatialIndex::MVRTree::Index" alt="" coords="879,107,1108,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Leaf.html" title="SpatialIndex::MVRTree::Leaf" alt="" coords="883,157,1104,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html" title="SpatialIndex::RTree::Index" alt="" coords="889,259,1097,285"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Leaf.html" title="SpatialIndex::RTree::Leaf" alt="" coords="893,208,1093,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Index.html" title="SpatialIndex::TPRTree::Index" alt="" coords="880,56,1107,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Leaf.html" title="SpatialIndex::TPRTree::Leaf" alt="" coords="884,5,1103,32"/>
+<area shape="rect" href="$classTools_1_1ISerializable.html" title="Tools::ISerializable" alt="" coords="176,335,331,361"/>
+<area shape="rect" href="$classSpatialIndex_1_1IShape.html" title="SpatialIndex::IShape" alt="" coords="381,563,552,589"/>
+<area shape="rect" href="$classTools_1_1PropertySet.html" title="Tools::PropertySet" alt="" coords="392,411,541,437"/>
+</map>

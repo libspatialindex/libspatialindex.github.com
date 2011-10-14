@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree::BulkLoader::bulkLoadUsingSTR" alt="" coords="439,107,831,133"/>
+<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree::createNewRTree" alt="" coords="491,259,779,285"/>
+<area shape="rect" href="$classTools_1_1PropertySet.html#af52a54aa685abdf26d27028d355c8d8d" title="Tools::PropertySet::getProperty" alt="" coords="931,309,1173,336"/>
+<area shape="rect" href="$classTools_1_1IObjectStream.html#a43be1565638fec0fed1cc8f6cd6c103e" title="Tools::IObjectStream::hasNext" alt="" coords="933,5,1171,32"/>
+<area shape="rect" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="963,56,1141,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1IDataStream.html#ac6991043919599d2b2338b30bcb6b213" title="SpatialIndex::IDataStream::getNext" alt="" coords="913,107,1191,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a48a3ad30be24a5eaf9d764e836f6861e" title="SpatialIndex::RTree::BulkLoader::createLevel" alt="" coords="880,157,1224,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a8d2280d9e3dd0760a9b0978034b278f8" title="SpatialIndex::RTree::BulkLoader::createNode" alt="" coords="1272,157,1616,184"/>
+<area shape="rect" href="$classTools_1_1PropertySet.html#a32a3cea3cf3b0d05ad4ff9c817d914a7" title="Tools::PropertySet::setProperty" alt="" coords="932,208,1172,235"/>
+<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#ac0bd10176fdff7b538290ad42d1cdde6" title="SpatialIndex::RTree::returnRTree" alt="" coords="925,259,1179,285"/>
+</map>

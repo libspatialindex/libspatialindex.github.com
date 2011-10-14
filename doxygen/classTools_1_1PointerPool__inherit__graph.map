@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTools_1_1PointerPool.html" title="{Tools::PointerPool\&lt; Node \&gt;\n|+ m_hits\l+ m_misses\l+ m_pointerCount\l|+ PointerPool()\l+ ~PointerPool()\l+ acquire()\l+ release()\l+ getCapacity()\l+ setCapacity()\l}" alt="" coords="5,277,224,483"/>
+<area shape="rect" href="$classTools_1_1PointerPool.html" title="{Tools::PointerPool\&lt; TimeRegion \&gt;\n|+ m_hits\l+ m_misses\l+ m_pointerCount\l|+ PointerPool()\l+ ~PointerPool()\l+ acquire()\l+ release()\l+ getCapacity()\l+ setCapacity()\l}" alt="" coords="248,277,515,483"/>
+<area shape="rect" href="$classTools_1_1PointerPool.html" title="{Tools::PointerPool\&lt; Region \&gt;\n|+ m_hits\l+ m_misses\l+ m_pointerCount\l|+ PointerPool()\l+ ~PointerPool()\l+ acquire()\l+ release()\l+ getCapacity()\l+ setCapacity()\l}" alt="" coords="539,277,768,483"/>
+<area shape="rect" href="$classTools_1_1PointerPool.html" title="{Tools::PointerPool\&lt; MovingRegion \&gt;\n|+ m_hits\l+ m_misses\l+ m_pointerCount\l|+ PointerPool()\l+ ~PointerPool()\l+ acquire()\l+ release()\l+ getCapacity()\l+ setCapacity()\l}" alt="" coords="792,277,1075,483"/>
+<area shape="rect" href="$classTools_1_1PointerPool.html" title="{Tools::PointerPool\&lt; Point \&gt;\n|+ m_hits\l+ m_misses\l+ m_pointerCount\l|+ PointerPool()\l+ ~PointerPool()\l+ acquire()\l+ release()\l+ getCapacity()\l+ setCapacity()\l}" alt="" coords="1099,277,1315,483"/>
+</map>

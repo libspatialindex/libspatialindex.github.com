@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a67d1232b04f8fb1ed95ba9e69c7eabc4" title="SpatialIndex::TimeRegion::containsRegionInTime" alt="" coords="344,5,723,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#ac32d5ec8460412b954a63660a029c6ce" title="SpatialIndex::Region::containsShape" alt="" coords="391,56,676,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#ab89d580d4c7565ff29888e62f3593d8e" title="SpatialIndex::TimeRegion::containsShapeInTime" alt="" coords="772,5,1145,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$SpatialIndex_8h.html" title="spatialindex/SpatialIndex.h" alt="" coords="1245,84,1461,111"/>
+<area shape="rect" href="$DiskStorageManager_8h.html" title="DiskStorageManager.h" alt="" coords="1485,84,1669,111"/>
+<area shape="rect" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="784,239,893,265"/>
+<area shape="rect" href="$Point_8h.html" title="Point.h" alt="" coords="804,161,873,188"/>
+<area shape="rect" href="$Region_8h.html" title="Region.h" alt="" coords="897,161,983,188"/>
+<area shape="rect" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="1007,161,1137,188"/>
+<area shape="rect" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="1161,161,1268,188"/>
+<area shape="rect" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="1292,161,1415,188"/>
+<area shape="rect" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="1439,161,1561,188"/>
+<area shape="rect" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="1585,161,1721,188"/>
+<area shape="rect" href="$Version_8h.html" title="Version.h" alt="" coords="2081,161,2169,188"/>
+<area shape="rect" href="$SmartPointer_8h.html" title="SmartPointer.h" alt="" coords="1392,316,1520,343"/>
+<area shape="rect" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="1544,316,1659,343"/>
+<area shape="rect" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="1544,393,1659,420"/>
+</map>

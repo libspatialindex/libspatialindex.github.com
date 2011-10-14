@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape::getDimension" alt="" coords="389,5,669,32"/>
+<area shape="rect" href="$classTools_1_1IInterval.html#ac6f407bcb5bf762f22f96b3b9def7a8c" title="Tools::IInterval::getLowerBound" alt="" coords="407,56,652,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape::getMBR" alt="" coords="413,107,645,133"/>
+</map>

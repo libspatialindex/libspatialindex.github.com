@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion::containsPointInTime" alt="" coords="332,56,695,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#ac32d5ec8460412b954a63660a029c6ce" title="SpatialIndex::Region::containsShape" alt="" coords="371,107,656,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#af6db4c705e6c03667c80c6532f17d12c" title="SpatialIndex::Region::intersectsShape" alt="" coords="367,157,660,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html#a3a27a967388424d4ac0666268c999bba" title="SpatialIndex::Point::intersectsShape" alt="" coords="373,208,653,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimePoint.html#a218819eff292f2cd30bf06999eab144c" title="SpatialIndex::TimePoint::intersectsShapeInTime" alt="" coords="752,5,1120,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a7f1b7362f53c866a55044e79256fe0a2" title="SpatialIndex::TimeRegion::intersectsShapeInTime" alt="" coords="745,56,1127,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#ab89d580d4c7565ff29888e62f3593d8e" title="SpatialIndex::TimeRegion::containsShapeInTime" alt="" coords="749,107,1123,133"/>
+</map>

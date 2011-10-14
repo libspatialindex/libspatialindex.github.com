@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="5,251,123,352"/>
+<area shape="rect" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="147,191,349,412"/>
+<area shape="rect" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="155,5,341,141"/>
+</map>

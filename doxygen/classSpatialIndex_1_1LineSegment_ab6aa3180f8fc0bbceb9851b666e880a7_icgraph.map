@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1LineSegment.html#aad2a5aeac44852e63ff25e74a3da4b1c" title="SpatialIndex::LineSegment::loadFromByteArray" alt="" coords="399,5,761,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1LineSegment.html#a9102bb33c3d4f107d3ee18a8c0b89e6a" title="SpatialIndex::LineSegment::makeInfinite" alt="" coords="421,56,739,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1LineSegment.html#a0a51fbc06551c7a0c8767b9a68d55665" title="SpatialIndex::LineSegment::operator=" alt="" coords="431,107,729,133"/>
+</map>

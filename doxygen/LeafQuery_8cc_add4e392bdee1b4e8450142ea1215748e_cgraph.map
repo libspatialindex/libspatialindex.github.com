@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1INode.html#a4e59f8ffd236c347423076f407709271" title="SpatialIndex::INode::getChildIdentifier" alt="" coords="155,5,451,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1INode.html#a03e2aafc4fc90693478f6779755ed77d" title="SpatialIndex::INode::getChildrenCount" alt="" coords="153,56,452,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1IEntry.html#ab520e20d5074b89c2db9ba1cb5bcde5e" title="SpatialIndex::IEntry::getIdentifier" alt="" coords="175,107,431,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry::getShape" alt="" coords="184,157,421,184"/>
+</map>

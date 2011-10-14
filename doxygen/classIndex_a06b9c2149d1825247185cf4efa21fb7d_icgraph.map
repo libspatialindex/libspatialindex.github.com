@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a53c19b832a39e642a5ea3fc919f8594c" title="SpatialIndex::MVRTree::Node::getChildData" alt="" coords="179,5,512,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Node.html#a53c19b832a39e642a5ea3fc919f8594c" title="SpatialIndex::RTree::Node::getChildData" alt="" coords="189,56,501,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a53c19b832a39e642a5ea3fc919f8594c" title="SpatialIndex::TPRTree::Node::getChildData" alt="" coords="181,107,509,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a1c5366a576aa53da7ea7b8ae66ade40b" title="SpatialIndex::MVRTree::Node::getChildIdentifier" alt="" coords="164,157,527,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a1c5366a576aa53da7ea7b8ae66ade40b" title="SpatialIndex::TPRTree::Node::getChildIdentifier" alt="" coords="165,208,525,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Node.html#a1c5366a576aa53da7ea7b8ae66ade40b" title="SpatialIndex::RTree::Node::getChildIdentifier" alt="" coords="175,259,516,285"/>
+<area shape="rect" href="$sidx__api_8cc.html#a4c542240e87a27567e997937d67a15ea" title="Index_DeleteData" alt="" coords="271,309,420,336"/>
+<area shape="rect" href="$sidx__api_8cc.html#ae260361690c8e591a7473ad2942a57c7" title="Index_GetBounds" alt="" coords="272,360,419,387"/>
+<area shape="rect" href="$sidx__api_8cc.html#ac6e2ffc5f50ac95fa35618ae12e7c9b9" title="Index_GetLeaves" alt="" coords="273,411,417,437"/>
+<area shape="rect" href="$sidx__api_8cc.html#ac2cbedb897e19a8992b2b9c3535007fb" title="Index_GetProperties" alt="" coords="263,461,428,488"/>
+<area shape="rect" href="$sidx__api_8cc.html#ae7e20ed613ea87c40f1c14d2e3e33e92" title="Index_InsertData" alt="" coords="275,512,416,539"/>
+<area shape="rect" href="$sidx__api_8cc.html#ab312d90fd7c749e56f0105d56b453bcb" title="Index_Intersects_count" alt="" coords="253,563,437,589"/>
+<area shape="rect" href="$sidx__api_8cc.html#abb69d6044ee77ab2a1f48b78c8787c58" title="Index_Intersects_id" alt="" coords="267,613,424,640"/>
+<area shape="rect" href="$sidx__api_8cc.html#a0a5f26bab852dae8ff6513b484b88f2e" title="Index_Intersects_obj" alt="" coords="263,664,428,691"/>
+<area shape="rect" href="$sidx__api_8cc.html#aec023f167f2e2b18c8c90f69b30d133a" title="Index_IsValid" alt="" coords="288,715,403,741"/>
+<area shape="rect" href="$sidx__api_8cc.html#a9821c357fc3fdee8cee53ae01b08491b" title="Index_NearestNeighbors_id" alt="" coords="237,765,453,792"/>
+<area shape="rect" href="$sidx__api_8cc.html#a6beca7c064a9fd4d8ef4b485b45f0f02" title="Index_NearestNeighbors_obj" alt="" coords="232,816,459,843"/>
+</map>

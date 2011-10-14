@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion::containsPointInTime" alt="" coords="437,31,800,57"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a67d1232b04f8fb1ed95ba9e69c7eabc4" title="SpatialIndex::TimeRegion::containsRegionInTime" alt="" coords="429,81,808,108"/>
+<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a468f117e0df5cdf6aff4903990acc602" title="SpatialIndex::TimeRegion::containsInterval" alt="" coords="857,56,1188,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region::containsPoint" alt="" coords="885,5,1160,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point::getCoordinate" alt="" coords="1237,5,1507,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#a5e39132d40b81d98fc792826aa3ac991" title="SpatialIndex::Region::containsRegion" alt="" coords="877,107,1168,133"/>
+</map>

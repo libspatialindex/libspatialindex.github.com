@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Node.html" title="{SpatialIndex::MVRTree::Node\n||+ ~Node()\l+ clone()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l+ getIdentifier()\l+ getShape()\l+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildShape()\l+ getChildData()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l}" alt="" coords="255,592,484,901"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Node.html" title="{SpatialIndex::RTree::Node\n||+ ~Node()\l+ clone()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l+ getIdentifier()\l+ getShape()\l+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildShape()\l+ getChildData()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l}" alt="" coords="619,592,827,901"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Node.html" title="{SpatialIndex::TPRTree::Node\n||+ ~Node()\l+ clone()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l+ getIdentifier()\l+ getShape()\l+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildShape()\l+ getChildData()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l}" alt="" coords="961,592,1185,901"/>
+<area shape="rect" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="544,164,704,281"/>
+<area shape="rect" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="565,5,683,107"/>
+<area shape="rect" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="728,155,915,291"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Index.html" title="{SpatialIndex::MVRTree::Index\n||+ ~Index()\l}" alt="" coords="5,1020,235,1103"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Leaf.html" title="{SpatialIndex::MVRTree::Leaf\n||+ ~Leaf()\l}" alt="" coords="259,1020,480,1103"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html" title="{SpatialIndex::RTree::Index\n||+ ~Index()\l# Index()\l# chooseSubtree()\l# findLeaf()\l# split()\l# findLeastEnlargement()\l# findLeastOverlap()\l# adjustTree()\l# adjustTree()\l}" alt="" coords="504,951,712,1172"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Leaf.html" title="{SpatialIndex::RTree::Leaf\n||+ ~Leaf()\l# Leaf()\l# chooseSubtree()\l# findLeaf()\l# split()\l# deleteData()\l}" alt="" coords="736,976,936,1147"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Index.html" title="{SpatialIndex::TPRTree::Index\n||+ ~Index()\l}" alt="" coords="960,1020,1187,1103"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Leaf.html" title="{SpatialIndex::TPRTree::Leaf\n||+ ~Leaf()\l}" alt="" coords="1211,1020,1429,1103"/>
+</map>

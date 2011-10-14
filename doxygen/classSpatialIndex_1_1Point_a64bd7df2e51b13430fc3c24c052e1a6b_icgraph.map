@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#af4f3848257185e7270e601555f569296" title="SpatialIndex::Region::getCenter" alt="" coords="375,5,625,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1MovingPoint.html#ace19293b6a47d8b7716571278d89188d" title="SpatialIndex::MovingPoint::getPointAtTime" alt="" coords="336,56,664,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html#a601870dda0ec93ae400802df1bf3f27a" title="SpatialIndex::Point::loadFromByteArray" alt="" coords="349,107,651,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html#a1d240017c594f19d5d4f0442bdb08415" title="SpatialIndex::Point::makeInfinite" alt="" coords="372,157,628,184"/>
+<area shape="rect" href="$classSpatialIndex_1_1Point.html#a38ec052f1f90418e9266a1fecf8f9e6e" title="SpatialIndex::Point::operator=" alt="" coords="381,208,619,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="313,5,441,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#a3b8510ddee18c733b054d89cc2ef62cc" title="SpatialIndex::Region::getHigh" alt="" coords="260,56,495,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1ISpatialIndex.html#ade261fa2a6e3fdbe4d35248e1554a7c6" title="SpatialIndex::ISpatialIndex::getIndexProperties" alt="" coords="199,107,556,133"/>
+<area shape="rect" href="$classSpatialIndex_1_1Region.html#a985fb4af76e4f4f877edc6d8203e69d3" title="SpatialIndex::Region::getLow" alt="" coords="263,157,492,184"/>
+<area shape="rect" href="$classTools_1_1PropertySet.html#af52a54aa685abdf26d27028d355c8d8d" title="Tools::PropertySet::getProperty" alt="" coords="256,208,499,235"/>
+<area shape="rect" href="$classLeafQuery.html#a668ca24366cdbdb33c079464e07c6081" title="LeafQuery::GetResults" alt="" coords="287,259,468,285"/>
+<area shape="rect" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="323,309,432,336"/>
+<area shape="rect" href="$classSpatialIndex_1_1ISpatialIndex.html#ae64c44f0cea9595df25167e36c69cc2e" title="SpatialIndex::ISpatialIndex::queryStrategy" alt="" coords="215,360,540,387"/>
+<area shape="rect" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="288,411,467,437"/>
+</map>

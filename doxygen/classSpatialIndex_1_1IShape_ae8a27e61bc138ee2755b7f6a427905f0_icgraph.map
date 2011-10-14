@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree::TPRTree::deleteData" alt="" coords="293,5,627,32"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a0b701f1ca5feafd33cc60cdba5b1948e" title="SpatialIndex::RTree::RTree::deleteData" alt="" coords="311,56,609,83"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ad578cff2d278eb7fcec85a7214858efa" title="SpatialIndex::MVRTree::MVRTree::deleteData" alt="" coords="289,107,631,133"/>
+<area shape="rect" href="$classBoundsQuery.html#abc723beb3706431cf0c483b671b90279" title="BoundsQuery::getNextEntry" alt="" coords="351,157,569,184"/>
+<area shape="rect" href="$sidx__api_8cc.html#a2026f36055eca6ff93a973027418fff0" title="IndexItem_GetBounds" alt="" coords="371,208,549,235"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2c2329b9b84d0f94aee49391fd045d33" title="SpatialIndex::TPRTree::TPRTree::insertData" alt="" coords="296,259,624,285"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a429e53e3070b392e3ce5d32bb9a05729" title="SpatialIndex::RTree::RTree::insertData" alt="" coords="313,309,607,336"/>
+<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#af48c636f6579d0786baac87e6ae87630" title="SpatialIndex::MVRTree::MVRTree::insertData" alt="" coords="292,360,628,387"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#af4ce374c455134382268f4451efdbae3" title="SpatialIndex::RTree::RTree::selfJoinQuery" alt="" coords="303,411,617,437"/>
+</map>

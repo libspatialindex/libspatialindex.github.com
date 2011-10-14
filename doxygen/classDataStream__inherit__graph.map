@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1IDataStream.html" title="{SpatialIndex::IDataStream\n||+ getNext()\l+ ~IDataStream()\l}" alt="" coords="5,208,216,309"/>
+<area shape="rect" href="$classTools_1_1IObjectStream.html" title="{Tools::IObjectStream\n||+ ~IObjectStream()\l+ getNext()\l+ hasNext()\l+ size()\l+ rewind()\l}" alt="" coords="25,7,196,159"/>
+</map>

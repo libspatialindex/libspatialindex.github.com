@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3bc82a5273216dc918f5226d886cffd8" title="SpatialIndex::RTree::Index::adjustTree" alt="" coords="285,29,579,56"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree::BulkLoader::bulkLoadUsingSTR" alt="" coords="236,80,628,107"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3cedf86901fa73c4b78795e544b37873" title="SpatialIndex::RTree::Index::chooseSubtree" alt="" coords="269,131,595,157"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Leaf.html#a38a3993532d22a4f19683c0d0a334d52" title="SpatialIndex::RTree::Leaf::deleteData" alt="" coords="287,181,577,208"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a5494823de67461015c1da6ad2aa3fed0" title="SpatialIndex::RTree::Index::findLeaf" alt="" coords="293,232,571,259"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Leaf.html#af00fc71b031279629a5aca828d6e46d8" title="SpatialIndex::RTree::Leaf::split" alt="" coords="313,283,551,309"/>
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a6f5dcc9c15e00ddc9c9221487e1cd892" title="SpatialIndex::RTree::Index::split" alt="" coords="309,333,555,360"/>
+<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree::createAndBulkLoadNewRTree" alt="" coords="679,80,1060,107"/>
+<area shape="rect" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="1109,80,1219,107"/>
+</map>

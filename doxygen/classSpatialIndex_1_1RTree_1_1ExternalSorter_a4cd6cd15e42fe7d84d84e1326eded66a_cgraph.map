@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree::ExternalSorter::Record::loadFromFile" alt="" coords="361,81,793,108"/>
+<area shape="rect" href="$classTools_1_1TemporaryFile.html#a22bbd6dc8744c9c06565b717c4db8432" title="Tools::TemporaryFile::readUInt64" alt="" coords="845,5,1104,32"/>
+<area shape="rect" href="$classTools_1_1TemporaryFile.html#aee49874723fe351b0fc24bc0b78a0c8b" title="Tools::TemporaryFile::readUInt32" alt="" coords="845,56,1104,83"/>
+<area shape="rect" href="$classTools_1_1TemporaryFile.html#ad62e3d4ec6b16ab56f512835c1c6d22a" title="Tools::TemporaryFile::readDouble" alt="" coords="843,107,1107,133"/>
+<area shape="rect" href="$classTools_1_1TemporaryFile.html#ab4f368e3fd089fb869445047723ae2b0" title="Tools::TemporaryFile::readBytes" alt="" coords="849,157,1100,184"/>
+<area shape="rect" href="$classTools_1_1BufferedFileReader.html#afc920462fbd698bde88232caafcdff59" title="Tools::BufferedFileReader::readUInt64" alt="" coords="1157,5,1453,32"/>
+<area shape="rect" href="$classTools_1_1BufferedFileReader.html#a4d7d6dff2cdb870ef1c0c79cd3bd0c1c" title="Tools::BufferedFileReader::readUInt32" alt="" coords="1159,56,1452,83"/>
+<area shape="rect" href="$classTools_1_1BufferedFileReader.html#abdc2c85acb8895414e652d5e250d3756" title="Tools::BufferedFileReader::readDouble" alt="" coords="1156,107,1455,133"/>
+<area shape="rect" href="$classTools_1_1BufferedFileReader.html#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6" title="Tools::BufferedFileReader::readBytes" alt="" coords="1163,157,1448,184"/>
+</map>

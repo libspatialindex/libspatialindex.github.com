@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html" title="{SpatialIndex::StorageManager::Buffer\n|# m_capacity\l# m_bWriteThrough\l# m_pStorageManager\l# m_buffer\l# m_u64Hits\l|+ Buffer()\l+ ~Buffer()\l+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ clear()\l+ getHits()\l# addEntry()\l# removeEntry()\l}" alt="" coords="67,359,360,649"/>
+<area shape="rect" href="$classSpatialIndex_1_1IStorageManager.html" title="{SpatialIndex::IStorageManager\n||+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ ~IStorageManager()\l}" alt="" coords="91,5,336,141"/>
+<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html" title="{SpatialIndex::StorageManager::RandomEvictionsBuffer\n||+ RandomEvictionsBuffer()\l+ ~RandomEvictionsBuffer()\l+ addEntry()\l+ removeEntry()\l}" alt="" coords="5,699,421,835"/>
+</map>

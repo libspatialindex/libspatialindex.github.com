@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Index.html" title="{SpatialIndex::TPRTree::Index\n||+ ~Index()\l}" alt="" coords="5,951,232,1033"/>
+<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1Leaf.html" title="{SpatialIndex::TPRTree::Leaf\n||+ ~Leaf()\l}" alt="" coords="256,951,475,1033"/>
+<area shape="rect" href="$classSpatialIndex_1_1INode.html" title="{SpatialIndex::INode\n||+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildData()\l+ getChildShape()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l+ ~INode()\l}" alt="" coords="153,339,329,544"/>
+<area shape="rect" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="63,164,223,281"/>
+<area shape="rect" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="84,5,201,107"/>
+<area shape="rect" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="247,155,433,291"/>
+</map>
