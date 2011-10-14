@@ -1,0 +1,150 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Installation &mdash; libspatialindex 1.7.0 documentation</title>
+    
+    <link rel="stylesheet" href="_static/nature.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '1.7.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="libspatialindex 1.7.0 documentation" href="index.html" />
+    <link rel="next" title="Library Overview" href="overview.html" />
+    <link rel="prev" title="libspatialindex" href="index.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="overview.html" title="Library Overview"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="libspatialindex"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">libspatialindex 1.7.0 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="installation">
+<span id="install"></span><h1>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h1>
+<p>libspatialindex supports building and installation using a couple of
+different methods.  The primary method on unix-like systems is the
+<a class="reference external" href="http://en.wikipedia.org/wiki/GNU_build_system">Autotools</a>-style build.  Alternatively, a <a class="reference external" href="http://www.cmake.org">CMake</a>-derived build system is also
+available for building libspatialindex as of the 1.7.0 release</p>
+<div class="section" id="autotools">
+<h2>Autotools<a class="headerlink" href="#autotools" title="Permalink to this headline">¶</a></h2>
+<p>First run <cite>autogen.sh</cite> to generate the configure scripts.
+By default include files and library files will be installed in <cite>/usr/local</cite>. If
+you would like to use a different installation directory (e.g., in case
+that you do not have root access) run the configure script with
+the &#8211;prefix option:</p>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ ./configure --prefix=/home/marioh/usr</pre>
+</div>
+<p>Make the library:</p>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ make</pre>
+</div>
+<p>Install the library:</p>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ make install</pre>
+</div>
+</div>
+<div class="section" id="cmake">
+<h2>CMake<a class="headerlink" href="#cmake" title="Permalink to this headline">¶</a></h2>
+<p>The CMake scenario for building libspatialindex is also quite simple.</p>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ cmake -DCMAKE_INSTALL_PREFIX=/home/marioh/usr .</pre>
+</div>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ make</pre>
+</div>
+<div class="highlight-python"><pre>[hobu@fire libspatialindex]$ make install</pre>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Installation</a><ul>
+<li><a class="reference internal" href="#autotools">Autotools</a></li>
+<li><a class="reference internal" href="#cmake">CMake</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="index.html"
+                        title="previous chapter">libspatialindex</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="overview.html"
+                        title="next chapter">Library Overview</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/install.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" size="18" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="overview.html" title="Library Overview"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="libspatialindex"
+             >previous</a> |</li>
+        <li><a href="index.html">libspatialindex 1.7.0 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2011, Marios Hadjieleftheriou.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1pre.
+    </div>
+  </body>
+</html>
