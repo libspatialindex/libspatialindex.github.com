@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1IBuffer.html" title="{SpatialIndex::StorageManager::IBuffer\n||+ getHits()\l+ clear()\l+ ~IBuffer()\l}" alt="" coords="243,193,539,311"/>
-<area shape="rect" href="$classSpatialIndex_1_1IStorageManager.html" title="{SpatialIndex::IStorageManager\n||+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ ~IStorageManager()\l}" alt="" coords="29,5,275,141"/>
+<map id="SpatialIndex::StorageManager::Buffer" name="SpatialIndex::StorageManager::Buffer">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1StorageManager_1_1IBuffer.html" title="{SpatialIndex::StorageManager\l::IBuffer\n||+ getHits()\l+ clear()\l+ ~IBuffer()\l}" alt="" coords="189,187,389,317"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IStorageManager.html" title="{SpatialIndex::IStorageManager\n||+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ ~IStorageManager()\l}" alt="" coords="4,6,208,135"/>
 </map>

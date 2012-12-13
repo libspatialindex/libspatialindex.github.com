@@ -1,8 +1,8 @@
-<map id="G" name="G">
-<area shape="rect" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="311,5,439,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a68545f9d608ea28736f87a83310f6a6b" title="SpatialIndex::Region::getDimension" alt="" coords="235,56,515,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a3b8510ddee18c733b054d89cc2ef62cc" title="SpatialIndex::Region::getHigh" alt="" coords="257,107,492,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a985fb4af76e4f4f877edc6d8203e69d3" title="SpatialIndex::Region::getLow" alt="" coords="260,157,489,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape::getMBR" alt="" coords="259,208,491,235"/>
-<area shape="rect" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry::getShape" alt="" coords="256,259,493,285"/>
+<map id="IndexItem_GetBounds" name="IndexItem_GetBounds">
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="221,5,339,33"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a68545f9d608ea28736f87a83310f6a6b" title="SpatialIndex::Region\l::getDimension" alt="" coords="208,57,352,101"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a3b8510ddee18c733b054d89cc2ef62cc" title="SpatialIndex::Region\l::getHigh" alt="" coords="208,125,352,169"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1Region.html#a985fb4af76e4f4f877edc6d8203e69d3" title="SpatialIndex::Region\l::getLow" alt="" coords="208,193,352,237"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="208,261,352,305"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry\l::getShape" alt="" coords="212,329,348,373"/>
 </map>

@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="341,5,520,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a09fa5b6c7d13e08b499ad31b35da93c1" title="SpatialIndex::RTree::Index::Index" alt="" coords="303,56,559,83"/>
+<map id="SpatialIndex::RTree::Index::split" name="SpatialIndex::RTree::Index::split">
+<area shape="rect" id="node3" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="192,5,347,33"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1Index.html#a09fa5b6c7d13e08b499ad31b35da93c1" title="SpatialIndex::RTree\l::Index::Index" alt="" coords="200,57,339,101"/>
 </map>

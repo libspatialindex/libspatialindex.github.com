@@ -1,15 +1,15 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region::containsPoint" alt="" coords="352,107,627,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a2d1ed357191aa444aa967f0763666e23" title="SpatialIndex::Region::getMinimumDistance" alt="" coords="323,171,656,197"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#aaf882a9f4b7c8df15590580eb20625aa" title="SpatialIndex::Region::touchesPoint" alt="" coords="353,247,625,273"/>
-<area shape="rect" href="$classSpatialIndex_1_1Point.html#a3a27a967388424d4ac0666268c999bba" title="SpatialIndex::Point::intersectsShape" alt="" coords="747,5,1027,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#af6db4c705e6c03667c80c6532f17d12c" title="SpatialIndex::Region::intersectsShape" alt="" coords="740,56,1033,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#ac32d5ec8460412b954a63660a029c6ce" title="SpatialIndex::Region::containsShape" alt="" coords="744,107,1029,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion::containsPointInTime" alt="" coords="705,157,1068,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1TimePoint.html#a218819eff292f2cd30bf06999eab144c" title="SpatialIndex::TimePoint::intersectsShapeInTime" alt="" coords="1125,107,1493,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a7f1b7362f53c866a55044e79256fe0a2" title="SpatialIndex::TimeRegion::intersectsShapeInTime" alt="" coords="1119,157,1500,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#ab89d580d4c7565ff29888e62f3593d8e" title="SpatialIndex::TimeRegion::containsShapeInTime" alt="" coords="1123,208,1496,235"/>
-<area shape="rect" href="$classSpatialIndex_1_1Point.html#a29539d5b8b7464da26dc61a370286e39" title="SpatialIndex::Point::touchesShape" alt="" coords="753,208,1020,235"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#afdee976eb8373b6d599eb34979059484" title="SpatialIndex::Region::touchesShape" alt="" coords="745,259,1028,285"/>
-<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a393c4b71728239f6155bb45ed14d361a" title="SpatialIndex::TimeRegion::touchesPointInTime" alt="" coords="707,309,1067,336"/>
+<map id="SpatialIndex::Point::getCoordinate" name="SpatialIndex::Point::getCoordinate">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region\l::containsPoint" alt="" coords="192,141,336,185"/>
+<area shape="rect" id="node19" href="$classSpatialIndex_1_1Region.html#a2d1ed357191aa444aa967f0763666e23" title="SpatialIndex::Region\l::getMinimumDistance" alt="" coords="187,226,341,270"/>
+<area shape="rect" id="node21" href="$classSpatialIndex_1_1Region.html#aaf882a9f4b7c8df15590580eb20625aa" title="SpatialIndex::Region\l::touchesPoint" alt="" coords="192,327,336,371"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#a3a27a967388424d4ac0666268c999bba" title="SpatialIndex::Point\l::intersectsShape" alt="" coords="410,5,542,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#af6db4c705e6c03667c80c6532f17d12c" title="SpatialIndex::Region\l::intersectsShape" alt="" coords="404,73,548,117"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1Region.html#ac32d5ec8460412b954a63660a029c6ce" title="SpatialIndex::Region\l::containsShape" alt="" coords="404,141,548,185"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion\l::containsPointInTime" alt="" coords="389,209,563,253"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1TimePoint.html#a218819eff292f2cd30bf06999eab144c" title="SpatialIndex::TimePoint\l::intersectsShapeInTime" alt="" coords="615,141,780,185"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1TimeRegion.html#a7f1b7362f53c866a55044e79256fe0a2" title="SpatialIndex::TimeRegion\l::intersectsShapeInTime" alt="" coords="611,209,784,253"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1TimeRegion.html#ab89d580d4c7565ff29888e62f3593d8e" title="SpatialIndex::TimeRegion\l::containsShapeInTime" alt="" coords="611,277,784,321"/>
+<area shape="rect" id="node23" href="$classSpatialIndex_1_1Point.html#a29539d5b8b7464da26dc61a370286e39" title="SpatialIndex::Point\l::touchesShape" alt="" coords="410,277,542,321"/>
+<area shape="rect" id="node25" href="$classSpatialIndex_1_1Region.html#afdee976eb8373b6d599eb34979059484" title="SpatialIndex::Region\l::touchesShape" alt="" coords="404,345,548,389"/>
+<area shape="rect" id="node27" href="$classSpatialIndex_1_1TimeRegion.html#a393c4b71728239f6155bb45ed14d361a" title="SpatialIndex::TimeRegion\l::touchesPointInTime" alt="" coords="389,413,563,457"/>
 </map>

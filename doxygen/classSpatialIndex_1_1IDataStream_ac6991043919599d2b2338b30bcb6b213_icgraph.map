@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree::BulkLoader::bulkLoadUsingSTR" alt="" coords="332,5,724,32"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree::createAndBulkLoadNewRTree" alt="" coords="775,5,1156,32"/>
-<area shape="rect" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="1205,5,1315,32"/>
+<map id="SpatialIndex::IDataStream::getNext" name="SpatialIndex::IDataStream::getNext">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree\l::BulkLoader::bulkLoadUsingSTR" alt="" coords="232,5,451,49"/>
+<area shape="rect" id="node5" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree\l::createAndBulkLoadNewRTree" alt="" coords="499,5,707,49"/>
+<area shape="rect" id="node7" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="754,13,848,41"/>
 </map>

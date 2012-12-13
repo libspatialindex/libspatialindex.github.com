@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classTools_1_1TemporaryFile.html#abf2274cc88d5d232a27e1a860fdc4c5e" title="Tools::TemporaryFile::write" alt="" coords="472,5,685,32"/>
-<area shape="rect" href="$classTools_1_1BufferedFileWriter.html#a8b9a1706d68ba639956871d2f01a17a4" title="Tools::BufferedFileWriter::write" alt="" coords="733,5,973,32"/>
+<map id="SpatialIndex::RTree::ExternalSorter::Record::storeToFile" name="SpatialIndex::RTree::ExternalSorter::Record::storeToFile">
+<area shape="rect" id="node3" href="$classTools_1_1TemporaryFile.html#abf2274cc88d5d232a27e1a860fdc4c5e" title="Tools::TemporaryFile\l::write" alt="" coords="218,13,363,57"/>
+<area shape="rect" id="node5" href="$classTools_1_1BufferedFileWriter.html#a8b9a1706d68ba639956871d2f01a17a4" title="Tools::BufferedFileWriter\l::write" alt="" coords="411,13,578,57"/>
 </map>

@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$sidx__api_8cc.html#ab312d90fd7c749e56f0105d56b453bcb" title="Index_Intersects_count" alt="" coords="423,5,607,32"/>
-<area shape="rect" href="$sidx__api_8cc.html#abb69d6044ee77ab2a1f48b78c8787c58" title="Index_Intersects_id" alt="" coords="436,56,593,83"/>
-<area shape="rect" href="$sidx__api_8cc.html#a0a5f26bab852dae8ff6513b484b88f2e" title="Index_Intersects_obj" alt="" coords="432,107,597,133"/>
+<map id="SpatialIndex::ISpatialIndex::intersectsWithQuery" name="SpatialIndex::ISpatialIndex::intersectsWithQuery">
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#ab312d90fd7c749e56f0105d56b453bcb" title="Index_Intersects_count" alt="" coords="232,5,392,33"/>
+<area shape="rect" id="node5" href="$sidx__api_8cc.html#abb69d6044ee77ab2a1f48b78c8787c58" title="Index_Intersects_id" alt="" coords="244,57,380,85"/>
+<area shape="rect" id="node7" href="$sidx__api_8cc.html#a0a5f26bab852dae8ff6513b484b88f2e" title="Index_Intersects_obj" alt="" coords="240,109,384,137"/>
 </map>

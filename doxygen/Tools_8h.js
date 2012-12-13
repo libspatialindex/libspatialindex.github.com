@@ -1,0 +1,57 @@
+var Tools_8h =
+[
+    [ "Exception", "classTools_1_1Exception.html", "classTools_1_1Exception" ],
+    [ "IndexOutOfBoundsException", "classTools_1_1IndexOutOfBoundsException.html", "classTools_1_1IndexOutOfBoundsException" ],
+    [ "IllegalArgumentException", "classTools_1_1IllegalArgumentException.html", "classTools_1_1IllegalArgumentException" ],
+    [ "IllegalStateException", "classTools_1_1IllegalStateException.html", "classTools_1_1IllegalStateException" ],
+    [ "EndOfStreamException", "classTools_1_1EndOfStreamException.html", "classTools_1_1EndOfStreamException" ],
+    [ "ResourceLockedException", "classTools_1_1ResourceLockedException.html", "classTools_1_1ResourceLockedException" ],
+    [ "NotSupportedException", "classTools_1_1NotSupportedException.html", "classTools_1_1NotSupportedException" ],
+    [ "IInterval", "classTools_1_1IInterval.html", "classTools_1_1IInterval" ],
+    [ "IObject", "classTools_1_1IObject.html", "classTools_1_1IObject" ],
+    [ "ISerializable", "classTools_1_1ISerializable.html", "classTools_1_1ISerializable" ],
+    [ "IComparable", "classTools_1_1IComparable.html", "classTools_1_1IComparable" ],
+    [ "IObjectComparator", "classTools_1_1IObjectComparator.html", "classTools_1_1IObjectComparator" ],
+    [ "IObjectStream", "classTools_1_1IObjectStream.html", "classTools_1_1IObjectStream" ],
+    [ "Variant", "classTools_1_1Variant.html", "classTools_1_1Variant" ],
+    [ "PropertySet", "classTools_1_1PropertySet.html", "classTools_1_1PropertySet" ],
+    [ "Interval", "classTools_1_1Interval.html", "classTools_1_1Interval" ],
+    [ "Random", "classTools_1_1Random.html", "classTools_1_1Random" ],
+    [ "BufferedFile", "classTools_1_1BufferedFile.html", "classTools_1_1BufferedFile" ],
+    [ "BufferedFileReader", "classTools_1_1BufferedFileReader.html", "classTools_1_1BufferedFileReader" ],
+    [ "BufferedFileWriter", "classTools_1_1BufferedFileWriter.html", "classTools_1_1BufferedFileWriter" ],
+    [ "TemporaryFile", "classTools_1_1TemporaryFile.html", "classTools_1_1TemporaryFile" ],
+    [ "SIDX_DLL", "Tools_8h.html#a929105974caf76123d75feba16d5f4d4", null ],
+    [ "byte", "Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94", null ],
+    [ "FileMode", "Tools_8h.html#abc82e601242ae13082c141b581d390f0", [
+      [ "APPEND", "Tools_8h.html#abc82e601242ae13082c141b581d390f0ad143d50f6db8216fb1a34f7c68c962f1", null ],
+      [ "CREATE", "Tools_8h.html#abc82e601242ae13082c141b581d390f0acf8915266505167f4811c05463de6423", null ]
+    ] ],
+    [ "IntervalType", "Tools_8h.html#a1365f7ac5c5ad368407091b72811f154", [
+      [ "IT_RIGHTOPEN", "Tools_8h.html#a1365f7ac5c5ad368407091b72811f154a47bf59bfedcabef65b9e1a8a32038a82", null ],
+      [ "IT_LEFTOPEN", "Tools_8h.html#a1365f7ac5c5ad368407091b72811f154ab9fb678c331272d7c3004d46c8e505af", null ],
+      [ "IT_OPEN", "Tools_8h.html#a1365f7ac5c5ad368407091b72811f154aeb2c5754aaef78cfe8e7c15907fb183b", null ],
+      [ "IT_CLOSED", "Tools_8h.html#a1365f7ac5c5ad368407091b72811f154acdd6a29c6a4847ad8e8015e249575c65", null ]
+    ] ],
+    [ "VariantType", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5e", [
+      [ "VT_LONG", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eaa8c9975b8289d79bcdc8543b48d3268e", null ],
+      [ "VT_BYTE", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea0c180c01b10298817f73a34c4b23ab09", null ],
+      [ "VT_SHORT", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eae1aedd1976678a3a54cfc5f0d309d239", null ],
+      [ "VT_FLOAT", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea32f9b67a6bb38df2ee33fe5adaef193c", null ],
+      [ "VT_DOUBLE", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eabdc3b89404fc3cda90c18652651ec867", null ],
+      [ "VT_CHAR", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea4bb70872423ab99979f2a8ea0379ac82", null ],
+      [ "VT_USHORT", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eaef8e1d18d412c4862c9ee975039dd0ee", null ],
+      [ "VT_ULONG", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ead03ac15a66147d532a8ac31171c61bc7", null ],
+      [ "VT_INT", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea89b2ef5e304d28e9baffc2a03cc77f19", null ],
+      [ "VT_UINT", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eacb3d8929e695dfb98e4af48582ddd357", null ],
+      [ "VT_BOOL", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea20c86456efc357edd035986ea6d669de", null ],
+      [ "VT_PCHAR", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea894a13b001a7cadfd0e2ea419e1d8e0e", null ],
+      [ "VT_PVOID", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5eaca2bc81ae72d47c77cad217dfcf8f0b8", null ],
+      [ "VT_EMPTY", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea27812ebb047d14ffce144e94262e5f3f", null ],
+      [ "VT_LONGLONG", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea5b44a6d1a8b9d7ba539f257cc3831c57", null ],
+      [ "VT_ULONGLONG", "Tools_8h.html#aebf01a8fb3de20ec1c376b20a7802c5ea13dc61459b74607f2a0f53b205dc56ce", null ]
+    ] ],
+    [ "operator<<", "Tools_8h.html#a185d9c156d1098ea272dda9425d6b179", null ],
+    [ "operator<<", "Tools_8h.html#a1d7bfde3438024227ce6be613f61da7a", null ],
+    [ "PropertySet", "Tools_8h.html#a1f3763ad390b952b08533d6915df7d9c", null ]
+];

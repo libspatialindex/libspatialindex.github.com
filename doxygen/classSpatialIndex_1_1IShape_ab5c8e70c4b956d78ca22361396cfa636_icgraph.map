@@ -1,18 +1,18 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2868727cd027066c2bda8abb45fb0ffc" title="SpatialIndex::TPRTree::TPRTree::containsWhatQuery" alt="" coords="349,5,744,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ab5000400cecbb92cb199dd1802323ce8" title="SpatialIndex::RTree::RTree::containsWhatQuery" alt="" coords="367,56,727,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#aad08241ab674ff4928313a7d673eb0a4" title="SpatialIndex::MVRTree::MVRTree::containsWhatQuery" alt="" coords="345,107,748,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree::TPRTree::deleteData" alt="" coords="380,157,713,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a0b701f1ca5feafd33cc60cdba5b1948e" title="SpatialIndex::RTree::RTree::deleteData" alt="" coords="397,208,696,235"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ad578cff2d278eb7fcec85a7214858efa" title="SpatialIndex::MVRTree::MVRTree::deleteData" alt="" coords="376,259,717,285"/>
-<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2c2329b9b84d0f94aee49391fd045d33" title="SpatialIndex::TPRTree::TPRTree::insertData" alt="" coords="383,309,711,336"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a429e53e3070b392e3ce5d32bb9a05729" title="SpatialIndex::RTree::RTree::insertData" alt="" coords="400,360,693,387"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#af48c636f6579d0786baac87e6ae87630" title="SpatialIndex::MVRTree::MVRTree::insertData" alt="" coords="379,411,715,437"/>
-<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a4688389e57ce702c1147f40b7676e00e" title="SpatialIndex::TPRTree::TPRTree::intersectsWithQuery" alt="" coords="348,461,745,488"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#aea487c121129bcc6bd31c7808dff80c2" title="SpatialIndex::RTree::RTree::intersectsWithQuery" alt="" coords="365,512,728,539"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#afd72e7b6aea173d991e574d19555f2f7" title="SpatialIndex::MVRTree::MVRTree::intersectsWithQuery" alt="" coords="344,563,749,589"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ae9beb51eca15b6d96dbef2c399a21c5c" title="SpatialIndex::RTree::RTree::nearestNeighborQuery" alt="" coords="355,613,739,640"/>
-<area shape="rect" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#acf778ec884cc50f97abdb4bcb4d7aa27" title="SpatialIndex::TPRTree::TPRTree::nearestNeighborQuery" alt="" coords="337,664,756,691"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a62fe8962497280f228b64e940681dc9f" title="SpatialIndex::MVRTree::MVRTree::nearestNeighborQuery" alt="" coords="333,715,760,741"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1RTree.html#af4ce374c455134382268f4451efdbae3" title="SpatialIndex::RTree::RTree::selfJoinQuery" alt="" coords="389,765,704,792"/>
+<map id="SpatialIndex::IShape::getDimension" name="SpatialIndex::IShape::getDimension">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2868727cd027066c2bda8abb45fb0ffc" title="SpatialIndex::TPRTree\l::TPRTree::containsWhatQuery" alt="" coords="209,5,415,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ab5000400cecbb92cb199dd1802323ce8" title="SpatialIndex::RTree\l::RTree::containsWhatQuery" alt="" coords="217,73,407,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#aad08241ab674ff4928313a7d673eb0a4" title="SpatialIndex::MVRTree\l::MVRTree::containsWhatQuery" alt="" coords="207,141,417,185"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree\l::TPRTree::deleteData" alt="" coords="234,209,390,253"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a0b701f1ca5feafd33cc60cdba5b1948e" title="SpatialIndex::RTree\l::RTree::deleteData" alt="" coords="243,277,381,321"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ad578cff2d278eb7fcec85a7214858efa" title="SpatialIndex::MVRTree\l::MVRTree::deleteData" alt="" coords="233,345,391,389"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2c2329b9b84d0f94aee49391fd045d33" title="SpatialIndex::TPRTree\l::TPRTree::insertData" alt="" coords="234,413,390,457"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a429e53e3070b392e3ce5d32bb9a05729" title="SpatialIndex::RTree\l::RTree::insertData" alt="" coords="243,481,381,525"/>
+<area shape="rect" id="node19" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#af48c636f6579d0786baac87e6ae87630" title="SpatialIndex::MVRTree\l::MVRTree::insertData" alt="" coords="233,549,391,593"/>
+<area shape="rect" id="node21" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a4688389e57ce702c1147f40b7676e00e" title="SpatialIndex::TPRTree\l::TPRTree::intersectsWithQuery" alt="" coords="207,617,417,661"/>
+<area shape="rect" id="node23" href="$classSpatialIndex_1_1RTree_1_1RTree.html#aea487c121129bcc6bd31c7808dff80c2" title="SpatialIndex::RTree\l::RTree::intersectsWithQuery" alt="" coords="216,685,408,729"/>
+<area shape="rect" id="node25" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#afd72e7b6aea173d991e574d19555f2f7" title="SpatialIndex::MVRTree\l::MVRTree::intersectsWithQuery" alt="" coords="206,753,418,797"/>
+<area shape="rect" id="node27" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ae9beb51eca15b6d96dbef2c399a21c5c" title="SpatialIndex::RTree\l::RTree::nearestNeighborQuery" alt="" coords="208,821,416,865"/>
+<area shape="rect" id="node29" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#acf778ec884cc50f97abdb4bcb4d7aa27" title="SpatialIndex::TPRTree\l::TPRTree::nearestNeighborQuery" alt="" coords="200,889,424,933"/>
+<area shape="rect" id="node31" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a62fe8962497280f228b64e940681dc9f" title="SpatialIndex::MVRTree\l::MVRTree::nearestNeighborQuery" alt="" coords="198,957,426,1001"/>
+<area shape="rect" id="node33" href="$classSpatialIndex_1_1RTree_1_1RTree.html#af4ce374c455134382268f4451efdbae3" title="SpatialIndex::RTree\l::RTree::selfJoinQuery" alt="" coords="235,1025,389,1069"/>
 </map>

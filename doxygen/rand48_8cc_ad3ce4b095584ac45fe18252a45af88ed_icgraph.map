@@ -1,6 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="$rand48_8cc.html#a80c373c063eed771e86106e33fb1ede0" title="drand48" alt="" coords="235,5,317,32"/>
-<area shape="rect" href="$classTools_1_1Random.html#a0edd329ce5a5ed177734c40b53d0848d" title="Tools::Random::nextUniformDouble" alt="" coords="137,56,415,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a7c76ee54a5d4ffefb4a6a054fd1348f1" title="SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry" alt="" coords="464,5,981,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a1d502dfc8607ed6766a1f3d31a0cc2f7" title="SpatialIndex::StorageManager::RandomEvictionsBuffer::addEntry" alt="" coords="1031,5,1519,32"/>
+<map id="erand48" name="erand48">
+<area shape="rect" id="node3" href="$rand48_8cc.html#a80c373c063eed771e86106e33fb1ede0" title="drand48" alt="" coords="185,21,255,49"/>
+<area shape="rect" id="node9" href="$classTools_1_1Random.html#a0edd329ce5a5ed177734c40b53d0848d" title="Tools::Random::nextUniform\lDouble" alt="" coords="125,73,315,117"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a7c76ee54a5d4ffefb4a6a054fd1348f1" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\lremoveEntry" alt="" coords="363,5,565,65"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a1d502dfc8607ed6766a1f3d31a0cc2f7" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\laddEntry" alt="" coords="614,5,815,65"/>
 </map>

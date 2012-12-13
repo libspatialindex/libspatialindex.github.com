@@ -1,6 +1,7 @@
-<map id="G" name="G">
-<area shape="rect" href="$mvrtree_2Index_8cc.html" title="Index.cc" alt="" coords="5,84,85,111"/>
-<area shape="rect" href="$mvrtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="109,84,181,111"/>
-<area shape="rect" href="$MVRTree_8cc.html" title="MVRTree.cc" alt="" coords="205,84,309,111"/>
-<area shape="rect" href="$mvrtree_2Node_8cc.html" title="Node.cc" alt="" coords="333,84,413,111"/>
+<map id="MVRTree.h" name="MVRTree.h">
+<area shape="rect" id="node3" href="$mvrtree_2Index_8cc.html" title="Index.cc" alt="" coords="5,83,75,111"/>
+<area shape="rect" id="node5" href="$mvrtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="100,83,164,111"/>
+<area shape="rect" id="node7" href="$MVRTree_8cc.html" title="MVRTree.cc" alt="" coords="189,83,283,111"/>
+<area shape="rect" id="node9" href="$mvrtree_2Node_8cc.html" title="Node.cc" alt="" coords="308,83,377,111"/>
+<area shape="rect" id="node11" href="$SpatialIndexImpl_8cc.html" title="SpatialIndexImpl.cc" alt="" coords="402,83,539,111"/>
 </map>

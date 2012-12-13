@@ -1,6 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree::createNewRTree" alt="" coords="309,5,597,32"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#a0ce5fb856fcc82f5e98a6737ab7890dc" title="SpatialIndex::RTree::loadRTree" alt="" coords="332,56,575,83"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree::createAndBulkLoadNewRTree" alt="" coords="647,5,1028,32"/>
-<area shape="rect" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="1077,5,1187,32"/>
+<map id="SpatialIndex::RTree::returnRTree" name="SpatialIndex::RTree::returnRTree">
+<area shape="rect" id="node3" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree\l::createNewRTree" alt="" coords="192,5,331,49"/>
+<area shape="rect" id="node9" href="$namespaceSpatialIndex_1_1RTree.html#a0ce5fb856fcc82f5e98a6737ab7890dc" title="SpatialIndex::RTree\l::loadRTree" alt="" coords="192,73,331,117"/>
+<area shape="rect" id="node5" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree\l::createAndBulkLoadNewRTree" alt="" coords="379,5,587,49"/>
+<area shape="rect" id="node7" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="634,13,728,41"/>
 </map>

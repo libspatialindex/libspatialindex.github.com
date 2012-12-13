@@ -1,6 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IVisitor.html" title="SpatialIndex::IVisitor" alt="" coords="5,56,173,83"/>
-<area shape="rect" href="$classCountVisitor.html" title="CountVisitor" alt="" coords="221,5,331,32"/>
-<area shape="rect" href="$classIdVisitor.html" title="IdVisitor" alt="" coords="237,56,315,83"/>
-<area shape="rect" href="$classObjVisitor.html" title="ObjVisitor" alt="" coords="231,107,321,133"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSpatialIndex_1_1IVisitor.html" title="SpatialIndex::IVisitor" alt="" coords="6,57,149,85"/>
+<area shape="rect" id="node3" href="$classCountVisitor.html" title="CountVisitor" alt="" coords="197,5,291,33"/>
+<area shape="rect" id="node5" href="$classIdVisitor.html" title="IdVisitor" alt="" coords="209,57,279,85"/>
+<area shape="rect" id="node7" href="$classObjVisitor.html" title="ObjVisitor" alt="" coords="205,109,283,137"/>
 </map>

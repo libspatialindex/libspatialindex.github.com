@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree::createAndBulkLoadNewRTree" alt="" coords="343,5,724,32"/>
-<area shape="rect" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="773,5,883,32"/>
+<map id="SpatialIndex::RTree::createNewRTree" name="SpatialIndex::RTree::createNewRTree">
+<area shape="rect" id="node3" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree\l::createAndBulkLoadNewRTree" alt="" coords="192,5,400,49"/>
+<area shape="rect" id="node5" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="448,13,542,41"/>
 </map>

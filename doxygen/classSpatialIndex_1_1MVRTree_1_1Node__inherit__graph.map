@@ -1,8 +1,8 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Index.html" title="{SpatialIndex::MVRTree::Index\n||+ ~Index()\l}" alt="" coords="5,951,235,1033"/>
-<area shape="rect" href="$classSpatialIndex_1_1MVRTree_1_1Leaf.html" title="{SpatialIndex::MVRTree::Leaf\n||+ ~Leaf()\l}" alt="" coords="259,951,480,1033"/>
-<area shape="rect" href="$classSpatialIndex_1_1INode.html" title="{SpatialIndex::INode\n||+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildData()\l+ getChildShape()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l+ ~INode()\l}" alt="" coords="156,339,332,544"/>
-<area shape="rect" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="65,164,225,281"/>
-<area shape="rect" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="87,5,204,107"/>
-<area shape="rect" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="249,155,436,291"/>
+<map id="SpatialIndex::MVRTree::Node" name="SpatialIndex::MVRTree::Node">
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1MVRTree_1_1Index.html" title="{SpatialIndex::MVRTree\l::Index\n||+ ~Index()\l}" alt="" coords="5,929,163,1026"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1MVRTree_1_1Leaf.html" title="{SpatialIndex::MVRTree\l::Leaf\n||+ ~Leaf()\l}" alt="" coords="187,929,345,1026"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1INode.html" title="{SpatialIndex::INode\n||+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildData()\l+ getChildShape()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l+ ~INode()\l}" alt="" coords="102,331,247,525"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="21,161,157,274"/>
+<area shape="rect" id="node6" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="38,6,140,103"/>
+<area shape="rect" id="node8" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="182,153,337,282"/>
 </map>

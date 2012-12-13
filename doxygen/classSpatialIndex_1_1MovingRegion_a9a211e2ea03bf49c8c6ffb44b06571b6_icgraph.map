@@ -1,8 +1,8 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#ac4af3502c01f7ce0b378b823f8908c25" title="SpatialIndex::MovingRegion::combineRegionAfterTime" alt="" coords="436,5,852,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#a1a041e29c79a16e475238a921d055f7d" title="SpatialIndex::MovingRegion::combineRegionInTime" alt="" coords="447,56,841,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#a3dfbdfdd3032bfe70df0afc70cb9ca4f" title="SpatialIndex::MovingRegion::containsRegionAtTime" alt="" coords="447,107,841,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#a3412b501501b0ef96d13ddcaf50bd4ed" title="SpatialIndex::MovingRegion::intersectsRegionAtTime" alt="" coords="443,157,845,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#a1f8173be28c8f438d6c3f8a73cacd659" title="SpatialIndex::MovingRegion::getCombinedRegionAfterTime" alt="" coords="901,5,1355,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1MovingRegion.html#a5ecd8949bd1dbd022d27fad774ac27b2" title="SpatialIndex::MovingRegion::getCombinedRegionInTime" alt="" coords="912,56,1344,83"/>
+<map id="SpatialIndex::MovingRegion::getExtrapolatedHigh" name="SpatialIndex::MovingRegion::getExtrapolatedHigh">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingRegion.html#ac4af3502c01f7ce0b378b823f8908c25" title="SpatialIndex::MovingRegion\l::combineRegionAfterTime" alt="" coords="244,5,431,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MovingRegion.html#a1a041e29c79a16e475238a921d055f7d" title="SpatialIndex::MovingRegion\l::combineRegionInTime" alt="" coords="244,73,431,117"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1MovingRegion.html#a3dfbdfdd3032bfe70df0afc70cb9ca4f" title="SpatialIndex::MovingRegion\l::containsRegionAtTime" alt="" coords="244,141,431,185"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1MovingRegion.html#a3412b501501b0ef96d13ddcaf50bd4ed" title="SpatialIndex::MovingRegion\l::intersectsRegionAtTime" alt="" coords="244,209,431,253"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MovingRegion.html#a1f8173be28c8f438d6c3f8a73cacd659" title="SpatialIndex::MovingRegion\l::getCombinedRegionAfterTime" alt="" coords="480,5,688,49"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1MovingRegion.html#a5ecd8949bd1dbd022d27fad774ac27b2" title="SpatialIndex::MovingRegion\l::getCombinedRegionInTime" alt="" coords="489,73,679,117"/>
 </map>

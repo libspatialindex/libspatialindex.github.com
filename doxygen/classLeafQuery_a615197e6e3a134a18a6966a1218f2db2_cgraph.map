@@ -1,9 +1,9 @@
-<map id="G" name="G">
-<area shape="rect" href="$LeafQuery_8cc.html#add4e392bdee1b4e8450142ea1215748e" title="get_results" alt="" coords="321,93,420,120"/>
-<area shape="rect" href="$classSpatialIndex_1_1INode.html#a4e59f8ffd236c347423076f407709271" title="SpatialIndex::INode::getChildIdentifier" alt="" coords="539,5,835,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1INode.html#a03e2aafc4fc90693478f6779755ed77d" title="SpatialIndex::INode::getChildrenCount" alt="" coords="537,157,836,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1INode.html#a26558bce3c087eaa71cf0defa5ede3e1" title="SpatialIndex::INode::getLevel" alt="" coords="255,195,487,221"/>
-<area shape="rect" href="$classSpatialIndex_1_1INode.html#addaadacc564cda29effe09344f093882" title="SpatialIndex::INode::isLeaf" alt="" coords="264,245,477,272"/>
-<area shape="rect" href="$classSpatialIndex_1_1IEntry.html#ab520e20d5074b89c2db9ba1cb5bcde5e" title="SpatialIndex::IEntry::getIdentifier" alt="" coords="559,56,815,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry::getShape" alt="" coords="568,107,805,133"/>
+<map id="LeafQuery::getNextEntry" name="LeafQuery::getNextEntry">
+<area shape="rect" id="node3" href="$LeafQuery_8cc.html#add4e392bdee1b4e8450142ea1215748e" title="get_results" alt="" coords="247,114,334,142"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1INode.html#a4e59f8ffd236c347423076f407709271" title="SpatialIndex::INode\l::getChildIdentifier" alt="" coords="408,5,546,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1INode.html#a03e2aafc4fc90693478f6779755ed77d" title="SpatialIndex::INode\l::getChildrenCount" alt="" coords="408,209,546,253"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1INode.html#a26558bce3c087eaa71cf0defa5ede3e1" title="SpatialIndex::INode\l::getLevel" alt="" coords="222,218,360,262"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1INode.html#addaadacc564cda29effe09344f093882" title="SpatialIndex::INode\l::isLeaf" alt="" coords="222,286,360,330"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1IEntry.html#ab520e20d5074b89c2db9ba1cb5bcde5e" title="SpatialIndex::IEntry\l::getIdentifier" alt="" coords="409,73,546,117"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry\l::getShape" alt="" coords="409,141,546,185"/>
 </map>

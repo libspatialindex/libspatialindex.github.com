@@ -1,8 +1,12 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#af16987358e2b9bc587826f944af48d29" title="SpatialIndex::RTree::Index::findLeastEnlargement" alt="" coords="383,5,759,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a9c7d11c3a3b293fa8836d2c274a4e98b" title="SpatialIndex::RTree::Index::findLeastOverlap" alt="" coords="400,56,741,83"/>
-<area shape="rect" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="481,107,660,133"/>
-<area shape="rect" href="$classTools_1_1PoolPointer.html#a1271c75568f77d3fdf6da28a7f17d1c6" title="Tools::PoolPointer::relinquish" alt="" coords="457,157,684,184"/>
-<area shape="rect" href="$classTools_1_1PoolPointer.html#af0053e9941177ddc3b887714c9a2a2a5" title="Tools::PoolPointer::unique" alt="" coords="468,208,673,235"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index_1_1OverlapEntry.html#adf0d7a3ff6f2bfac932fffd9991c5e53" title="SpatialIndex::RTree::Index::OverlapEntry::compareEntries" alt="" coords="808,56,1240,83"/>
+<map id="SpatialIndex::RTree::Index::chooseSubtree" name="SpatialIndex::RTree::Index::chooseSubtree">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Index.html#af16987358e2b9bc587826f944af48d29" title="SpatialIndex::RTree\l::Index::findLeastEnlargement" alt="" coords="214,38,413,82"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1RTree_1_1Index.html#a9c7d11c3a3b293fa8836d2c274a4e98b" title="SpatialIndex::RTree\l::Index::findLeastOverlap" alt="" coords="229,106,398,150"/>
+<area shape="rect" id="node19" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="236,174,391,202"/>
+<area shape="rect" id="node21" href="$classTools_1_1PoolPointer.html#a1271c75568f77d3fdf6da28a7f17d1c6" title="Tools::PoolPointer\l::relinquish" alt="" coords="249,226,378,270"/>
+<area shape="rect" id="node23" href="$classTools_1_1PoolPointer.html#af0053e9941177ddc3b887714c9a2a2a5" title="Tools::PoolPointer\l::unique" alt="" coords="249,294,378,338"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a03838be9c062a1e707f42ba5039a0d18" title="SpatialIndex::Region\l::getCombinedRegion" alt="" coords="462,5,612,49"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1Region.html#aa4c13903918593f4c5b533eb9553595c" title="SpatialIndex::Region\l::getArea" alt="" coords="465,73,610,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a6f53e6ef6895c95442c3d30736dccb53" title="SpatialIndex::Region\l::combineRegion" alt="" coords="661,5,806,49"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1RTree_1_1Index_1_1OverlapEntry.html#adf0d7a3ff6f2bfac932fffd9991c5e53" title="SpatialIndex::RTree\l::Index::OverlapEntry\l::compareEntries" alt="" coords="464,141,611,201"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1Region.html#af0d08295c204792a0c61f474cacdd063" title="SpatialIndex::Region\l::getIntersectingArea" alt="" coords="465,225,610,269"/>
 </map>

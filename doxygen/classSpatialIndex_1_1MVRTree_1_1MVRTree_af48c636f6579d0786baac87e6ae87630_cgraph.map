@@ -1,5 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape::getDimension" alt="" coords="389,5,669,32"/>
-<area shape="rect" href="$classTools_1_1IInterval.html#ac6f407bcb5bf762f22f96b3b9def7a8c" title="Tools::IInterval::getLowerBound" alt="" coords="407,56,652,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape::getMBR" alt="" coords="413,107,645,133"/>
+<map id="SpatialIndex::MVRTree::MVRTree::insertData" name="SpatialIndex::MVRTree::MVRTree::insertData">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="228,5,372,49"/>
+<area shape="rect" id="node5" href="$classTools_1_1IInterval.html#ac6f407bcb5bf762f22f96b3b9def7a8c" title="Tools::IInterval::getLower\lBound" alt="" coords="215,73,385,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="228,141,372,185"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1TimeRegion.html#a4fb4273be7bc6b3f7da7993fdaa955e8" title="SpatialIndex::TimeRegion\l::makeDimension" alt="" coords="213,209,387,253"/>
 </map>

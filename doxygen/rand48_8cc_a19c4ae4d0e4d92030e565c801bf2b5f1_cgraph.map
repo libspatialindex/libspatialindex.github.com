@@ -1,3 +1,3 @@
-<map id="G" name="G">
-<area shape="rect" href="$rand48_8cc.html#ab6df33da1716950e8c52351565dbb046" title="_dorand48" alt="" coords="131,5,229,32"/>
+<map id="lrand48" name="lrand48">
+<area shape="rect" id="node3" href="$rand48_8cc.html#ab6df33da1716950e8c52351565dbb046" title="_dorand48" alt="" coords="120,5,205,33"/>
 </map>

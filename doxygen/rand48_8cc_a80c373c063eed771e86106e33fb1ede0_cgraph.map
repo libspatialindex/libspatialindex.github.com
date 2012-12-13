@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$rand48_8h.html#ad3ce4b095584ac45fe18252a45af88ed" title="erand48" alt="" coords="136,5,219,32"/>
-<area shape="rect" href="$rand48_8cc.html#ab6df33da1716950e8c52351565dbb046" title="_dorand48" alt="" coords="267,5,365,32"/>
+<map id="drand48" name="drand48">
+<area shape="rect" id="node3" href="$rand48_8h.html#ad3ce4b095584ac45fe18252a45af88ed" title="erand48" alt="" coords="126,5,196,33"/>
+<area shape="rect" id="node5" href="$rand48_8cc.html#ab6df33da1716950e8c52351565dbb046" title="_dorand48" alt="" coords="245,5,331,33"/>
 </map>

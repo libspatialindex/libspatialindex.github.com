@@ -1,8 +1,7 @@
-<map id="G" name="G">
-<area shape="rect" href="dir_c2b363f0799d782d12e38d8e56984ae3.html" title="tools" alt="" coords="152,172,224,220"/>
-<area shape="rect" href="dir_000003_000010.html" title="2" alt="" coords="184,168,192,176"/>
-<area shape="rect" href="dir_000003_000010.html" title="2" alt="" coords="192,145,200,162"/>
-<area shape="rect" href="dir_aa3fa3daa72502d7097eeaf77c767915.html" title="capi" alt="" coords="37,76,109,124"/>
-<area shape="rect" href="dir_ea2110104d90282d06c3c13163b1b643.html" alt="" coords="27,55,253,231"/>
-<area shape="rect" href="dir_e34c1c1e0fc9aca4caa4253e0444c067.html" title="include" alt="" coords="16,16,264,241"/>
+<map id="spatialindex" name="spatialindex">
+<area shape="rect" id="node5" href="dir_c2b363f0799d782d12e38d8e56984ae3.html" title="tools" alt="" coords="143,160,215,208"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000003_000010.html" title="2" alt="" coords="183,134,191,150"/>
+<area shape="rect" id="node4" href="dir_aa3fa3daa72502d7097eeaf77c767915.html" title="capi" alt="" coords="37,64,109,112"/>
+<area shape="rect" id="graph3" href="dir_ea2110104d90282d06c3c13163b1b643.html" alt="" coords="27,53,235,219"/>
+<area shape="rect" id="graph2" href="dir_e34c1c1e0fc9aca4caa4253e0444c067.html" title="include" alt="" coords="16,16,245,229"/>
 </map>

@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$Buffer_8cc.html" title="Buffer.cc" alt="" coords="5,84,91,111"/>
-<area shape="rect" href="$RandomEvictionsBuffer_8h.html" title="RandomEvictionsBuffer.h" alt="" coords="115,84,317,111"/>
-<area shape="rect" href="$RandomEvictionsBuffer_8cc.html" title="RandomEvictionsBuffer.cc" alt="" coords="112,161,320,188"/>
+<map id="Buffer.h" name="Buffer.h">
+<area shape="rect" id="node3" href="$Buffer_8cc.html" title="Buffer.cc" alt="" coords="5,83,77,111"/>
+<area shape="rect" id="node5" href="$RandomEvictionsBuffer_8h.html" title="RandomEvictionsBuffer.h" alt="" coords="101,83,272,111"/>
+<area shape="rect" id="node7" href="$RandomEvictionsBuffer_8cc.html" title="RandomEvictionsBuffer.cc" alt="" coords="98,161,275,189"/>
 </map>

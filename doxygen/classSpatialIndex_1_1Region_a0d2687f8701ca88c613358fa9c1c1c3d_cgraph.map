@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#ab74cc346f4517e18eeeddee116ac0fdc" title="SpatialIndex::Region::makeInfinite" alt="" coords="393,5,663,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a7920fd18b03b6b56e1ffa89c91922e27" title="SpatialIndex::Region::makeDimension" alt="" coords="713,5,1009,32"/>
+<map id="SpatialIndex::Region::getIntersectingRegion" name="SpatialIndex::Region::getIntersectingRegion">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#ab74cc346f4517e18eeeddee116ac0fdc" title="SpatialIndex::Region\l::makeInfinite" alt="" coords="213,5,358,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a7920fd18b03b6b56e1ffa89c91922e27" title="SpatialIndex::Region\l::makeDimension" alt="" coords="405,5,550,49"/>
 </map>

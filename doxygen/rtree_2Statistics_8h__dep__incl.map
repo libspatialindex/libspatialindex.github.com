@@ -1,8 +1,10 @@
-<map id="G" name="G">
-<area shape="rect" href="$src_2rtree_2RTree_8h.html" title="RTree.h" alt="" coords="255,84,329,111"/>
-<area shape="rect" href="$BulkLoader_8cc.html" title="BulkLoader.cc" alt="" coords="5,161,128,188"/>
-<area shape="rect" href="$rtree_2Index_8cc.html" title="Index.cc" alt="" coords="152,161,232,188"/>
-<area shape="rect" href="$rtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="256,161,328,188"/>
-<area shape="rect" href="$rtree_2Node_8cc.html" title="Node.cc" alt="" coords="352,161,432,188"/>
-<area shape="rect" href="$RTree_8cc.html" title="RTree.cc" alt="" coords="456,161,539,188"/>
+<map id="Statistics.h" name="Statistics.h">
+<area shape="rect" id="node3" href="$src_2rtree_2RTree_8h.html" title="RTree.h" alt="" coords="272,83,340,111"/>
+<area shape="rect" id="node17" href="$rtree_2Statistics_8cc.html" title="Statistics.cc" alt="" coords="365,83,456,111"/>
+<area shape="rect" id="node5" href="$BulkLoader_8cc.html" title="BulkLoader.cc" alt="" coords="5,161,109,189"/>
+<area shape="rect" id="node7" href="$rtree_2Index_8cc.html" title="Index.cc" alt="" coords="134,161,204,189"/>
+<area shape="rect" id="node9" href="$rtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="229,161,293,189"/>
+<area shape="rect" id="node11" href="$rtree_2Node_8cc.html" title="Node.cc" alt="" coords="317,161,387,189"/>
+<area shape="rect" id="node13" href="$RTree_8cc.html" title="RTree.cc" alt="" coords="411,161,485,189"/>
+<area shape="rect" id="node15" href="$SpatialIndexImpl_8cc.html" title="SpatialIndexImpl.cc" alt="" coords="509,161,645,189"/>
 </map>

@@ -1,6 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IData.html" title="{SpatialIndex::IData\n||+ getData()\l+ ~IData()\l}" alt="" coords="7,340,164,441"/>
-<area shape="rect" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="5,156,165,273"/>
-<area shape="rect" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="27,5,144,107"/>
-<area shape="rect" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="188,323,375,459"/>
+<map id="SpatialIndex::RTree::Data" name="SpatialIndex::RTree::Data">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IData.html" title="{SpatialIndex::IData\n||+ getData()\l+ ~IData()\l}" alt="" coords="6,331,140,429"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="5,153,141,266"/>
+<area shape="rect" id="node6" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="22,6,124,103"/>
+<area shape="rect" id="node8" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="164,315,320,445"/>
 </map>

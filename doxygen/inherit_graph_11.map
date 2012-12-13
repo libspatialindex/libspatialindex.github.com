@@ -1,3 +1,8 @@
-<map id="G" name="G">
-<area shape="rect" href="$structSpatialIndex_1_1MovingRegion_1_1CrossPoint_1_1ascending.html" title="SpatialIndex::MovingRegion::CrossPoint::ascending" alt="" coords="7,5,393,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$structSpatialIndex_1_1MovingRegion_1_1CrossPoint_1_1ascending.html" title="SpatialIndex::MovingRegion\l::CrossPoint::ascending" alt="" coords="176,5,363,49"/>
+<area shape="rect" id="node5" href="$structSpatialIndex_1_1MVRTree_1_1MVRTree_1_1NNEntry_1_1greater.html" title="SpatialIndex::MVRTree\l::MVRTree::NNEntry::greater" alt="" coords="173,73,366,117"/>
+<area shape="rect" id="node7" href="$structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1PQEntry_1_1SortAscending.html" title="SpatialIndex::RTree\l::ExternalSorter::PQEntry\l::SortAscending" alt="" coords="183,141,355,201"/>
+<area shape="rect" id="node9" href="$structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record_1_1SortAscending.html" title="SpatialIndex::RTree\l::ExternalSorter::Record\l::SortAscending" alt="" coords="187,225,352,285"/>
+<area shape="rect" id="node11" href="$structSpatialIndex_1_1RTree_1_1RTree_1_1NNEntry_1_1ascending.html" title="SpatialIndex::RTree\l::RTree::NNEntry::ascending" alt="" coords="174,309,365,353"/>
+<area shape="rect" id="node13" href="$structSpatialIndex_1_1TPRTree_1_1TPRTree_1_1NNEntry_1_1ascending.html" title="SpatialIndex::TPRTree\l::TPRTree::NNEntry::ascending" alt="" coords="165,377,373,421"/>
 </map>

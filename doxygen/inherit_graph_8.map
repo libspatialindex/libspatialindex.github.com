@@ -1,9 +1,9 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IStorageManager.html" title="SpatialIndex::IStorageManager" alt="" coords="5,81,251,108"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html" title="SpatialIndex::StorageManager::CustomStorageManager" alt="" coords="300,5,727,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html" title="SpatialIndex::StorageManager::DiskStorageManager" alt="" coords="313,56,713,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1IBuffer.html" title="SpatialIndex::StorageManager::IBuffer" alt="" coords="365,107,661,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html" title="SpatialIndex::StorageManager::MemoryStorageManager" alt="" coords="299,157,728,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html" title="SpatialIndex::StorageManager::Buffer" alt="" coords="776,107,1069,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html" title="SpatialIndex::StorageManager::RandomEvictionsBuffer" alt="" coords="1119,107,1535,133"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSpatialIndex_1_1IStorageManager.html" title="SpatialIndex::IStorageManager" alt="" coords="5,115,211,143"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html" title="SpatialIndex::StorageManager\l::CustomStorageManager" alt="" coords="259,5,461,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html" title="SpatialIndex::StorageManager\l::DiskStorageManager" alt="" coords="259,73,461,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1StorageManager_1_1IBuffer.html" title="SpatialIndex::StorageManager\l::IBuffer" alt="" coords="259,141,461,185"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html" title="SpatialIndex::StorageManager\l::MemoryStorageManager" alt="" coords="259,209,461,253"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html" title="SpatialIndex::StorageManager\l::Buffer" alt="" coords="510,141,711,185"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer" alt="" coords="761,141,962,185"/>
 </map>

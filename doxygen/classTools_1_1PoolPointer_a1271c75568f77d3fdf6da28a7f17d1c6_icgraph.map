@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3cedf86901fa73c4b78795e544b37873" title="SpatialIndex::RTree::Index::chooseSubtree" alt="" coords="281,5,607,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Leaf.html#a38a3993532d22a4f19683c0d0a334d52" title="SpatialIndex::RTree::Leaf::deleteData" alt="" coords="299,56,589,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1Index.html#a5494823de67461015c1da6ad2aa3fed0" title="SpatialIndex::RTree::Index::findLeaf" alt="" coords="305,107,583,133"/>
+<map id="Tools::PoolPointer::relinquish" name="Tools::PoolPointer::relinquish">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3cedf86901fa73c4b78795e544b37873" title="SpatialIndex::RTree\l::Index::chooseSubtree" alt="" coords="185,5,343,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1Leaf.html#a38a3993532d22a4f19683c0d0a334d52" title="SpatialIndex::RTree\l::Leaf::deleteData" alt="" coords="195,73,333,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1RTree_1_1Index.html#a5494823de67461015c1da6ad2aa3fed0" title="SpatialIndex::RTree\l::Index::findLeaf" alt="" coords="195,141,333,185"/>
 </map>

@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region::containsPoint" alt="" coords="335,5,609,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point::getCoordinate" alt="" coords="659,5,928,32"/>
+<map id="SpatialIndex::Point::intersectsShape" name="SpatialIndex::Point::intersectsShape">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region\l::containsPoint" alt="" coords="186,5,331,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="379,5,512,49"/>
 </map>

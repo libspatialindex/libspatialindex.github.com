@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$namespaceSpatialIndex_1_1StorageManager.html#ad2dc60983fe20d58f924bfc56a96921b" title="SpatialIndex::StorageManager::createNewDiskStorageManager" alt="" coords="499,5,976,32"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1StorageManager.html#acbac8d4b658e83a227305888be7ee967" title="SpatialIndex::StorageManager::loadDiskStorageManager" alt="" coords="521,56,953,83"/>
+<map id="SpatialIndex::StorageManager::returnDiskStorageManager" name="SpatialIndex::StorageManager::returnDiskStorageManager">
+<area shape="rect" id="node3" href="$namespaceSpatialIndex_1_1StorageManager.html#ad2dc60983fe20d58f924bfc56a96921b" title="SpatialIndex::StorageManager\l::createNewDiskStorageManager" alt="" coords="256,5,474,49"/>
+<area shape="rect" id="node5" href="$namespaceSpatialIndex_1_1StorageManager.html#acbac8d4b658e83a227305888be7ee967" title="SpatialIndex::StorageManager\l::loadDiskStorageManager" alt="" coords="265,73,466,117"/>
 </map>

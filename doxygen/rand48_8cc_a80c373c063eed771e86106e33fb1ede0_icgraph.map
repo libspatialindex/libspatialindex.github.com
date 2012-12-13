@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a7c76ee54a5d4ffefb4a6a054fd1348f1" title="SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry" alt="" coords="136,5,653,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a1d502dfc8607ed6766a1f3d31a0cc2f7" title="SpatialIndex::StorageManager::RandomEvictionsBuffer::addEntry" alt="" coords="703,5,1191,32"/>
+<map id="drand48" name="drand48">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a7c76ee54a5d4ffefb4a6a054fd1348f1" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\lremoveEntry" alt="" coords="126,5,327,65"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a1d502dfc8607ed6766a1f3d31a0cc2f7" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\laddEntry" alt="" coords="377,5,578,65"/>
 </map>

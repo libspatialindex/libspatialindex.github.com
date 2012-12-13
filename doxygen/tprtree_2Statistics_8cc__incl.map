@@ -1,15 +1,19 @@
-<map id="G" name="G">
-<area shape="rect" href="$SpatialIndex_8h.html" title="spatialindex/SpatialIndex.h" alt="" coords="1400,84,1616,111"/>
-<area shape="rect" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="829,239,939,265"/>
-<area shape="rect" href="$Point_8h.html" title="Point.h" alt="" coords="885,161,955,188"/>
-<area shape="rect" href="$Region_8h.html" title="Region.h" alt="" coords="979,161,1064,188"/>
-<area shape="rect" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="1088,161,1219,188"/>
-<area shape="rect" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="1243,161,1349,188"/>
-<area shape="rect" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="1373,161,1496,188"/>
-<area shape="rect" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="1520,161,1643,188"/>
-<area shape="rect" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="1667,161,1803,188"/>
-<area shape="rect" href="$Version_8h.html" title="Version.h" alt="" coords="2163,161,2251,188"/>
-<area shape="rect" href="$SmartPointer_8h.html" title="SmartPointer.h" alt="" coords="1392,316,1520,343"/>
-<area shape="rect" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="1544,316,1659,343"/>
-<area shape="rect" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="1544,393,1659,420"/>
+<map id="Statistics.cc" name="Statistics.cc">
+<area shape="rect" id="node3" href="$SpatialIndex_8h.html" title="spatialindex/SpatialIndex.h" alt="" coords="1259,83,1439,111"/>
+<area shape="rect" id="node68" href="$tprtree_2Statistics_8h.html" title="Statistics.h" alt="" coords="1464,83,1549,111"/>
+<area shape="rect" id="node5" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="746,238,840,266"/>
+<area shape="rect" id="node45" href="$Point_8h.html" title="Point.h" alt="" coords="797,161,859,189"/>
+<area shape="rect" id="node48" href="$Region_8h.html" title="Region.h" alt="" coords="884,161,959,189"/>
+<area shape="rect" id="node50" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="983,161,1093,189"/>
+<area shape="rect" id="node52" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="1118,161,1209,189"/>
+<area shape="rect" id="node54" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="1233,161,1336,189"/>
+<area shape="rect" id="node56" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="1362,161,1467,189"/>
+<area shape="rect" id="node58" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="1492,161,1609,189"/>
+<area shape="rect" id="node60" href="$include_2spatialindex_2RTree_8h.html" title="RTree.h" alt="" coords="1634,161,1701,189"/>
+<area shape="rect" id="node62" href="$include_2spatialindex_2MVRTree_8h.html" title="MVRTree.h" alt="" coords="1726,161,1815,189"/>
+<area shape="rect" id="node64" href="$include_2spatialindex_2TPRTree_8h.html" title="TPRTree.h" alt="" coords="1838,161,1924,189"/>
+<area shape="rect" id="node66" href="$Version_8h.html" title="Version.h" alt="" coords="1948,161,2024,189"/>
+<area shape="rect" id="node37" href="$SmartPointer_8h.html" title="SmartPointer.h" alt="" coords="1260,315,1369,343"/>
+<area shape="rect" id="node39" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="1393,315,1495,343"/>
+<area shape="rect" id="node41" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="1394,393,1493,421"/>
 </map>

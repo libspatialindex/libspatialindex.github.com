@@ -1,12 +1,28 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree::BulkLoader::bulkLoadUsingSTR" alt="" coords="439,107,831,133"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree::createNewRTree" alt="" coords="491,233,779,260"/>
-<area shape="rect" href="$classTools_1_1IObjectStream.html#a43be1565638fec0fed1cc8f6cd6c103e" title="Tools::IObjectStream::hasNext" alt="" coords="933,5,1171,32"/>
-<area shape="rect" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="963,56,1141,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1IDataStream.html#ac6991043919599d2b2338b30bcb6b213" title="SpatialIndex::IDataStream::getNext" alt="" coords="913,107,1191,133"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a48a3ad30be24a5eaf9d764e836f6861e" title="SpatialIndex::RTree::BulkLoader::createLevel" alt="" coords="880,157,1224,184"/>
-<area shape="rect" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a8d2280d9e3dd0760a9b0978034b278f8" title="SpatialIndex::RTree::BulkLoader::createNode" alt="" coords="1272,157,1616,184"/>
-<area shape="rect" href="$classTools_1_1PropertySet.html#a32a3cea3cf3b0d05ad4ff9c817d914a7" title="Tools::PropertySet::setProperty" alt="" coords="932,208,1172,235"/>
-<area shape="rect" href="$namespaceSpatialIndex_1_1RTree.html#ac0bd10176fdff7b538290ad42d1cdde6" title="SpatialIndex::RTree::returnRTree" alt="" coords="925,259,1179,285"/>
-<area shape="rect" href="$classTools_1_1PropertySet.html#af52a54aa685abdf26d27028d355c8d8d" title="Tools::PropertySet::getProperty" alt="" coords="931,309,1173,336"/>
+<map id="SpatialIndex::RTree::createAndBulkLoadNewRTree" name="SpatialIndex::RTree::createAndBulkLoadNewRTree">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree\l::BulkLoader::bulkLoadUsingSTR" alt="" coords="261,243,480,287"/>
+<area shape="rect" id="node51" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree\l::createNewRTree" alt="" coords="301,478,440,522"/>
+<area shape="rect" id="node5" href="$classTools_1_1IObjectStream.html#a43be1565638fec0fed1cc8f6cd6c103e" title="Tools::IObjectStream\l::hasNext" alt="" coords="545,153,690,197"/>
+<area shape="rect" id="node7" href="$classTools_1_1PoolPointer.html#ab4b566994f4b6cf764aa4c01342eef8b" title="Tools::PoolPointer::get" alt="" coords="540,221,695,249"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1IDataStream.html#ac6991043919599d2b2338b30bcb6b213" title="SpatialIndex::IDataStream\l::getNext" alt="" coords="529,273,706,317"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4ef2be0ea586950154e772d01cbf2432" title="SpatialIndex::RTree\l::ExternalSorter::insert" alt="" coords="783,225,937,269"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4cd6cd15e42fe7d84d84e1326eded66a" title="SpatialIndex::RTree\l::ExternalSorter::sort" alt="" coords="788,293,932,337"/>
+<area shape="rect" id="node37" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a5294df902697a174f35daf21b3e34ab0" title="SpatialIndex::RTree\l::ExternalSorter::getTotal\lEntries" alt="" coords="776,5,944,65"/>
+<area shape="rect" id="node39" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a48a3ad30be24a5eaf9d764e836f6861e" title="SpatialIndex::RTree\l::BulkLoader::createLevel" alt="" coords="531,85,704,129"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree\l::ExternalSorter::Record\l::loadFromFile" alt="" coords="1014,149,1178,209"/>
+<area shape="rect" id="node33" href="$classTools_1_1TemporaryFile.html#ac83fa914bc9bd0ab912e2875e3f700ab" title="Tools::TemporaryFile\l::rewindForReading" alt="" coords="1024,293,1168,337"/>
+<area shape="rect" id="node17" href="$classTools_1_1TemporaryFile.html#a22bbd6dc8744c9c06565b717c4db8432" title="Tools::TemporaryFile\l::readUInt64" alt="" coords="1242,157,1387,201"/>
+<area shape="rect" id="node21" href="$classTools_1_1TemporaryFile.html#aee49874723fe351b0fc24bc0b78a0c8b" title="Tools::TemporaryFile\l::readUInt32" alt="" coords="1242,225,1387,269"/>
+<area shape="rect" id="node25" href="$classTools_1_1TemporaryFile.html#ad62e3d4ec6b16ab56f512835c1c6d22a" title="Tools::TemporaryFile\l::readDouble" alt="" coords="1242,21,1387,65"/>
+<area shape="rect" id="node29" href="$classTools_1_1TemporaryFile.html#ab4f368e3fd089fb869445047723ae2b0" title="Tools::TemporaryFile\l::readBytes" alt="" coords="1242,89,1387,133"/>
+<area shape="rect" id="node19" href="$classTools_1_1BufferedFileReader.html#afc920462fbd698bde88232caafcdff59" title="Tools::BufferedFileReader\l::readUInt64" alt="" coords="1451,157,1626,201"/>
+<area shape="rect" id="node23" href="$classTools_1_1BufferedFileReader.html#a4d7d6dff2cdb870ef1c0c79cd3bd0c1c" title="Tools::BufferedFileReader\l::readUInt32" alt="" coords="1451,225,1626,269"/>
+<area shape="rect" id="node27" href="$classTools_1_1BufferedFileReader.html#abdc2c85acb8895414e652d5e250d3756" title="Tools::BufferedFileReader\l::readDouble" alt="" coords="1451,21,1626,65"/>
+<area shape="rect" id="node31" href="$classTools_1_1BufferedFileReader.html#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6" title="Tools::BufferedFileReader\l::readBytes" alt="" coords="1451,89,1626,133"/>
+<area shape="rect" id="node35" href="$classTools_1_1BufferedFileReader.html#abde1c1d89d66e70a175955bbade6f56a" title="Tools::BufferedFileReader\l::rewind" alt="" coords="1227,293,1402,337"/>
+<area shape="rect" id="node42" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree\l::ExternalSorter::getNextRecord" alt="" coords="755,89,965,133"/>
+<area shape="rect" id="node47" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a8d2280d9e3dd0760a9b0978034b278f8" title="SpatialIndex::RTree\l::BulkLoader::createNode" alt="" coords="774,157,946,201"/>
+<area shape="rect" id="node44" href="$classTools_1_1SmartPointer.html#a56d3c996c89613efe32a3636381b9e72" title="Tools::SmartPointer::get" alt="" coords="1014,97,1178,125"/>
+<area shape="rect" id="node53" href="$classTools_1_1PropertySet.html#a32a3cea3cf3b0d05ad4ff9c817d914a7" title="Tools::PropertySet\l::setProperty" alt="" coords="552,443,682,487"/>
+<area shape="rect" id="node55" href="$namespaceSpatialIndex_1_1RTree.html#ac0bd10176fdff7b538290ad42d1cdde6" title="SpatialIndex::RTree\l::returnRTree" alt="" coords="548,511,687,555"/>
+<area shape="rect" id="node57" href="$classTools_1_1PropertySet.html#af52a54aa685abdf26d27028d355c8d8d" title="Tools::PropertySet\l::getProperty" alt="" coords="552,579,682,623"/>
 </map>

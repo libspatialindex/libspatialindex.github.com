@@ -1,3 +1,3 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IStatistics.html" title="{SpatialIndex::IStatistics\n||+ getReads()\l+ getWrites()\l+ getNumberOfNodes()\l+ getNumberOfData()\l+ ~IStatistics()\l}" alt="" coords="35,7,227,159"/>
+<map id="SpatialIndex::TPRTree::Statistics" name="SpatialIndex::TPRTree::Statistics">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IStatistics.html" title="{SpatialIndex::IStatistics\n||+ getReads()\l+ getWrites()\l+ getNumberOfNodes()\l+ getNumberOfData()\l+ ~IStatistics()\l}" alt="" coords="27,6,187,151"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region::getArea" name="SpatialIndex::Region::getArea">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Index.html#af16987358e2b9bc587826f944af48d29" title="SpatialIndex::RTree\l::Index::findLeastEnlargement" alt="" coords="198,5,397,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1RTree_1_1Index.html#a9c7d11c3a3b293fa8836d2c274a4e98b" title="SpatialIndex::RTree\l::Index::findLeastOverlap" alt="" coords="213,73,382,117"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3cedf86901fa73c4b78795e544b37873" title="SpatialIndex::RTree\l::Index::chooseSubtree" alt="" coords="446,39,605,83"/>
+</map>

@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1TimeRegion.html#a393c4b71728239f6155bb45ed14d361a" title="SpatialIndex::TimeRegion::touchesPointInTime" alt="" coords="325,5,685,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#afdee976eb8373b6d599eb34979059484" title="SpatialIndex::Region::touchesShape" alt="" coords="364,56,647,83"/>
-<area shape="rect" href="$classSpatialIndex_1_1Point.html#a29539d5b8b7464da26dc61a370286e39" title="SpatialIndex::Point::touchesShape" alt="" coords="372,107,639,133"/>
+<map id="SpatialIndex::Region::touchesPoint" name="SpatialIndex::Region::touchesPoint">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#a393c4b71728239f6155bb45ed14d361a" title="SpatialIndex::TimeRegion\l::touchesPointInTime" alt="" coords="197,5,371,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#afdee976eb8373b6d599eb34979059484" title="SpatialIndex::Region\l::touchesShape" alt="" coords="212,73,356,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Point.html#a29539d5b8b7464da26dc61a370286e39" title="SpatialIndex::Point\l::touchesShape" alt="" coords="218,141,350,185"/>
 </map>

@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1MovingPoint.html#a7ded03eefe1bc0b2d47cc40857ff481c" title="SpatialIndex::MovingPoint::getCoord" alt="" coords="384,5,667,32"/>
-<area shape="rect" href="$classSpatialIndex_1_1Region.html#a7920fd18b03b6b56e1ffa89c91922e27" title="SpatialIndex::Region::makeDimension" alt="" coords="377,56,673,83"/>
+<map id="SpatialIndex::MovingPoint::getMBRAtTime" name="SpatialIndex::MovingPoint::getMBRAtTime">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingPoint.html#a7ded03eefe1bc0b2d47cc40857ff481c" title="SpatialIndex::MovingPoint\l::getCoord" alt="" coords="230,5,405,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a7920fd18b03b6b56e1ffa89c91922e27" title="SpatialIndex::Region\l::makeDimension" alt="" coords="245,73,390,117"/>
 </map>

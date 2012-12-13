@@ -1,7 +1,6 @@
-<map id="G" name="G">
-<area shape="rect" href="dir_b8df71aa6458370bb084a45fe30c4175.html" title="rtree" alt="" coords="27,55,99,103"/>
-<area shape="rect" href="dir_e34c1c1e0fc9aca4caa4253e0444c067.html" title="include" alt="" coords="25,151,100,199"/>
-<area shape="rect" href="dir_000006_000002.html" title="6" alt="" coords="59,147,67,155"/>
-<area shape="rect" href="dir_000006_000002.html" title="6" alt="" coords="66,123,75,141"/>
-<area shape="rect" href="dir_13ac18bd5120d81329ab0dd009cd9cae.html" title="src" alt="" coords="16,16,109,113"/>
+<map id="rtree" name="rtree">
+<area shape="rect" id="node2" href="dir_b8df71aa6458370bb084a45fe30c4175.html" title="rtree" alt="" coords="27,53,99,101"/>
+<area shape="rect" id="node3" href="dir_e34c1c1e0fc9aca4caa4253e0444c067.html" title="include" alt="" coords="27,149,99,197"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000006_000002.html" title="6" alt="" coords="67,123,75,139"/>
+<area shape="rect" id="graph2" href="dir_13ac18bd5120d81329ab0dd009cd9cae.html" title="src" alt="" coords="16,16,109,112"/>
 </map>

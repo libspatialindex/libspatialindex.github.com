@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" href="$classSpatialIndex_1_1IQueryStrategy.html" title="SpatialIndex::IQueryStrategy" alt="" coords="5,31,235,57"/>
-<area shape="rect" href="$classBoundsQuery.html" title="BoundsQuery" alt="" coords="284,5,401,32"/>
-<area shape="rect" href="$classLeafQuery.html" title="LeafQuery" alt="" coords="295,56,391,83"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSpatialIndex_1_1IQueryStrategy.html" title="SpatialIndex::IQueryStrategy" alt="" coords="5,31,197,59"/>
+<area shape="rect" id="node3" href="$classBoundsQuery.html" title="BoundsQuery" alt="" coords="246,5,349,33"/>
+<area shape="rect" id="node5" href="$classLeafQuery.html" title="LeafQuery" alt="" coords="256,57,339,85"/>
 </map>
