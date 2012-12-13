@@ -7,7 +7,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>libspatialindex &mdash; libspatialindex 1.7.0 documentation</title>
+    <title>libspatialindex &mdash; libspatialindex 1.8.0 documentation</title>
     
     <link rel="stylesheet" href="_static/nature.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -15,7 +15,7 @@
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '',
-        VERSION:     '1.7.0',
+        VERSION:     '1.8.0',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  true
@@ -24,7 +24,7 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
-    <link rel="top" title="libspatialindex 1.7.0 documentation" href="#" />
+    <link rel="top" title="libspatialindex 1.8.0 documentation" href="#" />
     <link rel="next" title="Installation" href="install.html" /> 
   </head>
   <body>
@@ -37,7 +37,7 @@
         <li class="right" >
           <a href="install.html" title="Installation"
              accesskey="N">next</a> |</li>
-        <li><a href="#">libspatialindex 1.7.0 documentation</a> &raquo;</li> 
+        <li><a href="#">libspatialindex 1.8.0 documentation</a> &raquo;</li> 
       </ul>
     </div>  
 
@@ -56,11 +56,25 @@
 <li class="toctree-l1"><a class="reference external" href="http://lists.gispython.org/mailman/listinfo/spatialindex">Mailing List</a></li>
 <li class="toctree-l1"><a class="reference internal" href="overview.html">Library Overview</a></li>
 <li class="toctree-l1"><a class="reference internal" href="overview.html#references">References</a></li>
-<li class="toctree-l1"><a class="reference external" href="http://libspatialindex.github.com/doxygen/">Class Documentation</a></li>
+<li class="toctree-l1"><a class="reference external" href="http://libspatialindex.org/doxygen/">Class Documentation</a></li>
 </ul>
 </div>
-<div class="section" id="introduction">
-<span id="id1"></span><h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<table class="docutils field-list" frame="void" id="introduction" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Author:</th><td class="field-body">Marios Hadjieleftheriou</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Contact:</th><td class="field-body"><a class="reference external" href="mailto:mhadji&#37;&#52;&#48;gmail&#46;com">mhadji<span>&#64;</span>gmail<span>&#46;</span>com</a></td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Revision:</th><td class="field-body">1.8.0</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Date:</th><td class="field-body">12/13/2012</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="id1">
+<h2>Introduction<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="library-goals">
 <h3>Library Goals<a class="headerlink" href="#library-goals" title="Permalink to this headline">¶</a></h3>
 <dl class="docutils">
@@ -96,11 +110,76 @@ node capacity, etc.</li>
 <li>STR packing / bulk loading.</li>
 </ul>
 </div>
+<div class="section" id="licensing-history">
+<h3>Licensing History<a class="headerlink" href="#licensing-history" title="Permalink to this headline">¶</a></h3>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p>libspatialindex changed from a <a class="reference external" href="http://opensource.org/licenses/lgpl-2.1.php">LGPL</a> to a <a class="reference external" href="http://opensource.org/licenses/MIT">MIT</a> license as of the 1.8.0
+release. For most situations, this should have no impact on the library&#8217;s
+use, but it should open it up for usage in situations that otherwise might
+have been problematic. Versions of libspatialindex prior to 1.8.0 were
+licensed LGPL 2.0, with the license description on this file. The codebase
+has been been updated, with licensing information replaced in headers and
+source files, to use the MIT license as of the 1.8.0+ release.</p>
+<p class="last">This change was made to support the inclusion of software depending on
+libspatialindex in static linking-only environments such as embedded systems
+and Apple&#8217;s iOS. libspatialindex versions prior to 1.8.0 will continue to
+live on as LGPL software, and developers can continue to contribute to them
+under terms of that license, but the main development effort, and ongoing
+maintenance, releases, and bug applications, will move forward using the
+new MIT license at <a class="reference external" href="http://github.com/libspatialindex/libspatialindex">http://github.com/libspatialindex/libspatialindex</a></p>
+</div>
+</div>
+<div class="section" id="license-mit">
+<h3>License (MIT)<a class="headerlink" href="#license-mit" title="Permalink to this headline">¶</a></h3>
+<div class="highlight-python"><pre>Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.</pre>
+</div>
+</div>
 </div>
 <div class="section" id="download">
-<span id="id2"></span><h2>Download<a class="headerlink" href="#download" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="current-release-s">
-<h3>Current Release(s)<a class="headerlink" href="#current-release-s" title="Permalink to this headline">¶</a></h3>
+<h2>Download<a class="headerlink" href="#download" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="current-release-mit">
+<h3>Current Release (MIT)<a class="headerlink" href="#current-release-mit" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><strong>2012-12-13</strong><ul>
+<li><a class="reference external" href="http://download.osgeo.org/libspatialindex/spatialindex-src-1.8.0.tar.gz">spatialindex-src-1.8.0-src.tar.gz</a>
+<a class="reference external" href="http://download.osgeo.org/libspatialindex/spatialindex-src-1.8.0.tar.gz.md5">(md5)</a></li>
+<li><a class="reference external" href="http://download.osgeo.org/libspatialindex/spatialindex-src-1.8.0.tar.bz2">spatialindex-src-1.8.0-src.tar.bz2</a>
+<a class="reference external" href="http://download.osgeo.org/libspatialindex/spatialindex-src-1.8.0.tar.bz2.md5">(md5)</a></li>
+</ul>
+</li>
+</ul>
+<div class="section" id="windows-builds">
+<h4>Windows Builds<a class="headerlink" href="#windows-builds" title="Permalink to this headline">¶</a></h4>
+<p>Windows builds are provided for convenience. The full matrix might not be
+complete, and you will have to compile yourself using your favorite compiler
+configuration and cmake if something is missing.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://download.osgeo.org/libspatialindex/libspatialindex-1.8.0-win-msvc-2008-x64-x32.zip">libspatialindex-1.8.0-win-msvc-2008-x64-x32.zip</a>
+<a class="reference external" href="http://download.osgeo.org/libspatialindex/libspatialindex-1.8.0-win-msvc-2008-x64-x32.zip.md5">(md5)</a></li>
+<li><a class="reference external" href="http://download.osgeo.org/libspatialindex/libspatialindex-1.8.0-win-msvc-2010-x64-x32.zip">libspatialindex-1.8.0-win-msvc-2010-x64-x32.zip</a>
+<a class="reference external" href="http://download.osgeo.org/libspatialindex/libspatialindex-1.8.0-win-msvc-2010-x64-x32.zip.md5">(md5)</a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="past-release-s-lgpl">
+<h3>Past Release(s) (LGPL)<a class="headerlink" href="#past-release-s-lgpl" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><strong>2011-12-12</strong><ul>
 <li><a class="reference external" href="http://download.osgeo.org/libspatialindex/spatialindex-src-1.7.1.tar.gz">spatialindex-src-1.7.1-src.tar.gz</a>
@@ -111,7 +190,7 @@ node capacity, etc.</li>
 </ul>
 </li>
 </ul>
-</div>
+<span class="target" id="id2"></span></div>
 </div>
 </div>
 
@@ -124,13 +203,19 @@ node capacity, etc.</li>
   <h3><a href="#">Table Of Contents</a></h3>
   <ul>
 <li><a class="reference internal" href="#">libspatialindex</a><ul>
-<li><a class="reference internal" href="#introduction">Introduction</a><ul>
+<li><a class="reference internal" href="#id1">Introduction</a><ul>
 <li><a class="reference internal" href="#library-goals">Library Goals</a></li>
 <li><a class="reference internal" href="#features">Features</a></li>
+<li><a class="reference internal" href="#licensing-history">Licensing History</a></li>
+<li><a class="reference internal" href="#license-mit">License (MIT)</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#download">Download</a><ul>
-<li><a class="reference internal" href="#current-release-s">Current Release(s)</a></li>
+<li><a class="reference internal" href="#current-release-mit">Current Release (MIT)</a><ul>
+<li><a class="reference internal" href="#windows-builds">Windows Builds</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#past-release-s-lgpl">Past Release(s) (LGPL)</a></li>
 </ul>
 </li>
 </ul>
@@ -171,12 +256,12 @@ node capacity, etc.</li>
         <li class="right" >
           <a href="install.html" title="Installation"
              >next</a> |</li>
-        <li><a href="#">libspatialindex 1.7.0 documentation</a> &raquo;</li> 
+        <li><a href="#">libspatialindex 1.8.0 documentation</a> &raquo;</li> 
       </ul>
     </div>
     <div class="footer">
-        &copy; Copyright 2011, Marios Hadjieleftheriou.
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2pre/65e4c29a24e4.
+        &copy; Copyright 2012, Marios Hadjieleftheriou.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
     </div>
   </body>
 </html>

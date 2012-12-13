@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,7 +7,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Index &mdash; libspatialindex 1.8.0 documentation</title>
+    <title>Introduction &mdash; libspatialindex 1.8.0 documentation</title>
     
     <link rel="stylesheet" href="_static/nature.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -33,7 +31,7 @@
       <h3>Navigation</h3>
       <ul>
         <li class="right" style="margin-right: 10px">
-          <a href="#" title="General Index"
+          <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li><a href="index.html">libspatialindex 1.8.0 documentation</a> &raquo;</li> 
       </ul>
@@ -44,11 +42,43 @@
         <div class="bodywrapper">
           <div class="body">
             
-
-<h1 id="index">Index</h1>
-
-<div class="genindex-jumpbox">
- 
+  <div class="section" id="id1">
+<h1>Introduction<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="library-goals">
+<h2>Library Goals<a class="headerlink" href="#library-goals" title="Permalink to this headline">¶</a></h2>
+<dl class="docutils">
+<dt>The purpose of this library is to provide:</dt>
+<dd><ol class="first last arabic simple">
+<li>An extensible framework that will support robust spatial indexing
+methods.</li>
+<li>Support for sophisticated spatial queries. Range, point location,
+nearest neighbor and k-nearest neighbor as well as parametric
+queries (defined by spatial constraints) should be easy to deploy and run.</li>
+<li>Easy to use interfaces for inserting, deleting and updating information.</li>
+<li>Wide variety of customization capabilities. Basic index and storage
+characteristics like the page size, node capacity, minimum fan-out,
+splitting algorithm, etc. should be easy to customize.</li>
+<li>Index persistence. Internal memory and external memory structures
+should be supported.  Clustered and non-clustered indices should
+be easy to be persisted.</li>
+</ol>
+</dd>
+</dl>
+</div>
+<div class="section" id="features">
+<h2>Features<a class="headerlink" href="#features" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Generic main memory and disk based storage managers.</li>
+<li>R*-tree index (also supports linear and quadratic splitting).</li>
+<li>MVR-tree index (a.k.a. PPR-tree).</li>
+<li>TPR-tree index.</li>
+<li>Advanced query capabilities, using Strategy and Visitor patterns.</li>
+<li>Arbitrary shaped range queries, by defining generic geometry interfaces.</li>
+<li>Large parameterization capabilities, including dimensionality, fill factor,
+node capacity, etc.</li>
+<li>STR packing / bulk loading.</li>
+</ul>
+</div>
 </div>
 
 
@@ -57,9 +87,20 @@
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Introduction</a><ul>
+<li><a class="reference internal" href="#library-goals">Library Goals</a></li>
+<li><a class="reference internal" href="#features">Features</a></li>
+</ul>
+</li>
+</ul>
 
-   
-
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/introduction.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
 <div id="searchbox" style="display: none">
   <h3>Quick search</h3>
     <form class="search" action="search.html" method="get">
@@ -81,7 +122,7 @@
       <h3>Navigation</h3>
       <ul>
         <li class="right" style="margin-right: 10px">
-          <a href="#" title="General Index"
+          <a href="genindex.html" title="General Index"
              >index</a></li>
         <li><a href="index.html">libspatialindex 1.8.0 documentation</a> &raquo;</li> 
       </ul>
