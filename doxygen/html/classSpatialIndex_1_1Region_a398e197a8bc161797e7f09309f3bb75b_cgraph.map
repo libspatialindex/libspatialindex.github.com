@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region::containsShape" name="SpatialIndex::Region::containsShape">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1Region.html#a9f543359e7e2982db0069cffcfa4c367" title="SpatialIndex::Region\l::containsPoint" alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#ae1b3a60f4c563c1e4fe6cf4ac462d92e" title="SpatialIndex::Region\l::containsRegion" alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Point.html#a646e4f75e13c896da7496dcb52868f3d" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="387,5,519,47"/>
+</map>

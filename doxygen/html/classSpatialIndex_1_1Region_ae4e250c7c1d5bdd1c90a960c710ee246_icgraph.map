@@ -1,0 +1,7 @@
+<map id="SpatialIndex::Region::touchesRegion" name="SpatialIndex::Region::touchesRegion">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TimeRegion.html#ae5271fb9b73f9885bd0c3b8b87e49bf1" title="SpatialIndex::TimeRegion\l::touchesRegionInTime" alt="" coords="196,5,368,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#ae13ac73417a9b40fa6fd5b1019faf0d6" title="SpatialIndex::Region\l::touchesShape" alt="" coords="211,71,353,112"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::RTree\l::Node::~Node" alt="" coords="213,136,351,177"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#a4610b3e61e1c797a04b7bdc8d9c303bf" title="SpatialIndex::TimeRegion\l::touchesShapeInTime" alt="" coords="416,5,588,47"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::MVRTree\l::Node::~Node" alt="" coords="423,71,581,112"/>
+</map>

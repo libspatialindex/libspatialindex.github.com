@@ -1,0 +1,30 @@
+<map id="ObjVisitor.cc" name="ObjVisitor.cc">
+<area shape="rect" id="node2" href="$sidx__impl_8h.html" title="spatialindex/capi/sidx\l_impl.h" alt="" coords="1593,80,1739,121"/>
+<area shape="rect" id="node9" href="$SpatialIndex_8h.html" title="../SpatialIndex.h" alt="" coords="969,169,1086,196"/>
+<area shape="rect" id="node36" href="$sidx__config_8h.html" title="sidx_config.h" alt="" coords="1810,169,1909,196"/>
+<area shape="rect" id="node40" href="$Utility_8h.html" title="Utility.h" alt="" coords="1669,169,1735,196"/>
+<area shape="rect" id="node41" href="$ObjVisitor_8h.html" title="ObjVisitor.h" alt="" coords="1754,244,1845,271"/>
+<area shape="rect" id="node42" href="$IdVisitor_8h.html" title="IdVisitor.h" alt="" coords="1597,244,1679,271"/>
+<area shape="rect" id="node43" href="$CountVisitor_8h.html" title="CountVisitor.h" alt="" coords="1933,169,2039,196"/>
+<area shape="rect" id="node44" href="$BoundsQuery_8h.html" title="BoundsQuery.h" alt="" coords="2062,169,2174,196"/>
+<area shape="rect" id="node45" href="$LeafQuery_8h.html" title="LeafQuery.h" alt="" coords="2198,169,2291,196"/>
+<area shape="rect" id="node46" href="$Error_8h.html" title="Error.h" alt="" coords="2315,169,2377,196"/>
+<area shape="rect" id="node47" href="$DataStream_8h.html" title="DataStream.h" alt="" coords="2401,169,2504,196"/>
+<area shape="rect" id="node48" href="$include_2spatialindex_2capi_2Index_8h.html" title="Index.h" alt="" coords="2528,169,2593,196"/>
+<area shape="rect" id="node49" href="$CustomStorage_8h.html" title="CustomStorage.h" alt="" coords="1469,169,1593,196"/>
+<area shape="rect" id="node10" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="816,319,913,345"/>
+<area shape="rect" id="node25" href="$Point_8h.html" title="Point.h" alt="" coords="1309,244,1372,271"/>
+<area shape="rect" id="node26" href="$Region_8h.html" title="Region.h" alt="" coords="1447,244,1522,271"/>
+<area shape="rect" id="node27" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="242,244,351,271"/>
+<area shape="rect" id="node28" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="376,244,468,271"/>
+<area shape="rect" id="node29" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="492,244,595,271"/>
+<area shape="rect" id="node30" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="619,244,724,271"/>
+<area shape="rect" id="node31" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="748,244,864,271"/>
+<area shape="rect" id="node32" href="$include_2spatialindex_2RTree_8h.html" title="RTree.h" alt="" coords="889,244,958,271"/>
+<area shape="rect" id="node33" href="$include_2spatialindex_2MVRTree_8h.html" title="MVRTree.h" alt="" coords="983,244,1072,271"/>
+<area shape="rect" id="node34" href="$include_2spatialindex_2TPRTree_8h.html" title="TPRTree.h" alt="" coords="1096,244,1183,271"/>
+<area shape="rect" id="node35" href="$Version_8h.html" title="Version.h" alt="" coords="1207,244,1285,271"/>
+<area shape="rect" id="node23" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="391,393,491,420"/>
+<area shape="rect" id="node24" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="391,468,491,495"/>
+<area shape="rect" id="node39" href="$sidx__export_8h.html" title="sidx_export.h" alt="" coords="2077,319,2177,345"/>
+</map>

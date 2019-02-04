@@ -1,0 +1,6 @@
+<map id="SpatialIndex::MVRTree::Node" name="SpatialIndex::MVRTree::Node">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1INode.html" title="{SpatialIndex::INode\n||+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildData()\l+ getChildShape()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l+ ~INode()\l}" alt="" coords="88,315,231,495"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="5,153,143,259"/>
+<area shape="rect" id="node4" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="22,5,126,97"/>
+<area shape="rect" id="node5" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="167,145,322,267"/>
+</map>

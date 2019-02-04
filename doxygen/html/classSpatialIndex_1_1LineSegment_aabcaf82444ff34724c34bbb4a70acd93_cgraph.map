@@ -1,0 +1,8 @@
+<map id="SpatialIndex::LineSegment::intersectsLineSegment" name="SpatialIndex::LineSegment::intersectsLineSegment">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1LineSegment.html#a5779eaddd4f42f3f08d6b25f181299b3" title="SpatialIndex::LineSegment\l::intersects" alt="" coords="232,39,411,80"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1LineSegment.html#a2275b61cae50e9ce5036f1c48e5eb89a" title="SpatialIndex::LineSegment\l::between" alt="" coords="459,5,637,47"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1LineSegment.html#ae4547d2634d051d1cf90706a92ab1d19" title="SpatialIndex::LineSegment\l::intersectsProper" alt="" coords="459,71,637,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1LineSegment.html#ac3795a26f9fa302d1869fe2cd2a34f75" title="SpatialIndex::LineSegment\l::collinear" alt="" coords="685,5,864,47"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1LineSegment.html#ae6acb29974dd3fbec0daff1d748569be" title="SpatialIndex::LineSegment\l::doubleAreaTriangle" alt="" coords="912,39,1091,80"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1LineSegment.html#a12e8ad1c80a3d5c6b57734a3eda66cc6" title="SpatialIndex::LineSegment\l::leftOf" alt="" coords="685,71,864,112"/>
+</map>

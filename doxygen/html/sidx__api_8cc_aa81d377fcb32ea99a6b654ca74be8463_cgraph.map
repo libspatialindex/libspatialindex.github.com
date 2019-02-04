@@ -1,0 +1,13 @@
+<map id="Index_MVRIntersects_id" name="Index_MVRIntersects_id">
+<area shape="rect" id="node2" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="252,5,367,32"/>
+<area shape="rect" id="node3" href="$classIndex.html#af146e9a14e99f821650d593b2b40dea6" title="Index::GetResultSetLimit" alt="" coords="225,56,394,83"/>
+<area shape="rect" id="node4" href="$classIndex.html#a838bb249dd1f86478a743311c9d60950" title="Index::GetResultSetOffset" alt="" coords="221,107,398,133"/>
+<area shape="rect" id="node5" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="263,157,356,184"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1ISpatialIndex.html#a1b553d31a28d27405dc08a68150e3f48" title="SpatialIndex::ISpatialIndex\l::intersectsWithQuery" alt="" coords="220,209,399,250"/>
+<area shape="rect" id="node7" href="$Utility_8h.html#a40cefbc2b7e4ee9fbb49570cc3b0c499" title="Page_ResultSet_Ids" alt="" coords="238,275,381,301"/>
+<area shape="rect" id="node12" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="231,325,387,352"/>
+<area shape="rect" id="node8" href="$classIdVisitor.html#ae2e86ef6a0eeeda279e3b2a311d7e46c" title="IdVisitor::GetResultCount" alt="" coords="447,249,619,276"/>
+<area shape="rect" id="node9" href="$classIdVisitor.html#a2fd1c01779d510c4dcb7336d2cd8f32e" title="IdVisitor::GetResults" alt="" coords="461,300,605,327"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="667,259,809,301"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="667,325,809,366"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Index_SegmentIntersects_count" name="Index_SegmentIntersects_count">
+<area shape="rect" id="node2" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="265,5,379,32"/>
+<area shape="rect" id="node3" href="$classCountVisitor.html#a9acd032ce172b9b62bce38e43d126c0c" title="CountVisitor::GetResultCount" alt="" coords="224,56,420,83"/>
+<area shape="rect" id="node6" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="275,107,369,133"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1ISpatialIndex.html#a1b553d31a28d27405dc08a68150e3f48" title="SpatialIndex::ISpatialIndex\l::intersectsWithQuery" alt="" coords="233,158,411,199"/>
+<area shape="rect" id="node8" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="244,224,400,251"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="468,17,611,58"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="468,82,611,123"/>
+</map>

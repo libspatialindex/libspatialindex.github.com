@@ -1,0 +1,7 @@
+<map id="SpatialIndex::RTree::Index::findLeastOverlap" name="SpatialIndex::RTree::Index::findLeastOverlap">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1Index_1_1OverlapEntry.html#adf0d7a3ff6f2bfac932fffd9991c5e53" title="SpatialIndex::RTree\l::Index::OverlapEntry\l::compareEntries" alt="" coords="222,5,369,61"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#afe334a829965a1a5d78a10714bfcf19d" title="SpatialIndex::Region\l::getArea" alt="" coords="224,86,367,127"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a1302768c4b58c3a26736851d02ae5d6f" title="SpatialIndex::Region\l::getCombinedRegion" alt="" coords="221,151,369,193"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1Region.html#a1f87424d009834c4f6a90c484fb2e5f2" title="SpatialIndex::Region\l::getIntersectingArea" alt="" coords="224,217,367,258"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a6f53e6ef6895c95442c3d30736dccb53" title="SpatialIndex::Region\l::combineRegion" alt="" coords="417,151,560,193"/>
+</map>

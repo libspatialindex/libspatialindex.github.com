@@ -1,0 +1,15 @@
+<map id="sidx_config.h" name="sidx_config.h">
+<area shape="rect" id="node2" href="$sidx__api_8h.html" title="sidx_api.h" alt="" coords="289,80,370,107"/>
+<area shape="rect" id="node4" href="$sidx__impl_8h.html" title="sidx_impl.h" alt="" coords="619,80,707,107"/>
+<area shape="rect" id="node3" href="$sidx__api_8cc.html" title="sidx_api.cc" alt="" coords="5,155,93,181"/>
+<area shape="rect" id="node5" href="$BoundsQuery_8cc.html" title="BoundsQuery.cc" alt="" coords="118,155,237,181"/>
+<area shape="rect" id="node6" href="$CountVisitor_8cc.html" title="CountVisitor.cc" alt="" coords="260,155,372,181"/>
+<area shape="rect" id="node7" href="$CustomStorage_8cc.html" title="CustomStorage.cc" alt="" coords="396,155,527,181"/>
+<area shape="rect" id="node8" href="$DataStream_8cc.html" title="DataStream.cc" alt="" coords="551,155,662,181"/>
+<area shape="rect" id="node9" href="$Error_8cc.html" title="Error.cc" alt="" coords="686,155,754,181"/>
+<area shape="rect" id="node10" href="$IdVisitor_8cc.html" title="IdVisitor.cc" alt="" coords="779,155,867,181"/>
+<area shape="rect" id="node11" href="$capi_2Index_8cc.html" title="Index.cc" alt="" coords="891,155,963,181"/>
+<area shape="rect" id="node12" href="$LeafQuery_8cc.html" title="LeafQuery.cc" alt="" coords="987,155,1087,181"/>
+<area shape="rect" id="node13" href="$ObjVisitor_8cc.html" title="ObjVisitor.cc" alt="" coords="1111,155,1209,181"/>
+<area shape="rect" id="node14" href="$Utility_8cc.html" title="Utility.cc" alt="" coords="1233,155,1308,181"/>
+</map>

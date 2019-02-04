@@ -1,0 +1,11 @@
+<map id="SpatialIndex::MovingRegion::isShrinking" name="SpatialIndex::MovingRegion::isShrinking">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1MovingRegion.html#a26dcb15641fcde44bbd37732f8c54285" title="SpatialIndex::MovingRegion\l::containsPointInTime" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingRegion.html#ab2a7e0e9a3c98dcdeca1821c12e3642b" title="SpatialIndex::MovingRegion\l::intersectsPointInTime" alt="" coords="472,31,657,72"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MovingRegion.html#a0b1c12f092a594d4c0a643deae756543" title="SpatialIndex::MovingRegion\l::containsRegionInTime" alt="" coords="239,232,424,273"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1MovingRegion.html#abfad358eba6f3db89a8a7d31b9af6851" title="SpatialIndex::MovingRegion\l::getIntersectingAreaInTime" alt="" coords="705,177,891,219"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1MovingRegion.html#ac57ec33816a3e4eabc2d84689c392a95" title="SpatialIndex::MovingRegion\l::intersectsRegionInTime" alt="" coords="472,173,657,215"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MovingRegion.html#a8c3a8338f4feab29cb2e0a588fcbef51" title="SpatialIndex::MovingRegion\l::containsRegionAfterTime" alt="" coords="705,319,891,360"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="721,247,875,288"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::TPRTree\l::Node::~Node" alt="" coords="954,280,1109,321"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1MovingRegion.html#aeb2eac0b7eba7e2b68e0bef6137af226" title="SpatialIndex::MovingRegion\l::getIntersectingAreaInTime" alt="" coords="939,177,1124,219"/>
+</map>

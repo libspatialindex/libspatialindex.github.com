@@ -1,0 +1,14 @@
+<map id="Index_NearestNeighbors_obj" name="Index_NearestNeighbors_obj">
+<area shape="rect" id="node2" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="276,5,391,32"/>
+<area shape="rect" id="node3" href="$classIndex.html#af146e9a14e99f821650d593b2b40dea6" title="Index::GetResultSetLimit" alt="" coords="249,56,418,83"/>
+<area shape="rect" id="node4" href="$classIndex.html#a838bb249dd1f86478a743311c9d60950" title="Index::GetResultSetOffset" alt="" coords="245,107,422,133"/>
+<area shape="rect" id="node5" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="287,157,380,184"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1ISpatialIndex.html#abfd90f7029c804cbb8df93e2f48774e7" title="SpatialIndex::ISpatialIndex\l::nearestNeighborQuery" alt="" coords="244,209,423,250"/>
+<area shape="rect" id="node7" href="$Utility_8h.html#a9ebff676777331ff3f55a494c024841f" title="Page_ResultSet_Obj" alt="" coords="261,275,405,301"/>
+<area shape="rect" id="node13" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="255,325,411,352"/>
+<area shape="rect" id="node8" href="$classObjVisitor.html#ad766a958a8c5500e40f6cadc93cec510" title="ObjVisitor::GetResultCount" alt="" coords="471,224,652,251"/>
+<area shape="rect" id="node9" href="$classObjVisitor.html#abe099ef0db2f8a669f5e10e594b4784b" title="ObjVisitor::GetResults" alt="" coords="485,275,638,301"/>
+<area shape="rect" id="node12" href="$classTools_1_1IObject.html#a5b74b6b26f1c9eba1257d4cdeed61b1e" title="Tools::IObject::clone" alt="" coords="490,325,633,352"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="700,234,843,275"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="700,299,843,341"/>
+</map>

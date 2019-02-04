@@ -1,0 +1,16 @@
+<map id="SpatialIndex.h" name="SpatialIndex.h">
+<area shape="rect" id="node2" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="741,155,838,181"/>
+<area shape="rect" id="node21" href="$Point_8h.html" title="Point.h" alt="" coords="793,80,855,107"/>
+<area shape="rect" id="node22" href="$Region_8h.html" title="Region.h" alt="" coords="880,80,955,107"/>
+<area shape="rect" id="node23" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="979,80,1088,107"/>
+<area shape="rect" id="node24" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="1113,80,1205,107"/>
+<area shape="rect" id="node25" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="1229,80,1331,107"/>
+<area shape="rect" id="node26" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="1355,80,1461,107"/>
+<area shape="rect" id="node27" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="1485,80,1601,107"/>
+<area shape="rect" id="node28" href="$include_2spatialindex_2RTree_8h.html" title="RTree.h" alt="" coords="1625,80,1695,107"/>
+<area shape="rect" id="node29" href="$include_2spatialindex_2MVRTree_8h.html" title="MVRTree.h" alt="" coords="1719,80,1809,107"/>
+<area shape="rect" id="node30" href="$include_2spatialindex_2TPRTree_8h.html" title="TPRTree.h" alt="" coords="1833,80,1919,107"/>
+<area shape="rect" id="node31" href="$Version_8h.html" title="Version.h" alt="" coords="1944,80,2021,107"/>
+<area shape="rect" id="node19" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="1350,229,1450,256"/>
+<area shape="rect" id="node20" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="1350,304,1450,331"/>
+</map>

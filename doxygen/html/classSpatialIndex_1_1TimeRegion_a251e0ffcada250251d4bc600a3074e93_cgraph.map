@@ -1,0 +1,8 @@
+<map id="SpatialIndex::TimeRegion::containsShapeInTime" name="SpatialIndex::TimeRegion::containsShapeInTime">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TimeRegion.html#a057cc8a5a5c422eed8fdc9ac107ae8f6" title="SpatialIndex::TimeRegion\l::containsPointInTime" alt="" coords="225,39,397,80"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1TimeRegion.html#ad0a2f4a41c84d7ede2a9b7fd6ca2d511" title="SpatialIndex::TimeRegion\l::containsRegionInTime" alt="" coords="225,104,397,145"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#a64aa4553dbd4384b931597d5cac96b92" title="SpatialIndex::TimeRegion\l::containsInterval" alt="" coords="445,71,617,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a9f543359e7e2982db0069cffcfa4c367" title="SpatialIndex::Region\l::containsPoint" alt="" coords="460,5,603,47"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#a646e4f75e13c896da7496dcb52868f3d" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="665,5,797,47"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#ae1b3a60f4c563c1e4fe6cf4ac462d92e" title="SpatialIndex::Region\l::containsRegion" alt="" coords="460,136,603,177"/>
+</map>

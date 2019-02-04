@@ -1,0 +1,4 @@
+<map id="SpatialIndex::IQueryStrategy" name="SpatialIndex::IQueryStrategy">
+<area shape="rect" id="node2" href="$classBoundsQuery.html" title="{BoundsQuery\n||+ BoundsQuery()\l+ ~BoundsQuery()\l+ getNextEntry()\l+ GetBounds()\l}" alt="" coords="5,145,135,267"/>
+<area shape="rect" id="node3" href="$classLeafQuery.html" title="{LeafQuery\n||+ LeafQuery()\l+ ~LeafQuery()\l+ getNextEntry()\l+ GetResults()\l}" alt="" coords="159,145,277,267"/>
+</map>

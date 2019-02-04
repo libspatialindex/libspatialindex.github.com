@@ -1,0 +1,8 @@
+<map id="IndexItem_GetBounds" name="IndexItem_GetBounds">
+<area shape="rect" id="node2" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="219,5,334,32"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#a5c74b8acaf9ea1267d71607bca8398ca" title="SpatialIndex::Region\l::getDimension" alt="" coords="205,57,348,98"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a9c356054d79e752d38be62d335307869" title="SpatialIndex::Region\l::getHigh" alt="" coords="205,122,348,163"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#aa46df29896b54bc3cf81b447e38b43ff" title="SpatialIndex::Region\l::getLow" alt="" coords="205,187,348,229"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="205,253,348,294"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1IEntry.html#a9eba12527df1d719a1f63368d7de485b" title="SpatialIndex::IEntry\l::getShape" alt="" coords="208,318,345,359"/>
+</map>

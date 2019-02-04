@@ -1,0 +1,7 @@
+<map id="SpatialIndex::Region::containsRegion" name="SpatialIndex::Region::containsRegion">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TimeRegion.html#ad0a2f4a41c84d7ede2a9b7fd6ca2d511" title="SpatialIndex::TimeRegion\l::containsRegionInTime" alt="" coords="196,5,368,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a398e197a8bc161797e7f09309f3bb75b" title="SpatialIndex::Region\l::containsShape" alt="" coords="211,71,353,112"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::RTree\l::Node::~Node" alt="" coords="213,136,351,177"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#a251e0ffcada250251d4bc600a3074e93" title="SpatialIndex::TimeRegion\l::containsShapeInTime" alt="" coords="416,5,588,47"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::MVRTree\l::Node::~Node" alt="" coords="423,71,581,112"/>
+</map>

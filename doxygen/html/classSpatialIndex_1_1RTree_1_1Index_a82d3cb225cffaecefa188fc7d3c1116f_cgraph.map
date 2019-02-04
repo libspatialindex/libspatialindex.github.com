@@ -1,0 +1,5 @@
+<map id="SpatialIndex::RTree::Index::findLeastEnlargement" name="SpatialIndex::RTree::Index::findLeastEnlargement">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1Region.html#afe334a829965a1a5d78a10714bfcf19d" title="SpatialIndex::Region\l::getArea" alt="" coords="252,5,395,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#a1302768c4b58c3a26736851d02ae5d6f" title="SpatialIndex::Region\l::getCombinedRegion" alt="" coords="249,71,397,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a6f53e6ef6895c95442c3d30736dccb53" title="SpatialIndex::Region\l::combineRegion" alt="" coords="445,71,588,112"/>
+</map>

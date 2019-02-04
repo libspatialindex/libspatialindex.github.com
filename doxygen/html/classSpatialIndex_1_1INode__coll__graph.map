@@ -1,0 +1,5 @@
+<map id="SpatialIndex::INode" name="SpatialIndex::INode">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="5,153,143,259"/>
+<area shape="rect" id="node3" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="22,5,126,97"/>
+<area shape="rect" id="node4" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="167,145,322,267"/>
+</map>
