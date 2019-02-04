@@ -1,0 +1,8 @@
+<map id="Index_Intersects_id" name="Index_Intersects_id">
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="222,5,341,33"/>
+<area shape="rect" id="node5" href="$classIdVisitor.html#af77b24db5888359588dc3157509748af" title="IdVisitor::GetResultCount" alt="" coords="196,57,367,85"/>
+<area shape="rect" id="node7" href="$classIdVisitor.html#a2fd1c01779d510c4dcb7336d2cd8f32e" title="IdVisitor::GetResults" alt="" coords="210,109,353,137"/>
+<area shape="rect" id="node9" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="235,161,328,189"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1ISpatialIndex.html#a1b553d31a28d27405dc08a68150e3f48" title="SpatialIndex::ISpatialIndex\l::intersectsWithQuery" alt="" coords="192,213,371,257"/>
+<area shape="rect" id="node13" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="204,281,358,309"/>
+</map>

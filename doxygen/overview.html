@@ -1,0 +1,483 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Library Overview &#8212; libspatialindex 1.9.0 documentation</title>
+    <link rel="stylesheet" href="_static/nature.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Installation" href="install.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="install.html" title="Installation"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">libspatialindex 1.9.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="library-overview">
+<span id="overview"></span><h1>Library Overview<a class="headerlink" href="#library-overview" title="Permalink to this headline">¶</a></h1>
+<dl class="docutils">
+<dt>The library currently consists of six packages:</dt>
+<dd><ol class="first last arabic simple">
+<li>The core spatialindex utilities.</li>
+<li>The storagemanager files.</li>
+<li>The spatialindex interfaces.</li>
+<li>The rtree index.</li>
+<li>The mvrtree index.</li>
+<li>The tprtree index.</li>
+</ol>
+</dd>
+</dl>
+<p>I will briefly present the basic features supported by each package.
+For more details you will have to refer to the code, for now.</p>
+<div class="section" id="spatial-index-utilities">
+<h2>Spatial Index Utilities<a class="headerlink" href="#spatial-index-utilities" title="Permalink to this headline">¶</a></h2>
+<p>To provide common constructors and uniform initialization for all objects
+provided by the library a PropertySet class is provided. A PropertySet
+associates strings with Variants. Each property corresponds to one string.</p>
+<p>A basic implementation of a Variant is also provided that supports a
+number of data types. The supported data types can be found in SpatialIndex.h</p>
+<p>PropertySet supports three functions:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>getProperty returns the Variant associated with the given string.</li>
+<li>setProperty associates the given Variant with the given string.</li>
+<li>removeProperty removes the specified property from the PropertySet.</li>
+</ol>
+</div></blockquote>
+<p>A number of exceptions are also defined here. All exceptions extend
+Exception and thus provide the what() method that returns a string
+representation of the exception with useful comments.  It is advisable to
+use enclosing try/catch blocks when using any library objects. Many
+constructors throw exceptions when invalid initialization properties are specified.</p>
+<p>A general IShape interface is defined. All shape classes should extend
+IShape. Basic Region and Point classes are already provided. Please
+check Region.h and Point.h for further details.</p>
+</div>
+<div class="section" id="storage-manager">
+<h2>Storage Manager<a class="headerlink" href="#storage-manager" title="Permalink to this headline">¶</a></h2>
+<p>The library provides a common interface for storage management of all
+indices. It consists of the IStorageManager interface, which provides functions
+for storing and retrieving entities.  An entity is viewed as a simple byte
+array; hence it can be an index entry, a data entry or anything else that the
+user wants to store. The storage manager interface is generic and does not apply
+only to spatial indices.</p>
+<p>Classes that implement the IStorageManager interface decide on how to
+store entities.  simple main memory implementation is provided, for example,
+that stores the entities using a vector, associating every entity with a
+unique ID (the entry’s index in the vector). A disk based storage manager
+could choose to store the entities in a simple random access file, or a
+database storage manager could store them in a relational table, etc. as long
+as unique IDs are associated with every entity. Also, storage managers should
+implement their own paging, compaction and deletion policies transparently
+from the callers (be it an index or a user).</p>
+<p>The storeByteArray method gets a byte array and its length and an entity ID.
+If the caller specifies NewPage as the input ID, the storage manager allocates
+a new ID, stores the entity and returns the ID associated with the entity.
+If, instead, the user specifies an already existing ID the storage manager
+overwrites the old data. An exception is thrown if the caller requests
+an invalid ID to be overwritten.</p>
+<p>The loadByteArray method gets an entity ID and returns the associated byte array
+along with its length. If an invalid ID is requested, an exception is thrown.</p>
+<p>The deleteByteArray method removes the requested entity from storage.</p>
+<p>The storage managers should have no information about the types of entities
+that are stored. There are three main reasons for this decision:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Any number of spatial indices can be stored in a single storage manager
+(i.e. the same relational table, or binary file, or hash table, etc., can
+be used to store many indices) using an arbitrary number of pages and
+a unique index ID per index (this will be discussed shortly).</li>
+<li>Both clustered and non-clustered indices can be supported. A clustered
+index stores the data associated with the entries that it contains along
+with the spatial information that it indexes. A non-clustered index stores
+only the spatial information of its entries. Any associated data are
+stored separately and are associated with the index entries by a unique ID.
+To support both types of indices, the storage manager interface should be
+quite generic, allowing the index to decide how to store its data.
+Otherwise clustered and non-clustered indices would have to be
+implemented separately.</li>
+<li>Decision flexibility. For example, the users can choose a clustered index
+that will take care of storing everything. They can choose a main memory
+non-clustered index and store the actual data in MySQL.  They can choose
+a disk based non-clustered index and store the data manually in a
+separate binary file or even in the same storage manager but doing a low
+level customized data processing.</li>
+</ol>
+</div></blockquote>
+<p>Two storage managers are provided in the current implementation:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>MemoryStorageManager</li>
+<li>DiskStorageManager</li>
+</ol>
+</div></blockquote>
+<div class="section" id="memorystoragemanager">
+<h3>MemoryStorageManager<a class="headerlink" href="#memorystoragemanager" title="Permalink to this headline">¶</a></h3>
+<p>As it is implied be the name, this is a main memory implementation. Everything
+is stored in main memory using a simple vector. No properties are needed to
+initialize a MemoryStorageManager object. When a MemoryStorageManager instance
+goes out of scope, all data that it contains are lost.</p>
+</div>
+<div class="section" id="diskstoragemanager">
+<h3>DiskStorageManager<a class="headerlink" href="#diskstoragemanager" title="Permalink to this headline">¶</a></h3>
+<p>The disk storage manager uses two random access files for storing information.
+One with extension .idx and the other with extension .dat.</p>
+<p>A list of all the supported properties that can be provided during
+initialization, follows:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="12%" />
+<col width="11%" />
+<col width="78%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Property</th>
+<th class="head">Type</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>FileName</td>
+<td>VT_PCHAR</td>
+<td>The base name of the file to open (no extension)</td>
+</tr>
+<tr class="row-odd"><td>Overwrite</td>
+<td>VT_BOOL</td>
+<td>If Overwrite is true and a storage manager with the
+specified filename already exists, it will be
+truncated and overwritten. All data will be lost.</td>
+</tr>
+<tr class="row-even"><td>PageSize</td>
+<td>VT_ULONG</td>
+<td>The page size to use. If the specified filename
+already exists and Overwrite is false, PageSize is ignored.</td>
+</tr>
+</tbody>
+</table>
+<p>For entities that are larger than the page size, multiple pages are used.
+Although, the empty space on the last page is lost. Also, there is no effort
+whatsoever to use as many sequential pages as possible. A future version
+might support sequential I/O. Thus, real clustered indices cannot be supported yet.</p>
+<p>The purpose of the .idx file is to store vital information like the page size,
+the next available page, a list of empty pages and the sequence of pages
+associated with every entity ID.</p>
+<p>This class also provides a flush method that practically overwrites the
+.idx file and syncs both file pointers.</p>
+<p>The .idx file is loaded into main memory during initialization and is
+written to disk only after flushing the storage manager or during object
+destruction. In case of an unexpected failure changes to the storage manager
+will be lost due to a stale .idx file. Avoiding such disasters is future work.</p>
+</div>
+</div>
+<div class="section" id="spatialindex-interfaces">
+<h2>SpatialIndex Interfaces<a class="headerlink" href="#spatialindex-interfaces" title="Permalink to this headline">¶</a></h2>
+<p>A spatial index is any index structure that accesses spatial information
+efficiently. It could range from a simple grid file to a complicated tree
+structure. A spatial index indexes entries of type IEntry, which can be index
+nodes, leaf nodes, data etc. depending on the structure characteristics.
+The appropriate interfaces with useful accessor methods should be provided
+for all types of entries.</p>
+<p>A spatial index should implement the ISpatialIndex interface.</p>
+<p>The containmentQuery method requires a query shape and a reference to a
+valid IVisitor instance (described shortly). The intersectionQuery method
+is the same. Both accept an IShape as the query. If the query shape is a simple
+Region, than a classic range query is performed. The user though has the
+ability to create her own shapes, thus defining her own intersection and
+containment methods making possible to run any kind of range query without
+having to modify the index. An example of a trapezoidal query is given in the
+regressiontest directory. Have in mind that it is the users responsibility
+to implement the correct intersection and containment methods between their
+shape and the type of shapes that are stored by the specific index that they
+are planning to use.  For example, if an rtree index will be used, a trapezoid
+should define intersection and containment between itself and Regions, since
+all rtree nodes are of type Region. Hence, the user should have some knowledge
+about the index internal representation, to run more sophisticated queries.</p>
+<p>A point location query is performed using the pointLocationQuery method. It
+takes the query point and a visitor as arguments.</p>
+<p>Nearest neighbor queries can be performed with the nearestNeighborQuery method.
+Its first argument is the  number k of nearest neighbors requested. This
+method also requires the query shape and a visitor object.  The default
+implementation uses the getMinimumDistance function of IShape for calculating
+the distance of the query from the rectangular node and data entries stored
+in the tree. A more sophisticated distance measure can be used by implementing
+the INearestNeighborComparator interface and passing it as the last argument
+of nearestNeighborQuery. For example, a comparator is necessary when the query
+needs to be checked against the actual data stored in the tree, instead of
+the rectangular data entry approximations stored in the leaves.</p>
+<p>For customizing queries the IVisitor interface (based on the Visitor
+pattern [gamma94]) provides callback functions for visiting index and
+leaf nodes, as well as data entries. Node and data information can be obtained
+using the INode and IData interfaces (both extend IEntry). Examples of using
+this interface include visualizing a query, counting the number of leaf
+or index nodes visited for a specific query, throwing alerts when a
+specific spatial region is accessed, etc.</p>
+<p>The queryStrategy method provides the ability to design more sophisticated
+queries. It uses the IQueryStrategy interface as a callback that is called
+continuously until no more entries are requested. It can be used to
+implement custom query algorithms (based on the strategy pattern [gamma94]).</p>
+<p>A data entry can be inserted using the insertData method. The insertion
+function will convert any shape into an internal representation depending on
+the index. Every inserted object should be assigned an ID (called object
+identifier) that will allow updating, deleting and reporting the object.
+It is the responsibility of the caller to provide the index with IDs
+(unique or not). Also, a byte array can be associated with an entry. The
+byte arrays are stored along with the spatial information inside the leaf
+nodes. Clustered indices can be supported in that way. The byte array can
+also by null (in which case the length field should be zero), and no extra
+space should be used per node.</p>
+<p>A data entry can be deleted using the deleteData method. The object shape
+and ID should be provided. Spatial indices cluster objects according to
+spatial characteristics and not IDs. Hence, the shape is essential for
+locating and deleting an entry.</p>
+<p>Useful statistics are provided through the IStatistics interface and
+the getStatistics method.</p>
+<p>Method getIndexProperties returns a PropertySet with all useful index
+properties like dimensionality etc.</p>
+<p>A NodeCommand interface is provided for customizing Node operations. Using
+the addWriteNodeCommand, addReadNodeCommand and addDeleteNodeCommand methods,
+custom command objects are added in listener lists and get executed after
+the corresponding operations.</p>
+<p>The isIndexValid method performs internal checks for testing the
+integrity of a structure. It is used for debugging purposes.</p>
+<p>When a new index is created a unique index ID should be assigned to it, that
+will be used when reloading the index from persistent storage. This index ID
+should be returned as an IndexIdentifier property in the instance of the
+PropsertySet that was used for constructing the index instance. Using
+index IDs, multiple indices can be stored in the same storage manager.
+It is the users responsibility to manager the index IDs. Associating the
+wrong index ID with the wrong storage manager or index type has undefined
+results.</p>
+</div>
+<div class="section" id="the-rtree-package">
+<h2>The RTree Package<a class="headerlink" href="#the-rtree-package" title="Permalink to this headline">¶</a></h2>
+<p>The RTree index [guttman84] is a balanced tree structure that consists of
+index nodes, leaf nodes and data. Every node (leaf and index) has a fixed
+capacity of entries, (the node capacity) chosen at index creation An RTree
+abstracts the data with their Minimum Bounding Region (MBR) and clusters
+these MBRs according to various heuristics in the leaf nodes. Queries are
+evaluated from the root of the tree down the leaves. Since the index is
+balanced nodes can be under full. They cannot be empty though. A fill
+factor specifies the minimum number of entries allowed in any node. The
+fill factor is usually close to 70%.</p>
+<p>RTree creation involves:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Deciding if the index will be internal or external memory and selecting
+the appropriate storage manager.</li>
+<li>Choosing the index and leaf capacity (also known as fan-out).</li>
+<li>Choosing the fill factor (from 1% to 99% of the node capacity).</li>
+<li>Choosing the dimensionality of the data.</li>
+<li>Choosing the insert/update policy (the RTree variant).</li>
+</ol>
+</div></blockquote>
+<p>If an already stored RTree is being reloaded for reuse, only the index ID
+needs to be supplied during construction. In that case, some options cannot
+be modified. These include: the index and leaf capacity, the fill factor and
+the dimensionality. Note here, that the RTree variant can actually be
+modified. The variant affects only when and how splitting occurs, and
+thus can be changed at any time.</p>
+<p>An initialization PropertySet is used for setting the above options,
+complying with the following property strings:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="27%" />
+<col width="11%" />
+<col width="62%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Property</th>
+<th class="head">Type</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>IndexIndentifier</td>
+<td>VT_LONG</td>
+<td>If specified an existing index will be
+opened from the supplied storage manager with
+the given index id. Behavior is unspecified
+if the index id or the storage manager are incorrect.</td>
+</tr>
+<tr class="row-odd"><td>Dimension</td>
+<td>VT_ULONG</td>
+<td>Dimensionality of the data that will be inserted.</td>
+</tr>
+<tr class="row-even"><td>IndexCapacity</td>
+<td>VT_ULONG</td>
+<td>The index node capacity. Default is 100.</td>
+</tr>
+<tr class="row-odd"><td>LeafCapactiy</td>
+<td>VT_ULONG</td>
+<td>The leaf node capacity. Default is 100.</td>
+</tr>
+<tr class="row-even"><td>FillFactor</td>
+<td>VT_DOUBLE</td>
+<td>The fill factor. Default is 70%</td>
+</tr>
+<tr class="row-odd"><td>TreeVariant</td>
+<td>VT_LONG</td>
+<td>Can be one of Linear, Quadratic or Rstar. Default is Rstar</td>
+</tr>
+<tr class="row-even"><td>NearMinimumOverlapFactor</td>
+<td>VT_ULONG</td>
+<td>Default is 32.</td>
+</tr>
+<tr class="row-odd"><td>SplitDistributionFactor</td>
+<td>VT_DOUBLE</td>
+<td>Default is 0.4</td>
+</tr>
+<tr class="row-even"><td>ReinsertFactor</td>
+<td>VT_DOUBLE</td>
+<td>Default is 0.3</td>
+</tr>
+<tr class="row-odd"><td>EnsureTightMBRs</td>
+<td>VT_BOOL</td>
+<td>Default is true</td>
+</tr>
+<tr class="row-even"><td>IndexPoolCapacity</td>
+<td>VT_LONG</td>
+<td>Default is 100</td>
+</tr>
+<tr class="row-odd"><td>LeafPoolCapacity</td>
+<td>VT_LONG</td>
+<td>Default is 100</td>
+</tr>
+<tr class="row-even"><td>RegionPoolCapacity</td>
+<td>VT_LONG</td>
+<td>Default is 1000</td>
+</tr>
+<tr class="row-odd"><td>PointPoolCapacity</td>
+<td>VT_LONG</td>
+<td>Default is 500</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="performance">
+<h2>Performance<a class="headerlink" href="#performance" title="Permalink to this headline">¶</a></h2>
+<p>Dataset size, data density, etc. have nothing to do with capacity and page
+size. What you are trying to achieve is fast reads from the disk and take
+advantage of disk buffering and prefetching.</p>
+<p>Normally, you select the page size to be equal to the disk page size (depends
+on how you format the drive). Then you choose the node capacity to be enough
+to fill the whole page (including data entries if you have any).</p>
+<p>There is a tradeoff though in making node capacity too large. The larger the
+capacity, the longer the “for loops” for inserting, deleting, locating node
+entries take (CPU time). On the other hand, the larger the capacity the
+shorter the tree becomes, reducing the number of random IOs to reach the
+leaves. Hence, you might want to fit multiple nodes (of smaller capacity)
+inside a single page to balance I/O and CPU cost, in case your disk page size
+is too large.</p>
+<p>Finally, if you have enough buffer space to fit most of the index nodes in
+main memory, then large capacities do not make too much sense, because the
+height of the tree does not matter any more. Of course, the smaller the
+capacity, the larger the number of leaf nodes you will have to retrieve from
+disk for range queries (point queries and nearest neighbor queries will not
+suffer that much). So very small capacities hurt as well.</p>
+<p>There is another issue when trying to fit multiple nodes per page: Leftover
+space. You might have leftover space due to data entries that do not have a
+fixed size. Unfortunately, in that case, leftover space per page is lost,
+negatively impacting space usage.</p>
+<p>Selecting the right page size is easy; make it equal to the disk page size.
+Selecting the right node capacity is an art…</p>
+</div>
+</div>
+<div class="section" id="references">
+<h1>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h1>
+<dl class="docutils">
+<dt>[guttman84] “R-Trees: A Dynamic Index Structure for Spatial Searching”</dt>
+<dd>Antonin Guttman, Proc. 1984 ACM-SIGMOD Conference on Management of Data (1985), 47-57.</dd>
+<dt>[gamma94] “Design Patterns: Elements of Reusable Object-Oriented Software”</dt>
+<dd>Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, Addison Wesley. October 1994.</dd>
+</dl>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Library Overview</a><ul>
+<li><a class="reference internal" href="#spatial-index-utilities">Spatial Index Utilities</a></li>
+<li><a class="reference internal" href="#storage-manager">Storage Manager</a><ul>
+<li><a class="reference internal" href="#memorystoragemanager">MemoryStorageManager</a></li>
+<li><a class="reference internal" href="#diskstoragemanager">DiskStorageManager</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#spatialindex-interfaces">SpatialIndex Interfaces</a></li>
+<li><a class="reference internal" href="#the-rtree-package">The RTree Package</a></li>
+<li><a class="reference internal" href="#performance">Performance</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#references">References</a></li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="install.html"
+                        title="previous chapter">Installation</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/overview.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="install.html" title="Installation"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">libspatialindex 1.9.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2019, Marios Hadjieleftheriou.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.2.
+    </div>
+  </body>
+</html>

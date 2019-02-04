@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region::intersectsRegion" name="SpatialIndex::Region::intersectsRegion">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#a8290f3cadd71cc4e8bea5b130b1f1fa9" title="SpatialIndex::TimeRegion\l::intersectsRegionInTime" alt="" coords="197,5,371,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#af6db4c705e6c03667c80c6532f17d12c" title="SpatialIndex::Region\l::intersectsShape" alt="" coords="212,73,356,117"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimeRegion.html#a7f1b7362f53c866a55044e79256fe0a2" title="SpatialIndex::TimeRegion\l::intersectsShapeInTime" alt="" coords="419,5,592,49"/>
+</map>

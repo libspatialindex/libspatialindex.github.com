@@ -1,0 +1,8 @@
+<map id="SpatialIndex::Region::combineRegion" name="SpatialIndex::Region::combineRegion">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#aba99c04a18836cd8c499d15df359b65b" title="SpatialIndex::TimeRegion\l::combineRegionInTime" alt="" coords="197,5,371,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#a03838be9c062a1e707f42ba5039a0d18" title="SpatialIndex::Region\l::getCombinedRegion" alt="" coords="209,73,359,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1RTree_1_1Index.html#af16987358e2b9bc587826f944af48d29" title="SpatialIndex::RTree\l::Index::findLeastEnlargement" alt="" coords="419,5,618,49"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1RTree_1_1Index.html#a9c7d11c3a3b293fa8836d2c274a4e98b" title="SpatialIndex::RTree\l::Index::findLeastOverlap" alt="" coords="434,73,603,117"/>
+<area shape="rect" id="node14" href="$classSpatialIndex_1_1TimeRegion.html#a7185e5bf3363026a8410113e19ace8c4" title="SpatialIndex::TimeRegion\l::getCombinedRegionInTime" alt="" coords="423,141,614,185"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1RTree_1_1Index.html#a3cedf86901fa73c4b78795e544b37873" title="SpatialIndex::RTree\l::Index::chooseSubtree" alt="" coords="667,39,826,83"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SpatialIndex::RTree::BulkLoader::createLevel" name="SpatialIndex::RTree::BulkLoader::createLevel">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a8d2280d9e3dd0760a9b0978034b278f8" title="SpatialIndex::RTree\l::BulkLoader::createNode" alt="" coords="246,5,418,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree\l::ExternalSorter::getNextRecord" alt="" coords="227,73,437,117"/>
+<area shape="rect" id="node27" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a5294df902697a174f35daf21b3e34ab0" title="SpatialIndex::RTree\l::ExternalSorter::getTotal\lEntries" alt="" coords="248,141,416,201"/>
+<area shape="rect" id="node29" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4ef2be0ea586950154e772d01cbf2432" title="SpatialIndex::RTree\l::ExternalSorter::insert" alt="" coords="255,225,409,269"/>
+<area shape="rect" id="node31" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4cd6cd15e42fe7d84d84e1326eded66a" title="SpatialIndex::RTree\l::ExternalSorter::sort" alt="" coords="260,293,404,337"/>
+<area shape="rect" id="node7" href="$classTools_1_1SmartPointer.html#a56d3c996c89613efe32a3636381b9e72" title="Tools::SmartPointer::get" alt="" coords="486,81,650,109"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree\l::ExternalSorter::Record\l::loadFromFile" alt="" coords="486,137,650,197"/>
+<area shape="rect" id="node11" href="$classTools_1_1TemporaryFile.html#ab4f368e3fd089fb869445047723ae2b0" title="Tools::TemporaryFile\l::readBytes" alt="" coords="714,17,859,61"/>
+<area shape="rect" id="node15" href="$classTools_1_1TemporaryFile.html#ad62e3d4ec6b16ab56f512835c1c6d22a" title="Tools::TemporaryFile\l::readDouble" alt="" coords="714,85,859,129"/>
+<area shape="rect" id="node19" href="$classTools_1_1TemporaryFile.html#aee49874723fe351b0fc24bc0b78a0c8b" title="Tools::TemporaryFile\l::readUInt32" alt="" coords="714,153,859,197"/>
+<area shape="rect" id="node23" href="$classTools_1_1TemporaryFile.html#a22bbd6dc8744c9c06565b717c4db8432" title="Tools::TemporaryFile\l::readUInt64" alt="" coords="714,221,859,265"/>
+<area shape="rect" id="node13" href="$classTools_1_1BufferedFileReader.html#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6" title="Tools::BufferedFileReader\l::readBytes" alt="" coords="923,17,1098,61"/>
+<area shape="rect" id="node17" href="$classTools_1_1BufferedFileReader.html#abdc2c85acb8895414e652d5e250d3756" title="Tools::BufferedFileReader\l::readDouble" alt="" coords="923,85,1098,129"/>
+<area shape="rect" id="node21" href="$classTools_1_1BufferedFileReader.html#a4d7d6dff2cdb870ef1c0c79cd3bd0c1c" title="Tools::BufferedFileReader\l::readUInt32" alt="" coords="923,153,1098,197"/>
+<area shape="rect" id="node25" href="$classTools_1_1BufferedFileReader.html#afc920462fbd698bde88232caafcdff59" title="Tools::BufferedFileReader\l::readUInt64" alt="" coords="923,221,1098,265"/>
+<area shape="rect" id="node34" href="$classTools_1_1TemporaryFile.html#ac83fa914bc9bd0ab912e2875e3f700ab" title="Tools::TemporaryFile\l::rewindForReading" alt="" coords="496,293,640,337"/>
+<area shape="rect" id="node36" href="$classTools_1_1BufferedFileReader.html#abde1c1d89d66e70a175955bbade6f56a" title="Tools::BufferedFileReader\l::rewind" alt="" coords="699,293,874,337"/>
+</map>

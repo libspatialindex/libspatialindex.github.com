@@ -1,0 +1,4 @@
+<map id="SpatialIndex::IEvolvingShape" name="SpatialIndex::IEvolvingShape">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingPoint.html" title="{SpatialIndex::MovingPoint\n|+ m_pVCoords\l|+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ ~MovingPoint()\l+ operator=()\l+ operator==()\l+ getCoord()\land 11 more...\l}" alt="" coords="4,177,179,418"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MovingRegion.html" title="{SpatialIndex::MovingRegion\n|+ m_pVLow\l+ m_pVHigh\l|+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ ~MovingRegion()\land 44 more...\l}" alt="" coords="204,169,391,426"/>
+</map>

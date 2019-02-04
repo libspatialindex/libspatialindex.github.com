@@ -1,0 +1,5 @@
+<map id="SpatialIndex::IQueryStrategy::getNextEntry" name="SpatialIndex::IQueryStrategy::getNextEntry">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ab3b872d431af65e1d7a26f7c87efb89d" title="SpatialIndex::TPRTree\l::TPRTree::queryStrategy" alt="" coords="247,5,420,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a4e34e115086c3a0045a84f89698d1839" title="SpatialIndex::RTree\l::RTree::queryStrategy" alt="" coords="256,73,411,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a2825a1d3c1a68f42c191baa0e90805dd" title="SpatialIndex::MVRTree\l::MVRTree::queryStrategy" alt="" coords="246,141,421,185"/>
+</map>

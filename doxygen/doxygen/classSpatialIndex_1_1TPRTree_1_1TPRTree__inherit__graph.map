@@ -1,0 +1,3 @@
+<map id="SpatialIndex::TPRTree::TPRTree" name="SpatialIndex::TPRTree::TPRTree">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1ISpatialIndex.html" title="{SpatialIndex::ISpatialIndex\n||+ insertData()\l+ deleteData()\l+ containsWhatQuery()\l+ intersectsWithQuery()\l+ pointLocationQuery()\l+ nearestNeighborQuery()\l+ nearestNeighborQuery()\l+ selfJoinQuery()\l+ queryStrategy()\l+ getIndexProperties()\l+ addCommand()\l+ isIndexValid()\l+ getStatistics()\l+ ~ISpatialIndex()\l}" alt="" coords="5,6,184,295"/>
+</map>

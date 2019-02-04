@@ -1,0 +1,9 @@
+<map id="Tools::IInterval::getUpperBound" name="Tools::IInterval::getUpperBound">
+<area shape="rect" id="node3" href="$classTools_1_1Interval.html#a8224fbbe568ad18d58b89ec1982664ee" title="Tools::Interval::contains\lInterval" alt="" coords="230,5,391,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree\l::TPRTree::deleteData" alt="" coords="233,73,388,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ad578cff2d278eb7fcec85a7214858efa" title="SpatialIndex::MVRTree\l::MVRTree::deleteData" alt="" coords="231,141,390,185"/>
+<area shape="rect" id="node9" href="$classTools_1_1Interval.html#a3336d74af7331a369b0134aa7a5c2ae2" title="Tools::Interval::intersects\lInterval" alt="" coords="227,209,395,253"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1TimePoint.html#a61a5c759c6133f159f267b61a25cabfe" title="SpatialIndex::TimePoint\l::operator=" alt="" coords="230,277,391,321"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1TimeRegion.html#abb9d64ee7491d56bb8e0dc26189eb06c" title="SpatialIndex::TimeRegion\l::operator=" alt="" coords="224,345,397,389"/>
+<area shape="rect" id="node15" href="$classTools_1_1Interval.html#aee9d047daca4db48bb81fdf97f6a6ec7" title="Tools::Interval::operator=" alt="" coords="226,413,395,441"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="sidx_api.h" name="sidx_api.h">
+<area shape="rect" id="node3" href="$sidx__config_8h.html" title="sidx_config.h" alt="" coords="1160,83,1259,111"/>
+<area shape="rect" id="node7" href="$SpatialIndex_8h.html" title="spatialindex/SpatialIndex.h" alt="" coords="1119,161,1299,189"/>
+<area shape="rect" id="node9" href="$Tools_8h.html" title="tools/Tools.h" alt="" coords="704,315,799,343"/>
+<area shape="rect" id="node48" href="$Point_8h.html" title="Point.h" alt="" coords="721,238,783,266"/>
+<area shape="rect" id="node51" href="$Region_8h.html" title="Region.h" alt="" coords="808,238,883,266"/>
+<area shape="rect" id="node53" href="$LineSegment_8h.html" title="LineSegment.h" alt="" coords="907,238,1017,266"/>
+<area shape="rect" id="node55" href="$TimePoint_8h.html" title="TimePoint.h" alt="" coords="1042,238,1133,266"/>
+<area shape="rect" id="node57" href="$TimeRegion_8h.html" title="TimeRegion.h" alt="" coords="1157,238,1260,266"/>
+<area shape="rect" id="node59" href="$MovingPoint_8h.html" title="MovingPoint.h" alt="" coords="1286,238,1391,266"/>
+<area shape="rect" id="node61" href="$MovingRegion_8h.html" title="MovingRegion.h" alt="" coords="1416,238,1533,266"/>
+<area shape="rect" id="node63" href="$include_2spatialindex_2RTree_8h.html" title="RTree.h" alt="" coords="1558,238,1625,266"/>
+<area shape="rect" id="node65" href="$include_2spatialindex_2MVRTree_8h.html" title="MVRTree.h" alt="" coords="1650,238,1739,266"/>
+<area shape="rect" id="node67" href="$include_2spatialindex_2TPRTree_8h.html" title="TPRTree.h" alt="" coords="1762,238,1848,266"/>
+<area shape="rect" id="node69" href="$Version_8h.html" title="Version.h" alt="" coords="1872,238,1948,266"/>
+<area shape="rect" id="node40" href="$SmartPointer_8h.html" title="SmartPointer.h" alt="" coords="1260,393,1369,421"/>
+<area shape="rect" id="node42" href="$PointerPool_8h.html" title="PointerPool.h" alt="" coords="1393,393,1495,421"/>
+<area shape="rect" id="node44" href="$PoolPointer_8h.html" title="PoolPointer.h" alt="" coords="1394,470,1493,498"/>
+</map>

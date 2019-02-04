@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSpatialIndex_1_1ISpatialIndex.html" title="SpatialIndex::ISpatialIndex" alt="" coords="5,81,184,109"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html" title="SpatialIndex::MVRTree\l::MVRTree" alt="" coords="233,5,391,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html" title="SpatialIndex::RTree\l::RTree" alt="" coords="243,73,381,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html" title="SpatialIndex::TPRTree\l::TPRTree" alt="" coords="234,141,390,185"/>
+</map>

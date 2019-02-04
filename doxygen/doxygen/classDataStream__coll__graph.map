@@ -1,0 +1,11 @@
+<map id="DataStream" name="DataStream">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IDataStream.html" title="{SpatialIndex::IDataStream\n||+ getNext()\l+ ~IDataStream()\l}" alt="" coords="5,867,181,965"/>
+<area shape="rect" id="node4" href="$classTools_1_1IObjectStream.html" title="{Tools::IObjectStream\n||+ ~IObjectStream()\l+ getNext()\l+ hasNext()\l+ size()\l+ rewind()\l}" alt="" coords="11,513,156,658"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1Data.html" title="{SpatialIndex::RTree\l::Data\n|+ m_id\l+ m_pData\l+ m_dataLength\l|+ Data()\l+ ~Data()\l+ clone()\l+ getIdentifier()\l+ getShape()\l+ getData()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="211,787,367,1045"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1IData.html" title="{SpatialIndex::IData\n||+ getData()\l+ ~IData()\l}" alt="" coords="444,537,577,634"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="470,235,607,349"/>
+<area shape="rect" id="node12" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="398,22,500,119"/>
+<area shape="rect" id="node16" href="$classSpatialIndex_1_1Region.html" title="{SpatialIndex::Region\n|+ m_dimension\l+ m_pLow\l+ m_pHigh\l|+ Region()\l+ Region()\l+ Region()\l+ Region()\l+ ~Region()\l+ operator=()\l+ operator==()\l+ clone()\l+ getByteArraySize()\l+ loadFromByteArray()\land 26 more...\l}" alt="" coords="235,449,391,722"/>
+<area shape="rect" id="node14" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="167,6,323,135"/>
+<area shape="rect" id="node19" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="230,187,396,397"/>
+</map>

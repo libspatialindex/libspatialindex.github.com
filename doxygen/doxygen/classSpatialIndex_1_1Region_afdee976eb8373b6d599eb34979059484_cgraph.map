@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region::touchesShape" name="SpatialIndex::Region::touchesShape">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#aaf882a9f4b7c8df15590580eb20625aa" title="SpatialIndex::Region\l::touchesPoint" alt="" coords="197,5,342,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a4bd2600d22f4710bf3840e462d1813c9" title="SpatialIndex::Region\l::touchesRegion" alt="" coords="197,73,342,117"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="390,5,522,49"/>
+</map>

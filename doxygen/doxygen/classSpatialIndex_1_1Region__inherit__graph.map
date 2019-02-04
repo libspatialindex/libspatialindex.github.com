@@ -1,0 +1,7 @@
+<map id="SpatialIndex::Region" name="SpatialIndex::Region">
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1TimeRegion.html" title="{SpatialIndex::TimeRegion\n|+ m_startTime\l+ m_endTime\l|+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ TimeRegion()\l+ ~TimeRegion()\land 33 more...\l}" alt="" coords="48,766,221,1023"/>
+<area shape="rect" id="node2" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="5,241,107,338"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="132,185,297,394"/>
+<area shape="rect" id="node6" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="136,6,292,135"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1MovingRegion.html" title="{SpatialIndex::MovingRegion\n|+ m_pVLow\l+ m_pVHigh\l|+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ MovingRegion()\l+ ~MovingRegion()\land 44 more...\l}" alt="" coords="41,1073,228,1330"/>
+</map>

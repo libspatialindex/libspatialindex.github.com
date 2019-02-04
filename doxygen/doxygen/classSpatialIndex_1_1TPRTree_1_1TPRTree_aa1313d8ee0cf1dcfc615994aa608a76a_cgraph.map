@@ -1,0 +1,8 @@
+<map id="SpatialIndex::TPRTree::TPRTree::deleteData" name="SpatialIndex::TPRTree::TPRTree::deleteData">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="236,5,380,49"/>
+<area shape="rect" id="node5" href="$classTools_1_1IInterval.html#ac6f407bcb5bf762f22f96b3b9def7a8c" title="Tools::IInterval::getLower\lBound" alt="" coords="223,73,393,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="236,141,380,185"/>
+<area shape="rect" id="node9" href="$classTools_1_1IInterval.html#aca6d1028e536aef416dc6932230337f6" title="Tools::IInterval::getUpper\lBound" alt="" coords="223,209,393,253"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IEvolvingShape.html#aa5390ca43141e2114db64519e9b0edec" title="SpatialIndex::IEvolvingShape\l::getVMBR" alt="" coords="211,277,405,321"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1MovingRegion.html#a3d862cf3d59b4fc08dc49ae0ea5156d4" title="SpatialIndex::MovingRegion\l::makeDimension" alt="" coords="214,345,402,389"/>
+</map>

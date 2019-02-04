@@ -1,0 +1,10 @@
+<map id="SpatialIndex::Region::makeDimension" name="SpatialIndex::Region::makeDimension">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingPoint.html#a48cbaec3fa45cf0601c26f05cd1a2cdd" title="SpatialIndex::MovingPoint\l::getMBRAtTime" alt="" coords="204,5,380,49"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MovingRegion.html#abc934bfd556a4fead040c96752242e7b" title="SpatialIndex::MovingRegion\l::getMBRAtTime" alt="" coords="198,73,386,117"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MovingPoint.html#a8af0587e960745471d1d6c2f5200974e" title="SpatialIndex::MovingPoint\l::getVMBR" alt="" coords="204,141,380,185"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1MovingRegion.html#a4cadc38a0cda463698f6c2f4bdac9489" title="SpatialIndex::MovingRegion\l::getVMBR" alt="" coords="198,209,386,253"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1Region.html#a85c4c6127e300c2b370bb98654da169a" title="SpatialIndex::Region\l::loadFromByteArray" alt="" coords="220,277,364,321"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1Region.html#ab74cc346f4517e18eeeddee116ac0fdc" title="SpatialIndex::Region\l::makeInfinite" alt="" coords="220,345,364,389"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1Region.html#a08637f45180288c40210a5133a44cc5e" title="SpatialIndex::Region\l::operator=" alt="" coords="220,413,364,457"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1Region.html#a0d2687f8701ca88c613358fa9c1c1c3d" title="SpatialIndex::Region\l::getIntersectingRegion" alt="" coords="435,345,594,389"/>
+</map>

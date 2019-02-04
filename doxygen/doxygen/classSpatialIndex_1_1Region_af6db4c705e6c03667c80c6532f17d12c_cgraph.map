@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region::intersectsShape" name="SpatialIndex::Region::intersectsShape">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region\l::containsPoint" alt="" coords="197,5,342,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a4407ada82512290acc27b07812bf5139" title="SpatialIndex::Region\l::intersectsRegion" alt="" coords="197,73,342,117"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="390,5,522,49"/>
+</map>

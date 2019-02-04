@@ -1,0 +1,5 @@
+<map id="SpatialIndex::TimeRegion::touchesShapeInTime" name="SpatialIndex::TimeRegion::touchesShapeInTime">
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#ad78937b95465d3515086521e6837ff33" title="SpatialIndex::TimeRegion\l::touchesRegionInTime" alt="" coords="227,39,400,83"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimeRegion.html#a33316b7659abbd2f807c98c5ea9e626d" title="SpatialIndex::TimeRegion\l::intersectsInterval" alt="" coords="448,5,621,49"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a4bd2600d22f4710bf3840e462d1813c9" title="SpatialIndex::Region\l::touchesRegion" alt="" coords="462,73,607,117"/>
+</map>
