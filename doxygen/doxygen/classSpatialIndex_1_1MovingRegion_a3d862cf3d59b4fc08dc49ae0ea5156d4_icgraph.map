@@ -1,7 +1,0 @@
-<map id="SpatialIndex::MovingRegion::makeDimension" name="SpatialIndex::MovingRegion::makeDimension">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree\l::TPRTree::deleteData" alt="" coords="260,5,415,49"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2c2329b9b84d0f94aee49391fd045d33" title="SpatialIndex::TPRTree\l::TPRTree::insertData" alt="" coords="260,73,415,117"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1MovingRegion.html#ad73ffa617e9875ea2f514aefcfd0c56f" title="SpatialIndex::MovingRegion\l::loadFromByteArray" alt="" coords="244,141,431,185"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1MovingRegion.html#a391d8e99bfcae76fad1412ad93e6f40f" title="SpatialIndex::MovingRegion\l::makeInfinite" alt="" coords="244,209,431,253"/>
-<area shape="rect" id="node11" href="$classSpatialIndex_1_1MovingRegion.html#af6169b705de7dfd2b44b0dbaec6b5961" title="SpatialIndex::MovingRegion\l::operator=" alt="" coords="244,277,431,321"/>
-</map>

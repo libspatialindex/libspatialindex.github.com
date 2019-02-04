@@ -1,6 +1,0 @@
-<map id="SpatialIndex::IEntry::getShape" name="SpatialIndex::IEntry::getShape">
-<area shape="rect" id="node3" href="$LeafQuery_8cc.html#add4e392bdee1b4e8450142ea1215748e" title="get_results" alt="" coords="243,5,330,33"/>
-<area shape="rect" id="node7" href="$classBoundsQuery.html#abc723beb3706431cf0c483b671b90279" title="BoundsQuery::getNextEntry" alt="" coords="193,57,380,85"/>
-<area shape="rect" id="node9" href="$sidx__api_8cc.html#a2026f36055eca6ff93a973027418fff0" title="IndexItem_GetBounds" alt="" coords="210,109,364,137"/>
-<area shape="rect" id="node5" href="$classLeafQuery.html#a615197e6e3a134a18a6966a1218f2db2" title="LeafQuery::getNextEntry" alt="" coords="429,5,597,33"/>
-</map>

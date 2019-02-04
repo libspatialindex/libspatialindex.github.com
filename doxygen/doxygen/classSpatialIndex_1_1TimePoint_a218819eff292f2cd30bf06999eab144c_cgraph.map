@@ -1,6 +1,0 @@
-<map id="SpatialIndex::TimePoint::intersectsShapeInTime" name="SpatialIndex::TimePoint::intersectsShapeInTime">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion\l::containsPointInTime" alt="" coords="219,39,392,83"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimeRegion.html#a3ac6accc207db0da786ae4cf769e26f8" title="SpatialIndex::TimeRegion\l::containsInterval" alt="" coords="440,5,613,49"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region\l::containsPoint" alt="" coords="454,73,599,117"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="662,73,794,117"/>
-</map>

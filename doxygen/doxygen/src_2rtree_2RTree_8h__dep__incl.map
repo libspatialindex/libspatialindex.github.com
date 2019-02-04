@@ -1,8 +1,0 @@
-<map id="RTree.h" name="RTree.h">
-<area shape="rect" id="node3" href="$BulkLoader_8cc.html" title="BulkLoader.cc" alt="" coords="5,83,109,111"/>
-<area shape="rect" id="node5" href="$rtree_2Index_8cc.html" title="Index.cc" alt="" coords="134,83,204,111"/>
-<area shape="rect" id="node7" href="$rtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="229,83,293,111"/>
-<area shape="rect" id="node9" href="$rtree_2Node_8cc.html" title="Node.cc" alt="" coords="317,83,387,111"/>
-<area shape="rect" id="node11" href="$RTree_8cc.html" title="RTree.cc" alt="" coords="411,83,485,111"/>
-<area shape="rect" id="node13" href="$SpatialIndexImpl_8cc.html" title="SpatialIndexImpl.cc" alt="" coords="509,83,645,111"/>
-</map>

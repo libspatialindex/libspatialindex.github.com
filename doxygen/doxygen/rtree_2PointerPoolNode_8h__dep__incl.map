@@ -1,9 +1,0 @@
-<map id="PointerPoolNode.h" name="PointerPoolNode.h">
-<area shape="rect" id="node3" href="$src_2rtree_2RTree_8h.html" title="RTree.h" alt="" coords="272,83,340,111"/>
-<area shape="rect" id="node5" href="$BulkLoader_8cc.html" title="BulkLoader.cc" alt="" coords="5,161,109,189"/>
-<area shape="rect" id="node7" href="$rtree_2Index_8cc.html" title="Index.cc" alt="" coords="134,161,204,189"/>
-<area shape="rect" id="node9" href="$rtree_2Leaf_8cc.html" title="Leaf.cc" alt="" coords="229,161,293,189"/>
-<area shape="rect" id="node11" href="$rtree_2Node_8cc.html" title="Node.cc" alt="" coords="317,161,387,189"/>
-<area shape="rect" id="node13" href="$RTree_8cc.html" title="RTree.cc" alt="" coords="411,161,485,189"/>
-<area shape="rect" id="node15" href="$SpatialIndexImpl_8cc.html" title="SpatialIndexImpl.cc" alt="" coords="509,161,645,189"/>
-</map>

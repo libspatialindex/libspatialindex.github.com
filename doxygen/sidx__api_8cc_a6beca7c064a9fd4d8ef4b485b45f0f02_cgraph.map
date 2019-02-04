@@ -1,9 +1,0 @@
-<map id="Index_NearestNeighbors_obj" name="Index_NearestNeighbors_obj">
-<area shape="rect" id="node3" href="$classTools_1_1IObject.html#a5b74b6b26f1c9eba1257d4cdeed61b1e" title="Tools::IObject::clone" alt="" coords="268,5,409,33"/>
-<area shape="rect" id="node5" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="279,57,398,85"/>
-<area shape="rect" id="node7" href="$classObjVisitor.html#aee6260a3ea4345719ec192fdd58fbfa4" title="ObjVisitor::GetResultCount" alt="" coords="248,109,429,137"/>
-<area shape="rect" id="node9" href="$classObjVisitor.html#abe099ef0db2f8a669f5e10e594b4784b" title="ObjVisitor::GetResults" alt="" coords="263,161,415,189"/>
-<area shape="rect" id="node11" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="292,213,385,241"/>
-<area shape="rect" id="node13" href="$classSpatialIndex_1_1ISpatialIndex.html#abfd90f7029c804cbb8df93e2f48774e7" title="SpatialIndex::ISpatialIndex\l::nearestNeighborQuery" alt="" coords="249,265,428,309"/>
-<area shape="rect" id="node15" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="262,333,416,361"/>
-</map>

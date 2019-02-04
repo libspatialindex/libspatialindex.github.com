@@ -1,7 +1,0 @@
-<map id="SpatialIndex::TimeRegion::containsInterval" name="SpatialIndex::TimeRegion::containsInterval">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion\l::containsPointInTime" alt="" coords="227,73,400,117"/>
-<area shape="rect" id="node11" href="$classSpatialIndex_1_1TimeRegion.html#a67d1232b04f8fb1ed95ba9e69c7eabc4" title="SpatialIndex::TimeRegion\l::containsRegionInTime" alt="" coords="227,141,400,185"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimePoint.html#a218819eff292f2cd30bf06999eab144c" title="SpatialIndex::TimePoint\l::intersectsShapeInTime" alt="" coords="452,5,617,49"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1TimeRegion.html#a7f1b7362f53c866a55044e79256fe0a2" title="SpatialIndex::TimeRegion\l::intersectsShapeInTime" alt="" coords="448,73,621,117"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1TimeRegion.html#ab89d580d4c7565ff29888e62f3593d8e" title="SpatialIndex::TimeRegion\l::containsShapeInTime" alt="" coords="448,141,621,185"/>
-</map>

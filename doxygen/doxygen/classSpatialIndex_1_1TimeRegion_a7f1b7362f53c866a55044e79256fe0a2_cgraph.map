@@ -1,9 +1,0 @@
-<map id="SpatialIndex::TimeRegion::intersectsShapeInTime" name="SpatialIndex::TimeRegion::intersectsShapeInTime">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#acac91f4d4fff8bae932566a1def301e1" title="SpatialIndex::TimeRegion\l::containsPointInTime" alt="" coords="227,73,400,117"/>
-<area shape="rect" id="node11" href="$classSpatialIndex_1_1TimeRegion.html#a8290f3cadd71cc4e8bea5b130b1f1fa9" title="SpatialIndex::TimeRegion\l::intersectsRegionInTime" alt="" coords="227,141,400,185"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimeRegion.html#a3ac6accc207db0da786ae4cf769e26f8" title="SpatialIndex::TimeRegion\l::containsInterval" alt="" coords="448,5,621,49"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1Region.html#a7da6d7ad8b18192aa720ce67714d2f70" title="SpatialIndex::Region\l::containsPoint" alt="" coords="462,73,607,117"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1Point.html#adffdaf26bb03775893650b94ebc5b8ad" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="670,73,802,117"/>
-<area shape="rect" id="node13" href="$classSpatialIndex_1_1TimeRegion.html#a33316b7659abbd2f807c98c5ea9e626d" title="SpatialIndex::TimeRegion\l::intersectsInterval" alt="" coords="448,141,621,185"/>
-<area shape="rect" id="node15" href="$classSpatialIndex_1_1Region.html#a4407ada82512290acc27b07812bf5139" title="SpatialIndex::Region\l::intersectsRegion" alt="" coords="462,209,607,253"/>
-</map>

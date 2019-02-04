@@ -1,7 +1,0 @@
-<map id="Tools::SmartPointer::get" name="Tools::SmartPointer::get">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree\l::ExternalSorter::getNextRecord" alt="" coords="219,5,429,49"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a48a3ad30be24a5eaf9d764e836f6861e" title="SpatialIndex::RTree\l::BulkLoader::createLevel" alt="" coords="478,5,650,49"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree\l::BulkLoader::bulkLoadUsingSTR" alt="" coords="699,5,917,49"/>
-<area shape="rect" id="node9" href="$namespaceSpatialIndex_1_1RTree.html#a3eacab862e5cfee5debea3dd73c17372" title="SpatialIndex::RTree\l::createAndBulkLoadNewRTree" alt="" coords="965,5,1173,49"/>
-<area shape="rect" id="node11" href="$classIndex.html#a8ef087dad455983678a0c2b1321de60f" title="Index::Index" alt="" coords="1221,13,1315,41"/>
-</map>

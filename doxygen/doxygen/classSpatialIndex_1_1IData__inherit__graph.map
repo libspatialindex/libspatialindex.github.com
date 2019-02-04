@@ -1,7 +1,0 @@
-<map id="SpatialIndex::IData" name="SpatialIndex::IData">
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1Data.html" title="{SpatialIndex::MVRTree\l::Data\n|+ m_id\l+ m_region\l+ m_pData\l+ m_dataLength\l|+ Data()\l+ ~Data()\l+ clone()\l+ getIdentifier()\l+ getShape()\l+ getData()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="5,462,163,735"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1RTree_1_1Data.html" title="{SpatialIndex::RTree\l::Data\n|+ m_id\l+ m_region\l+ m_pData\l+ m_dataLength\l|+ Data()\l+ ~Data()\l+ clone()\l+ getIdentifier()\l+ getShape()\l+ getData()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="187,462,343,735"/>
-<area shape="rect" id="node11" href="$classSpatialIndex_1_1TPRTree_1_1Data.html" title="{SpatialIndex::TPRTree\l::Data\n|+ m_id\l+ m_region\l+ m_pData\l+ m_dataLength\l|+ Data()\l+ ~Data()\l+ clone()\l+ getIdentifier()\l+ getShape()\l+ getData()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="367,462,523,735"/>
-<area shape="rect" id="node2" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="197,153,333,266"/>
-<area shape="rect" id="node4" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="214,6,316,103"/>
-</map>

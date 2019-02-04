@@ -1,3 +1,0 @@
-<map id="Tools::BufferedFileReader" name="Tools::BufferedFileReader">
-<area shape="rect" id="node2" href="$classTools_1_1BufferedFile.html" title="{Tools::BufferedFile\n|# m_file\l# m_buffer\l# m_u32BufferSize\l# m_bEOF\l|+ BufferedFile()\l+ ~BufferedFile()\l+ close()\l+ eof()\l+ rewind()\l+ seek()\l}" alt="" coords="25,6,159,215"/>
-</map>

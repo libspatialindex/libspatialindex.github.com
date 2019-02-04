@@ -1,4 +1,0 @@
-<map id="SpatialIndex::IDataStream" name="SpatialIndex::IDataStream">
-<area shape="rect" id="node5" href="$classDataStream.html" title="{DataStream\n|# m_pNext\l# m_id\l|+ DataStream()\l+ ~DataStream()\l+ getNext()\l+ hasNext()\l+ size()\l+ rewind()\l}" alt="" coords="33,347,153,525"/>
-<area shape="rect" id="node2" href="$classTools_1_1IObjectStream.html" title="{Tools::IObjectStream\n||+ ~IObjectStream()\l+ getNext()\l+ hasNext()\l+ size()\l+ rewind()\l}" alt="" coords="21,6,165,151"/>
-</map>

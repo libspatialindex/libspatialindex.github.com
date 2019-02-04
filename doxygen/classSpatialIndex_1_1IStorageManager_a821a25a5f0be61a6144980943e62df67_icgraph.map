@@ -1,8 +1,0 @@
-<map id="SpatialIndex::IStorageManager::storeByteArray" name="SpatialIndex::IStorageManager::storeByteArray">
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title="SpatialIndex::StorageManager\l::Buffer::clear" alt="" coords="259,5,461,49"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a2ecff57de43b2b57b10686a436225a8f" title="SpatialIndex::StorageManager\l::Buffer::flush" alt="" coords="259,73,461,117"/>
-<area shape="rect" id="node9" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a7c76ee54a5d4ffefb4a6a054fd1348f1" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\lremoveEntry" alt="" coords="259,141,461,201"/>
-<area shape="rect" id="node13" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a43cdee07426f2d149bfca1a80e960d8c" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="259,225,461,269"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a59b8743e4a5f731bdd0c4185c9ef263b" title="SpatialIndex::StorageManager\l::Buffer::~Buffer" alt="" coords="510,73,711,117"/>
-<area shape="rect" id="node11" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#a1d502dfc8607ed6766a1f3d31a0cc2f7" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\laddEntry" alt="" coords="510,141,711,201"/>
-</map>

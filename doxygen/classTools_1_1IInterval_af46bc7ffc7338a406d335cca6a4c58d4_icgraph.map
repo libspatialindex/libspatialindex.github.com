@@ -1,5 +1,0 @@
-<map id="Tools::IInterval::getIntervalType" name="Tools::IInterval::getIntervalType">
-<area shape="rect" id="node3" href="$classTools_1_1Interval.html#a8224fbbe568ad18d58b89ec1982664ee" title="Tools::Interval::contains\lInterval" alt="" coords="262,5,423,49"/>
-<area shape="rect" id="node5" href="$classTools_1_1Interval.html#a3336d74af7331a369b0134aa7a5c2ae2" title="Tools::Interval::intersects\lInterval" alt="" coords="259,73,427,117"/>
-<area shape="rect" id="node7" href="$classTools_1_1Interval.html#aee9d047daca4db48bb81fdf97f6a6ec7" title="Tools::Interval::operator=" alt="" coords="258,141,427,169"/>
-</map>
