@@ -1,0 +1,10 @@
+<map id="SpatialIndex::RTree::RTree::internalNodesQuery" name="SpatialIndex::RTree::RTree::internalNodesQuery">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IShape.html#a0ad9a8bc51528f126d930dbe5ec4e2d6" title="SpatialIndex::IShape\l::containsShape" alt="" coords="257,5,400,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="257,71,400,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1Node.html#aebc1a7d88cf86c946b2d74039f0f690c" title="SpatialIndex::RTree\l::Node::getIdentifier" alt="" coords="259,136,398,177"/>
+<area shape="rect" id="node5" href="$classIdVisitor.html#ae2e86ef6a0eeeda279e3b2a311d7e46c" title="IdVisitor::GetResultCount" alt="" coords="243,202,415,229"/>
+<area shape="rect" id="node6" href="$classIdVisitor.html#a2fd1c01779d510c4dcb7336d2cd8f32e" title="IdVisitor::GetResults" alt="" coords="257,303,401,330"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="463,245,605,287"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1IShape.html#a5728089c380bc570b0a8e4566b2e04c3" title="SpatialIndex::IShape\l::intersectsShape" alt="" coords="257,355,400,396"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="463,311,605,352"/>
+</map>

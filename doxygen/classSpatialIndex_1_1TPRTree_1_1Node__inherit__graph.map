@@ -1,0 +1,8 @@
+<map id="SpatialIndex::TPRTree::Node" name="SpatialIndex::TPRTree::Node">
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1TPRTree_1_1Index.html" title="{SpatialIndex::TPRTree\l::Index\n||+ ~Index()\l}" alt="" coords="5,873,160,965"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1TPRTree_1_1Leaf.html" title="{SpatialIndex::TPRTree\l::Leaf\n||+ ~Leaf()\l}" alt="" coords="184,873,339,965"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1INode.html" title="{SpatialIndex::INode\n||+ getChildrenCount()\l+ getChildIdentifier()\l+ getChildData()\l+ getChildShape()\l+ getLevel()\l+ isIndex()\l+ isLeaf()\l+ ~INode()\l}" alt="" coords="101,315,243,495"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IEntry.html" title="{SpatialIndex::IEntry\n||+ getIdentifier()\l+ getShape()\l+ ~IEntry()\l}" alt="" coords="18,153,155,259"/>
+<area shape="rect" id="node4" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="35,5,139,97"/>
+<area shape="rect" id="node5" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="180,145,335,267"/>
+</map>

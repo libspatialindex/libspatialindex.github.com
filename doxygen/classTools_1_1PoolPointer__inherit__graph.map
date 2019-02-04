@@ -1,0 +1,6 @@
+<map id="Tools::PoolPointer&lt; X &gt;" name="Tools::PoolPointer&lt; X &gt;">
+<area shape="rect" id="node2" href="$classTools_1_1PoolPointer.html" title="{Tools::PoolPointer\l\&lt; Node \&gt;\n||+ PoolPointer()\l+ PoolPointer()\l+ PoolPointer()\l+ ~PoolPointer()\l+ operator=()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ unique()\l+ relinquish()\l}" alt="" coords="5,277,135,501"/>
+<area shape="rect" id="node3" href="$classTools_1_1PoolPointer.html" title="{Tools::PoolPointer\l\&lt; TimeRegion \&gt;\n||+ PoolPointer()\l+ PoolPointer()\l+ PoolPointer()\l+ ~PoolPointer()\l+ operator=()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ unique()\l+ relinquish()\l}" alt="" coords="159,277,288,501"/>
+<area shape="rect" id="node4" href="$classTools_1_1PoolPointer.html" title="{Tools::PoolPointer\l\&lt; Region \&gt;\n||+ PoolPointer()\l+ PoolPointer()\l+ PoolPointer()\l+ ~PoolPointer()\l+ operator=()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ unique()\l+ relinquish()\l}" alt="" coords="312,277,441,501"/>
+<area shape="rect" id="node5" href="$classTools_1_1PoolPointer.html" title="{Tools::PoolPointer\l\&lt; MovingRegion \&gt;\n||+ PoolPointer()\l+ PoolPointer()\l+ PoolPointer()\l+ ~PoolPointer()\l+ operator=()\l+ operator*()\l+ operator&#45;\&gt;()\l+ get()\l+ unique()\l+ relinquish()\l}" alt="" coords="465,277,595,501"/>
+</map>

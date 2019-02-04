@@ -1,0 +1,11 @@
+<map id="SpatialIndex::RTree::createAndBulkLoadNewRTree" name="SpatialIndex::RTree::createAndBulkLoadNewRTree">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1BulkLoader.html#a0b49a2dfeefa7a69e69e39a97a12bad7" title="SpatialIndex::RTree\l::BulkLoader::bulkLoadUsingSTR" alt="" coords="260,129,476,171"/>
+<area shape="rect" id="node7" href="$namespaceSpatialIndex_1_1RTree.html#ac93497c973e6a71cc019443b14975229" title="SpatialIndex::RTree\l::createNewRTree" alt="" coords="299,333,437,375"/>
+<area shape="rect" id="node10" href="$classTools_1_1PropertySet.html#a5720b21d187b1dda20466a849814820a" title="Tools::PropertySet\l::getProperty" alt="" coords="547,399,677,440"/>
+<area shape="rect" id="node3" href="$classTools_1_1IObjectStream.html#a43be1565638fec0fed1cc8f6cd6c103e" title="Tools::IObjectStream\l::hasNext" alt="" coords="539,5,685,47"/>
+<area shape="rect" id="node4" href="$classTools_1_1PoolPointer.html#a828e830ff7ae2704a0fc88a6e03e4cdf" title="Tools::PoolPointer::get" alt="" coords="535,71,689,98"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a2be72101e5d7878969bf3de72b916427" title="SpatialIndex::RTree\l::ExternalSorter::External\lSorter" alt="" coords="527,122,697,178"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1IDataStream.html#a0e0414403d52dedf921d9d15272b68c0" title="SpatialIndex::IDataStream\l::getNext" alt="" coords="524,203,700,244"/>
+<area shape="rect" id="node8" href="$classTools_1_1PropertySet.html#a09e9e0c3b816e0a877cab547709992a8" title="Tools::PropertySet\l::setProperty" alt="" coords="547,268,677,309"/>
+<area shape="rect" id="node9" href="$namespaceSpatialIndex_1_1RTree.html#ac0bd10176fdff7b538290ad42d1cdde6" title="SpatialIndex::RTree\l::returnRTree" alt="" coords="543,333,681,375"/>
+</map>

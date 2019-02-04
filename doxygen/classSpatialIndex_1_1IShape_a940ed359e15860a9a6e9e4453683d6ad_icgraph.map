@@ -1,0 +1,5 @@
+<map id="SpatialIndex::IShape::getMinimumDistance" name="SpatialIndex::IShape::getMinimumDistance">
+<area shape="rect" id="node2" href="$structSpatialIndex_1_1RTree_1_1RTree_1_1NNEntry_1_1ascending.html#a1ac5006c2c11ea212a60508c58534145" title="SpatialIndex::RTree\l::RTree::NNEntry::ascending\l::operator()" alt="" coords="215,5,407,61"/>
+<area shape="rect" id="node3" href="$structSpatialIndex_1_1TPRTree_1_1TPRTree_1_1NNEntry_1_1ascending.html#a4922b3fd53529117256a879650bf0551" title="SpatialIndex::TPRTree\l::TPRTree::NNEntry::ascending\l::operator()" alt="" coords="207,85,416,141"/>
+<area shape="rect" id="node4" href="$structSpatialIndex_1_1MVRTree_1_1MVRTree_1_1NNEntry_1_1greater.html#a41674c4a70268f25f04a65aedc069a53" title="SpatialIndex::MVRTree\l::MVRTree::NNEntry::greater\l::operator()" alt="" coords="215,165,408,221"/>
+</map>

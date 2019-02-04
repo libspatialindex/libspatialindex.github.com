@@ -1,0 +1,5 @@
+<map id="SpatialIndex::IVisitor" name="SpatialIndex::IVisitor">
+<area shape="rect" id="node2" href="$classCountVisitor.html" title="{CountVisitor\n||+ CountVisitor()\l+ ~CountVisitor()\l+ GetResultCount()\l+ visitNode()\l+ visitData()\l+ visitData()\l}" alt="" coords="5,182,141,333"/>
+<area shape="rect" id="node3" href="$classIdVisitor.html" title="{IdVisitor\n||+ IdVisitor()\l+ ~IdVisitor()\l+ GetResultCount()\l+ GetResults()\l+ visitNode()\l+ visitData()\l+ visitData()\l}" alt="" coords="165,175,301,340"/>
+<area shape="rect" id="node4" href="$classObjVisitor.html" title="{ObjVisitor\n||+ ObjVisitor()\l+ ~ObjVisitor()\l+ GetResultCount()\l+ GetResults()\l+ visitNode()\l+ visitData()\l+ visitData()\l}" alt="" coords="325,175,461,340"/>
+</map>

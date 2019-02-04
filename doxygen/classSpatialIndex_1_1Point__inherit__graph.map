@@ -1,0 +1,7 @@
+<map id="SpatialIndex::Point" name="SpatialIndex::Point">
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1TimePoint.html" title="{SpatialIndex::TimePoint\n|+ m_startTime\l+ m_endTime\l|+ TimePoint()\l+ TimePoint()\l+ TimePoint()\l+ TimePoint()\l+ TimePoint()\l+ TimePoint()\l+ ~TimePoint()\l+ operator=()\l+ operator==()\l+ clone()\land 23 more...\l}" alt="" coords="55,704,217,943"/>
+<area shape="rect" id="node2" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="5,226,109,318"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="133,175,299,369"/>
+<area shape="rect" id="node4" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="139,5,293,127"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1MovingPoint.html" title="{SpatialIndex::MovingPoint\n|+ m_pVCoords\l|+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ MovingPoint()\l+ ~MovingPoint()\l+ operator=()\l+ operator==()\l+ getCoord()\land 11 more...\l}" alt="" coords="49,991,223,1215"/>
+</map>

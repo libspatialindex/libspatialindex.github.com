@@ -1,0 +1,6 @@
+<map id="SpatialIndex::RTree::ExternalSorter::Record" name="SpatialIndex::RTree::ExternalSorter::Record">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1Region.html" title="{SpatialIndex::Region\n|+ m_dimension\l+ m_pLow\l+ m_pHigh\l|+ Region()\l+ Region()\l+ Region()\l+ Region()\l+ ~Region()\l+ operator=()\l+ operator==()\l+ clone()\l+ getByteArraySize()\l+ loadFromByteArray()\land 27 more...\l}" alt="" coords="28,420,183,673"/>
+<area shape="rect" id="node3" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="5,227,109,319"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="133,176,299,371"/>
+<area shape="rect" id="node5" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="139,5,293,127"/>
+</map>

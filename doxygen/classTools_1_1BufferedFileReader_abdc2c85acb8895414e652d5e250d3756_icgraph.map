@@ -1,0 +1,6 @@
+<map id="Tools::BufferedFileReader::readDouble" name="Tools::BufferedFileReader::readDouble">
+<area shape="rect" id="node2" href="$classTools_1_1TemporaryFile.html#ad62e3d4ec6b16ab56f512835c1c6d22a" title="Tools::TemporaryFile\l::readDouble" alt="" coords="228,39,373,80"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree\l::ExternalSorter::Record\l::loadFromFile" alt="" coords="421,31,584,87"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree\l::ExternalSorter::getNextRecord" alt="" coords="632,5,841,47"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4cd6cd15e42fe7d84d84e1326eded66a" title="SpatialIndex::RTree\l::ExternalSorter::sort" alt="" coords="665,71,808,112"/>
+</map>

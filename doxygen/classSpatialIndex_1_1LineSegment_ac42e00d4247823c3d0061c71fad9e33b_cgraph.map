@@ -1,0 +1,13 @@
+<map id="SpatialIndex::LineSegment::intersectsShape" name="SpatialIndex::LineSegment::intersectsShape">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1LineSegment.html#aabcaf82444ff34724c34bbb4a70acd93" title="SpatialIndex::LineSegment\l::intersectsLineSegment" alt="" coords="232,41,411,83"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1LineSegment.html#acb10190800550e9860ddf50d57bb3834" title="SpatialIndex::LineSegment\l::intersectsRegion" alt="" coords="232,107,411,148"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1LineSegment.html#a5779eaddd4f42f3f08d6b25f181299b3" title="SpatialIndex::LineSegment\l::intersects" alt="" coords="459,41,637,83"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1LineSegment.html#a2275b61cae50e9ce5036f1c48e5eb89a" title="SpatialIndex::LineSegment\l::between" alt="" coords="685,5,864,47"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1LineSegment.html#ae4547d2634d051d1cf90706a92ab1d19" title="SpatialIndex::LineSegment\l::intersectsProper" alt="" coords="685,71,864,112"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1LineSegment.html#ac3795a26f9fa302d1869fe2cd2a34f75" title="SpatialIndex::LineSegment\l::collinear" alt="" coords="912,5,1091,47"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1LineSegment.html#ae6acb29974dd3fbec0daff1d748569be" title="SpatialIndex::LineSegment\l::doubleAreaTriangle" alt="" coords="1139,39,1317,80"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1LineSegment.html#a12e8ad1c80a3d5c6b57734a3eda66cc6" title="SpatialIndex::LineSegment\l::leftOf" alt="" coords="912,71,1091,112"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1Region.html#ae3e7cb37bb4518fda0cc5c2bf6e93be1" title="SpatialIndex::Region\l::intersectsLineSegment" alt="" coords="467,136,629,177"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1Region.html#a9f543359e7e2982db0069cffcfa4c367" title="SpatialIndex::Region\l::containsPoint" alt="" coords="703,136,846,177"/>
+<area shape="rect" id="node12" href="$classSpatialIndex_1_1Point.html#a646e4f75e13c896da7496dcb52868f3d" title="SpatialIndex::Point\l::getCoordinate" alt="" coords="935,136,1067,177"/>
+</map>

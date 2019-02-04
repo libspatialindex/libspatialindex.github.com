@@ -1,0 +1,5 @@
+<map id="SpatialIndex::Region" name="SpatialIndex::Region">
+<area shape="rect" id="node2" href="$classTools_1_1IObject.html" title="{Tools::IObject\n||+ ~IObject()\l+ clone()\l}" alt="" coords="5,226,109,318"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html" title="{SpatialIndex::IShape\n||+ intersectsShape()\l+ containsShape()\l+ touchesShape()\l+ getCenter()\l+ getDimension()\l+ getMBR()\l+ getArea()\l+ getMinimumDistance()\l+ ~IShape()\l}" alt="" coords="133,175,299,369"/>
+<area shape="rect" id="node4" href="$classTools_1_1ISerializable.html" title="{Tools::ISerializable\n||+ ~ISerializable()\l+ getByteArraySize()\l+ loadFromByteArray()\l+ storeToByteArray()\l}" alt="" coords="139,5,293,127"/>
+</map>

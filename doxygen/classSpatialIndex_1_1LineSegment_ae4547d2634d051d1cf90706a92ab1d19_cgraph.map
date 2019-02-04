@@ -1,0 +1,5 @@
+<map id="SpatialIndex::LineSegment::intersectsProper" name="SpatialIndex::LineSegment::intersectsProper">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1LineSegment.html#ac3795a26f9fa302d1869fe2cd2a34f75" title="SpatialIndex::LineSegment\l::collinear" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1LineSegment.html#a12e8ad1c80a3d5c6b57734a3eda66cc6" title="SpatialIndex::LineSegment\l::leftOf" alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1LineSegment.html#ae6acb29974dd3fbec0daff1d748569be" title="SpatialIndex::LineSegment\l::doubleAreaTriangle" alt="" coords="459,39,637,80"/>
+</map>

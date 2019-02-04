@@ -1,0 +1,7 @@
+<map id="Page_ResultSet_Obj" name="Page_ResultSet_Obj">
+<area shape="rect" id="node2" href="$classTools_1_1IObject.html#a5b74b6b26f1c9eba1257d4cdeed61b1e" title="Tools::IObject::clone" alt="" coords="217,5,359,32"/>
+<area shape="rect" id="node3" href="$classObjVisitor.html#ad766a958a8c5500e40f6cadc93cec510" title="ObjVisitor::GetResultCount" alt="" coords="197,56,379,83"/>
+<area shape="rect" id="node4" href="$classObjVisitor.html#abe099ef0db2f8a669f5e10e594b4784b" title="ObjVisitor::GetResults" alt="" coords="211,107,365,133"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="427,66,569,107"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="427,131,569,173"/>
+</map>

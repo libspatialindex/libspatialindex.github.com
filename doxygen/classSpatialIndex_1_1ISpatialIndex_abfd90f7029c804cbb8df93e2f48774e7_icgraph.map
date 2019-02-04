@@ -1,0 +1,8 @@
+<map id="SpatialIndex::ISpatialIndex::nearestNeighborQuery" name="SpatialIndex::ISpatialIndex::nearestNeighborQuery">
+<area shape="rect" id="node2" href="$sidx__api_8cc.html#a0b18b9c0cd176c4bee4ad7879b3504b3" title="Index_MVRNearestNeighbors_id" alt="" coords="235,5,449,32"/>
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#adef2b8f0952e67c675b3ecc2e2bb02ea" title="Index_MVRNearestNeighbors_obj" alt="" coords="232,56,452,83"/>
+<area shape="rect" id="node4" href="$sidx__api_8cc.html#a9821c357fc3fdee8cee53ae01b08491b" title="Index_NearestNeighbors_id" alt="" coords="251,107,433,133"/>
+<area shape="rect" id="node5" href="$sidx__api_8cc.html#a7eb7b2ee2945bfb95ada2e925472d57d" title="Index_NearestNeighbors_obj" alt="" coords="247,157,437,184"/>
+<area shape="rect" id="node6" href="$sidx__api_8cc.html#ac8f36032b9636bc93497b640bab63483" title="Index_TPNearestNeighbors_id" alt="" coords="242,208,442,235"/>
+<area shape="rect" id="node7" href="$sidx__api_8cc.html#a3d8c25413992b4199bb9982e479e1de9" title="Index_TPNearestNeighbors_obj" alt="" coords="239,259,445,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Tools::Exception" name="Tools::Exception">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1InvalidPageException.html" title="{SpatialIndex::InvalidPage\lException\n||+ InvalidPageException()\l+ ~InvalidPageException()\l+ what()\l}" alt="" coords="5,145,181,267"/>
+<area shape="rect" id="node3" href="$classTools_1_1EndOfStreamException.html" title="{Tools::EndOfStreamException\n||+ EndOfStreamException()\l+ ~EndOfStreamException()\l+ what()\l}" alt="" coords="206,153,405,259"/>
+<area shape="rect" id="node4" href="$classTools_1_1IllegalArgumentException.html" title="{Tools::IllegalArgumentException\n||+ IllegalArgumentException()\l+ ~IllegalArgumentException()\l+ what()\l}" alt="" coords="428,153,639,259"/>
+<area shape="rect" id="node5" href="$classTools_1_1IllegalStateException.html" title="{Tools::IllegalStateException\n||+ IllegalStateException()\l+ ~IllegalStateException()\l+ what()\l}" alt="" coords="663,153,849,259"/>
+<area shape="rect" id="node6" href="$classTools_1_1IndexOutOfBoundsException.html" title="{Tools::IndexOutOfBoundsException\n||+ IndexOutOfBoundsException()\l+ ~IndexOutOfBoundsException()\l+ what()\l}" alt="" coords="873,153,1103,259"/>
+<area shape="rect" id="node7" href="$classTools_1_1NotSupportedException.html" title="{Tools::NotSupportedException\n||+ NotSupportedException()\l+ ~NotSupportedException()\l+ what()\l}" alt="" coords="1128,153,1328,259"/>
+<area shape="rect" id="node8" href="$classTools_1_1ResourceLockedException.html" title="{Tools::ResourceLockedException\n||+ ResourceLockedException()\l+ ~ResourceLockedException()\l+ what()\l}" alt="" coords="1352,153,1571,259"/>
+</map>

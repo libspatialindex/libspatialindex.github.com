@@ -1,0 +1,6 @@
+<map id="SpatialIndex::LineSegment::intersectsRegion" name="SpatialIndex::LineSegment::intersectsRegion">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1LineSegment.html#ac42e00d4247823c3d0061c71fad9e33b" title="SpatialIndex::LineSegment\l::intersectsShape" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1Region.html#ae3e7cb37bb4518fda0cc5c2bf6e93be1" title="SpatialIndex::Region\l::intersectsLineSegment" alt="" coords="459,35,621,76"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#acff9fbcb257a197dd439c3e727ec0bb4" title="SpatialIndex::Region\l::intersectsShape" alt="" coords="669,35,812,76"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::MVRTree\l::Node::~Node" alt="" coords="860,35,1019,76"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ObjVisitor::GetResults" name="ObjVisitor::GetResults">
+<area shape="rect" id="node2" href="$Utility_8cc.html#a97f41eded2f3aaea7ce3060843835ca4" title="Page_ResultSet_Obj" alt="" coords="207,183,351,209"/>
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#aa0e7181619f03edf40cd886511ae714d" title="Index_Intersects_internal" alt="" coords="425,5,593,32"/>
+<area shape="rect" id="node4" href="$sidx__api_8cc.html#a0a5f26bab852dae8ff6513b484b88f2e" title="Index_Intersects_obj" alt="" coords="437,56,580,83"/>
+<area shape="rect" id="node5" href="$sidx__api_8cc.html#a40b5b72b2d7471815e5d96b69dffeef3" title="Index_MVRIntersects_obj" alt="" coords="422,107,595,133"/>
+<area shape="rect" id="node6" href="$sidx__api_8cc.html#adef2b8f0952e67c675b3ecc2e2bb02ea" title="Index_MVRNearestNeighbors_obj" alt="" coords="399,157,619,184"/>
+<area shape="rect" id="node7" href="$sidx__api_8cc.html#a7eb7b2ee2945bfb95ada2e925472d57d" title="Index_NearestNeighbors_obj" alt="" coords="413,208,604,235"/>
+<area shape="rect" id="node8" href="$sidx__api_8cc.html#a7edfad9f950d5605a912a6eb1b99db8f" title="Index_SegmentIntersects_obj" alt="" coords="411,259,606,285"/>
+<area shape="rect" id="node9" href="$sidx__api_8cc.html#a6e7ead72e9680c7b21c103729d38ffff" title="Index_TPIntersects_obj" alt="" coords="429,309,589,336"/>
+<area shape="rect" id="node10" href="$sidx__api_8cc.html#a3d8c25413992b4199bb9982e479e1de9" title="Index_TPNearestNeighbors_obj" alt="" coords="405,360,612,387"/>
+</map>

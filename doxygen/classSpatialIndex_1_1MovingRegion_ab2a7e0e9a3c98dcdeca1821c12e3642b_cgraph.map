@@ -1,0 +1,10 @@
+<map id="SpatialIndex::MovingRegion::intersectsPointInTime" name="SpatialIndex::MovingRegion::intersectsPointInTime">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1MovingRegion.html#a26dcb15641fcde44bbd37732f8c54285" title="SpatialIndex::MovingRegion\l::containsPointInTime" alt="" coords="239,112,424,153"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingRegion.html#af95ec27f1efe04fcfd3828e67e13bc07" title="SpatialIndex::MovingRegion\l::getExtrapolatedHigh" alt="" coords="472,5,657,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MovingRegion.html#aea26819bb756bbf58f5503b77469dbfd" title="SpatialIndex::MovingRegion\l::getExtrapolatedLow" alt="" coords="472,72,657,113"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MovingPoint.html#a8477b4040c12a929875c99713d4daa73" title="SpatialIndex::MovingPoint\l::getProjectedCoord" alt="" coords="477,140,652,181"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1MovingRegion.html#a44a40f15ee74e5b1b15dd6a5d0d79297" title="SpatialIndex::MovingRegion\l::isShrinking" alt="" coords="472,211,657,252"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MovingPoint.html#a413b46463116521138111883e74a82ab" title="SpatialIndex::MovingPoint\l::getVCoord" alt="" coords="244,280,419,321"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1MovingRegion.html#a981f2a2617d7124368ea954f5419f1ca" title="SpatialIndex::MovingRegion\l::getVHigh" alt="" coords="239,345,424,387"/>
+<area shape="rect" id="node9" href="$classSpatialIndex_1_1MovingRegion.html#a1b37e7b28f59e7eb22f843d465427d75" title="SpatialIndex::MovingRegion\l::getVLow" alt="" coords="239,411,424,452"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SpatialIndex::IShape::intersectsShape" name="SpatialIndex::IShape::intersectsShape">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ab5000400cecbb92cb199dd1802323ce8" title="SpatialIndex::RTree\l::RTree::containsWhatQuery" alt="" coords="196,5,385,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="221,71,360,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="211,136,370,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a9bac42373f2e8e6086302744a55b7f7f" title="SpatialIndex::RTree\l::RTree::internalNodesQuery" alt="" coords="196,201,385,243"/>
+</map>

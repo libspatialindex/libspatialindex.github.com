@@ -1,0 +1,5 @@
+<map id="SpatialIndex::MovingRegion::getMBRAtTime" name="SpatialIndex::MovingRegion::getMBRAtTime">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1MovingRegion.html#ad89bcbe2dc4e7ff45dae44fc473792e5" title="SpatialIndex::MovingRegion\l::getHigh" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MovingRegion.html#af8b859c1819b0ae052c75e828fe55827" title="SpatialIndex::MovingRegion\l::getLow" alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1Region.html#a7920fd18b03b6b56e1ffa89c91922e27" title="SpatialIndex::Region\l::makeDimension" alt="" coords="260,136,403,177"/>
+</map>

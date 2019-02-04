@@ -1,0 +1,6 @@
+<map id="SpatialIndex::Region::getIntersectingArea" name="SpatialIndex::Region::getIntersectingArea">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1Index.html#aa33ea2ea79426d667198847a3d58dd59" title="SpatialIndex::RTree\l::Index::findLeastOverlap" alt="" coords="196,5,364,47"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::RTree\l::Node::~Node" alt="" coords="211,71,349,112"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::MVRTree\l::Node::~Node" alt="" coords="201,136,359,177"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Index.html#a6d0a2421b9a38a121e0d1aefe9657bd9" title="SpatialIndex::RTree\l::Index::chooseSubtree" alt="" coords="412,5,569,47"/>
+</map>

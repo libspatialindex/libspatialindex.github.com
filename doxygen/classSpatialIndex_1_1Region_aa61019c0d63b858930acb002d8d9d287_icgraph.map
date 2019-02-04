@@ -1,0 +1,7 @@
+<map id="SpatialIndex::Region::intersectsRegion" name="SpatialIndex::Region::intersectsRegion">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="213,5,351,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#aa60444dfc7525d39d30c7be9dd87ff14" title="SpatialIndex::TimeRegion\l::intersectsRegionInTime" alt="" coords="196,71,368,112"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Region.html#acff9fbcb257a197dd439c3e727ec0bb4" title="SpatialIndex::Region\l::intersectsShape" alt="" coords="211,136,353,177"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1TimeRegion.html#a76da5027fea32732619c430dbaeb7930" title="SpatialIndex::TimeRegion\l::intersectsShapeInTime" alt="" coords="416,71,588,112"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::MVRTree\l::Node::~Node" alt="" coords="423,136,581,177"/>
+</map>

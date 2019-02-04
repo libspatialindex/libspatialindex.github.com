@@ -1,0 +1,6 @@
+<map id="Page_ResultSet_Ids" name="Page_ResultSet_Ids">
+<area shape="rect" id="node2" href="$classIdVisitor.html#ae2e86ef6a0eeeda279e3b2a311d7e46c" title="IdVisitor::GetResultCount" alt="" coords="196,5,368,32"/>
+<area shape="rect" id="node3" href="$classIdVisitor.html#a2fd1c01779d510c4dcb7336d2cd8f32e" title="IdVisitor::GetResults" alt="" coords="210,56,354,83"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="416,15,559,57"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="416,81,559,122"/>
+</map>

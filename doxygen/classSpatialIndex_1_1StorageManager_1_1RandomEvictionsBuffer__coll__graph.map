@@ -1,0 +1,5 @@
+<map id="SpatialIndex::StorageManager::RandomEvictionsBuffer" name="SpatialIndex::StorageManager::RandomEvictionsBuffer">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html" title="{SpatialIndex::StorageManager\l::Buffer\n|# m_capacity\l# m_bWriteThrough\l# m_buffer\l# m_u64Hits\l|+ Buffer()\l+ ~Buffer()\l+ flush()\l+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ clear()\l+ getHits()\l# addEntry()\l# removeEntry()\l}" alt="" coords="63,361,261,629"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1StorageManager_1_1IBuffer.html" title="{SpatialIndex::StorageManager\l::IBuffer\n||+ getHits()\l+ clear()\l+ ~IBuffer()\l}" alt="" coords="246,191,443,312"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IStorageManager.html" title="{SpatialIndex::IStorageManager\n||+ loadByteArray()\l+ storeByteArray()\l+ deleteByteArray()\l+ flush()\l+ ~IStorageManager()\l}" alt="" coords="5,5,207,141"/>
+</map>

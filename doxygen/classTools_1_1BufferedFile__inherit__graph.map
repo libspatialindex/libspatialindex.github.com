@@ -1,0 +1,4 @@
+<map id="Tools::BufferedFile" name="Tools::BufferedFile">
+<area shape="rect" id="node2" href="$classTools_1_1BufferedFileReader.html" title="{Tools::BufferedFileReader\n||+ BufferedFileReader()\l+ BufferedFileReader()\l+ ~BufferedFileReader()\l+ open()\l+ rewind()\l+ seek()\l+ readUInt8()\l+ readUInt16()\l+ readUInt32()\l+ readUInt64()\l+ readFloat()\l+ readDouble()\l+ readBoolean()\l+ readString()\l+ readBytes()\l}" alt="" coords="5,248,180,531"/>
+<area shape="rect" id="node3" href="$classTools_1_1BufferedFileWriter.html" title="{Tools::BufferedFileWriter\n||+ BufferedFileWriter()\l+ BufferedFileWriter()\l+ ~BufferedFileWriter()\l+ open()\l+ rewind()\l+ seek()\l+ write()\l+ write()\l+ write()\l+ write()\l+ write()\l+ write()\l+ write()\l+ write()\l+ write()\l}" alt="" coords="204,248,371,531"/>
+</map>
