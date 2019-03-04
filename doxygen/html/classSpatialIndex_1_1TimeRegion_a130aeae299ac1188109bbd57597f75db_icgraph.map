@@ -1,10 +1,10 @@
 <map id="SpatialIndex::TimeRegion::makeDimension" name="SpatialIndex::TimeRegion::makeDimension">
 <area shape="rect" id="node2" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ad578cff2d278eb7fcec85a7214858efa" title="SpatialIndex::MVRTree\l::MVRTree::deleteData" alt="" coords="232,5,391,47"/>
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#af48c636f6579d0786baac87e6ae87630" title="SpatialIndex::MVRTree\l::MVRTree::insertData" alt="" coords="232,71,391,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1TimeRegion.html#ad1ac787349a5ef98c1c52c38b9419846" title="SpatialIndex::TimeRegion\l::loadFromByteArray" alt="" coords="225,136,397,177"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ae1923ad6d0ba8c4cfcd464c20536aab4" title="SpatialIndex::MVRTree\l::MVRTree::insertData" alt="" coords="232,71,391,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1TimeRegion.html#a6b9e8a98b0bd518dfd84c2757e8123d2" title="SpatialIndex::TimeRegion\l::loadFromByteArray" alt="" coords="225,136,397,177"/>
 <area shape="rect" id="node6" href="$classSpatialIndex_1_1TimeRegion.html#a271744cb1513ea325a8af6b6ecfcaf94" title="SpatialIndex::TimeRegion\l::makeInfinite" alt="" coords="225,201,397,243"/>
 <area shape="rect" id="node9" href="$classSpatialIndex_1_1TimeRegion.html#afe354d62b10c08ca72608bd58e19e105" title="SpatialIndex::TimeRegion\l::operator=" alt="" coords="225,267,397,308"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Data.html#ac8e82398bcc9b2008c4e95afadc96342" title="SpatialIndex::MVRTree\l::Data::loadFromByteArray" alt="" coords="445,136,624,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1MVRTree_1_1Data.html#ad92b98ebebbe3177ff150bc682d0d2ad" title="SpatialIndex::MVRTree\l::Data::loadFromByteArray" alt="" coords="445,136,624,177"/>
 <area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="455,201,614,243"/>
 <area shape="rect" id="node8" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5d475966b0257b233d6458a84e2160d4" title="SpatialIndex::MVRTree\l::Node::isIndex" alt="" coords="455,267,614,308"/>
 </map>

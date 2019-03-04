@@ -1,11 +1,11 @@
 <map id="SpatialIndex::MovingRegion::makeDimension" name="SpatialIndex::MovingRegion::makeDimension">
 <area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#aa1313d8ee0cf1dcfc615994aa608a76a" title="SpatialIndex::TPRTree\l::TPRTree::deleteData" alt="" coords="254,5,409,47"/>
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a2c2329b9b84d0f94aee49391fd045d33" title="SpatialIndex::TPRTree\l::TPRTree::insertData" alt="" coords="254,71,409,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a9ea001d9001b38f619f5d977e9356d4f" title="SpatialIndex::TPRTree\l::Node::loadFromByteArray" alt="" coords="241,201,422,243"/>
-<area shape="rect" id="node6" href="$classSpatialIndex_1_1MovingRegion.html#a082cd40fa0ad28f468cbad3b582be1c3" title="SpatialIndex::MovingRegion\l::loadFromByteArray" alt="" coords="239,136,424,177"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#acd019adcf9013c02b2ebed9fbb73eb39" title="SpatialIndex::TPRTree\l::TPRTree::insertData" alt="" coords="254,71,409,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5" title="SpatialIndex::TPRTree\l::Node::loadFromByteArray" alt="" coords="241,201,422,243"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1MovingRegion.html#a2eeef36314561239f42ac9b6ce147097" title="SpatialIndex::MovingRegion\l::loadFromByteArray" alt="" coords="239,136,424,177"/>
 <area shape="rect" id="node8" href="$classSpatialIndex_1_1MovingRegion.html#ae627ceefb66bf757c60a937426cac25e" title="SpatialIndex::MovingRegion\l::makeInfinite" alt="" coords="239,267,424,308"/>
 <area shape="rect" id="node10" href="$classSpatialIndex_1_1MovingRegion.html#af6169b705de7dfd2b44b0dbaec6b5961" title="SpatialIndex::MovingRegion\l::operator=" alt="" coords="239,332,424,373"/>
 <area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="484,201,639,243"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1TPRTree_1_1Data.html#a6ffdfb4d2da96acfa7b533c44e3c600d" title="SpatialIndex::TPRTree\l::Data::loadFromByteArray" alt="" coords="472,136,651,177"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1TPRTree_1_1Data.html#a548b052e5c574262046b2301bc6d256c" title="SpatialIndex::TPRTree\l::Data::loadFromByteArray" alt="" coords="472,136,651,177"/>
 <area shape="rect" id="node9" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a5d475966b0257b233d6458a84e2160d4" title="SpatialIndex::TPRTree\l::Node::isIndex" alt="" coords="484,267,639,308"/>
 </map>

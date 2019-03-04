@@ -1,6 +1,6 @@
 <map id="SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry" name="SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry">
 <area shape="rect" id="node2" href="$rand48_8h.html#a80c373c063eed771e86106e33fb1ede0" title="drand48" alt="" coords="317,5,385,32"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,57,452,98"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,57,452,98"/>
 <area shape="rect" id="node3" href="$rand48_8cc.html#ad3ce4b095584ac45fe18252a45af88ed" title="erand48" alt="" coords="500,5,568,32"/>
 <area shape="rect" id="node4" href="$rand48_8cc.html#ab6df33da1716950e8c52351565dbb046" title="_dorand48" alt="" coords="616,5,699,32"/>
 </map>

@@ -5,7 +5,7 @@ var classTools_1_1BufferedFileReader =
     [ "~BufferedFileReader", "classTools_1_1BufferedFileReader.html#a4b53f355eca198322de1531f9489c42a", null ],
     [ "open", "classTools_1_1BufferedFileReader.html#ab8a566b20548f6230cb68bf0a8f8fa23", null ],
     [ "readBoolean", "classTools_1_1BufferedFileReader.html#a9054f0ffafae43cdf92e5026b6db05e8", null ],
-    [ "readBytes", "classTools_1_1BufferedFileReader.html#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6", null ],
+    [ "readBytes", "classTools_1_1BufferedFileReader.html#a78aa9e677db00652f62edc4e96804f8c", null ],
     [ "readDouble", "classTools_1_1BufferedFileReader.html#abdc2c85acb8895414e652d5e250d3756", null ],
     [ "readFloat", "classTools_1_1BufferedFileReader.html#a25252feb9a56871e7b0151cbc857e4aa", null ],
     [ "readString", "classTools_1_1BufferedFileReader.html#a2f12a82980600f6126e67f3037c5c6a4", null ],

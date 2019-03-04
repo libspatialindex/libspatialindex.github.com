@@ -1,7 +1,7 @@
 var classSpatialIndex_1_1INode =
 [
     [ "~INode", "classSpatialIndex_1_1INode.html#ab149d5131a8a6d74d69919a547d281ae", null ],
-    [ "getChildData", "classSpatialIndex_1_1INode.html#afa909eea829a74598c67d0b8a78e3894", null ],
+    [ "getChildData", "classSpatialIndex_1_1INode.html#a46af17f676a1f6655a4909b017087fb2", null ],
     [ "getChildIdentifier", "classSpatialIndex_1_1INode.html#a4e59f8ffd236c347423076f407709271", null ],
     [ "getChildrenCount", "classSpatialIndex_1_1INode.html#a03e2aafc4fc90693478f6779755ed77d", null ],
     [ "getChildShape", "classSpatialIndex_1_1INode.html#a3c7434949e402df74f12123d68e49341", null ],

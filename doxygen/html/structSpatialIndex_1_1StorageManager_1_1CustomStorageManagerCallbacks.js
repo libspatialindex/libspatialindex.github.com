@@ -6,6 +6,6 @@ var structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks =
     [ "deleteByteArrayCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a2a2ad1af73fbdd7599e27727444bb352", null ],
     [ "destroyCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a253fd3a36ebdb44d2fdfa6895ff331b1", null ],
     [ "flushCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a56638139d988d9cf91246dfa81997aa2", null ],
-    [ "loadByteArrayCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a1593e3b22c3b1cf2fd842ac8fb76db73", null ],
-    [ "storeByteArrayCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a09d3b504af2f9a5a5980c3dcda595de9", null ]
+    [ "loadByteArrayCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a7db617a8b1acc3e777aedc381755cffe", null ],
+    [ "storeByteArrayCallback", "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#aa542a2a410d7f64cdd468a699bd83db3", null ]
 ];

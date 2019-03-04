@@ -1,7 +1,7 @@
 <map id="Index::index" name="Index::index">
-<area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a69e237de09476b2014ec4261609630c0" title="SpatialIndex::TPRTree\l::Node::getChildData" alt="" coords="179,5,334,47"/>
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a69e237de09476b2014ec4261609630c0" title="SpatialIndex::MVRTree\l::Node::getChildData" alt="" coords="177,71,336,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1Node.html#a69e237de09476b2014ec4261609630c0" title="SpatialIndex::RTree\l::Node::getChildData" alt="" coords="184,136,329,177"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a5361941f8b1df0e44777fe9885873d53" title="SpatialIndex::TPRTree\l::Node::getChildData" alt="" coords="179,5,334,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a5361941f8b1df0e44777fe9885873d53" title="SpatialIndex::MVRTree\l::Node::getChildData" alt="" coords="177,71,336,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1Node.html#a5361941f8b1df0e44777fe9885873d53" title="SpatialIndex::RTree\l::Node::getChildData" alt="" coords="184,136,329,177"/>
 <area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#aca0a39b220f82cd7a6bbe006168d44d8" title="SpatialIndex::TPRTree\l::Node::getChildIdentifier" alt="" coords="173,201,340,243"/>
 <area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1Node.html#aca0a39b220f82cd7a6bbe006168d44d8" title="SpatialIndex::RTree\l::Node::getChildIdentifier" alt="" coords="173,267,340,308"/>
 <area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#aca0a39b220f82cd7a6bbe006168d44d8" title="SpatialIndex::MVRTree\l::Node::getChildIdentifier" alt="" coords="173,332,340,373"/>

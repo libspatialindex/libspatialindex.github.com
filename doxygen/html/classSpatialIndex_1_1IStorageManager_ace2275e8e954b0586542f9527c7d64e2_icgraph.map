@@ -1,0 +1,6 @@
+<map id="SpatialIndex::IStorageManager::loadByteArray" name="SpatialIndex::IStorageManager::loadByteArray">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,5,431,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,71,423,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,136,433,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1dff039d62743572c808247e9115fb04" title="SpatialIndex::StorageManager\l::Buffer::loadByteArray" alt="" coords="255,201,452,243"/>
+</map>

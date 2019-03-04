@@ -8,7 +8,7 @@ var classSpatialIndex_1_1RTree_1_1RTree =
     [ "flush", "classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0", null ],
     [ "getIndexProperties", "classSpatialIndex_1_1RTree_1_1RTree.html#a67b2508c8781789511d6af9e9c05c55f", null ],
     [ "getStatistics", "classSpatialIndex_1_1RTree_1_1RTree.html#a229f3bf8fb7d48f9d974edb77a73bc37", null ],
-    [ "insertData", "classSpatialIndex_1_1RTree_1_1RTree.html#a429e53e3070b392e3ce5d32bb9a05729", null ],
+    [ "insertData", "classSpatialIndex_1_1RTree_1_1RTree.html#aeea6024d01373cae04e0864d5434da7a", null ],
     [ "internalNodesQuery", "classSpatialIndex_1_1RTree_1_1RTree.html#a9bac42373f2e8e6086302744a55b7f7f", null ],
     [ "intersectsWithQuery", "classSpatialIndex_1_1RTree_1_1RTree.html#aea487c121129bcc6bd31c7808dff80c2", null ],
     [ "isIndexValid", "classSpatialIndex_1_1RTree_1_1RTree.html#ae7d2166bce432e1073ef6af3763e1ac7", null ],

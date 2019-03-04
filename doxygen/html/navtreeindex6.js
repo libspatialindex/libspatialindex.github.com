@@ -1,7 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"sidx__api_8cc.html#a45e4ea8816888dab674aa14f296996de":[2,0,69,4],
-"sidx__api_8cc.html#a467718276779a48d7908003a104ba69e":[2,0,69,69],
 "sidx__api_8cc.html#a4751b93a70286b810dd6d372cd5c79f9":[2,0,69,57],
 "sidx__api_8cc.html#a4a144b8d2a0647b03deb52b0fac0d518":[2,0,69,82],
 "sidx__api_8cc.html#a4a98cb9dd00032997f1658e766abcd23":[2,0,69,40],
@@ -247,7 +245,9 @@ var NAVTREEINDEX6 =
 "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record_1_1SortAscending.html":[1,0,0,1,2,0,0],
 "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record_1_1SortAscending.html#a515ce36d25b76788b0041adf83cd1495":[1,0,0,1,2,0,0,0],
 "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html":[1,0,0,2,2],
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a09d3b504af2f9a5a5980c3dcda595de9":[1,0,0,2,2,7],
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a1593e3b22c3b1cf2fd842ac8fb76db73":[1,0,0,2,2,6],
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a253fd3a36ebdb44d2fdfa6895ff331b1":[1,0,0,2,2,4]
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a253fd3a36ebdb44d2fdfa6895ff331b1":[1,0,0,2,2,4],
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a2a2ad1af73fbdd7599e27727444bb352":[1,0,0,2,2,3],
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a3267d8721bfe2ea555757f6e8031c840":[1,0,0,2,2,0],
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a56638139d988d9cf91246dfa81997aa2":[1,0,0,2,2,5],
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a7db617a8b1acc3e777aedc381755cffe":[1,0,0,2,2,6]
 };

@@ -1,7 +1,7 @@
 <map id="SpatialIndex::Point::makeDimension" name="SpatialIndex::Point::makeDimension">
 <area shape="rect" id="node2" href="$classSpatialIndex_1_1Region.html#ad13adc756aae54516ec2ca568d892dca" title="SpatialIndex::Region\l::getCenter" alt="" coords="201,5,344,47"/>
 <area shape="rect" id="node4" href="$classSpatialIndex_1_1MovingPoint.html#a933c8c159cfd5beb61dbe87023b39900" title="SpatialIndex::MovingPoint\l::getPointAtTime" alt="" coords="185,71,360,112"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#aaa10b86048f833f56852d761363942ed" title="SpatialIndex::Point\l::loadFromByteArray" alt="" coords="201,136,344,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1Point.html#a55ba71666970b1b259a0801bf177f236" title="SpatialIndex::Point\l::loadFromByteArray" alt="" coords="201,136,344,177"/>
 <area shape="rect" id="node6" href="$classSpatialIndex_1_1Point.html#a1d240017c594f19d5d4f0442bdb08415" title="SpatialIndex::Point\l::makeInfinite" alt="" coords="207,201,339,243"/>
 <area shape="rect" id="node7" href="$classSpatialIndex_1_1Point.html#a38ec052f1f90418e9266a1fecf8f9e6e" title="SpatialIndex::Point\l::operator=" alt="" coords="207,267,339,308"/>
 <area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Node.html#a5d129d27d74d8d16302ca48624135407" title="SpatialIndex::RTree\l::Node::~Node" alt="" coords="408,5,547,47"/>

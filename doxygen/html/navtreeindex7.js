@@ -1,8 +1,6 @@
 var NAVTREEINDEX7 =
 {
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a2a2ad1af73fbdd7599e27727444bb352":[1,0,0,2,2,3],
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a3267d8721bfe2ea555757f6e8031c840":[1,0,0,2,2,0],
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a56638139d988d9cf91246dfa81997aa2":[1,0,0,2,2,5],
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#aa542a2a410d7f64cdd468a699bd83db3":[1,0,0,2,2,7],
 "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7":[1,0,0,2,2,1],
 "structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#afc598a0cfcdae690b82f395a345253c2":[1,0,0,2,2,2],
 "tprtree_2Index_8cc.html":[2,0,21],

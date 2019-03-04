@@ -7,7 +7,7 @@ var classSpatialIndex_1_1ISpatialIndex =
     [ "flush", "classSpatialIndex_1_1ISpatialIndex.html#a7e7a229d253d40c1dea378ae67eddc1f", null ],
     [ "getIndexProperties", "classSpatialIndex_1_1ISpatialIndex.html#ade261fa2a6e3fdbe4d35248e1554a7c6", null ],
     [ "getStatistics", "classSpatialIndex_1_1ISpatialIndex.html#acb9b92ffdf2e96b838f391ed06da447c", null ],
-    [ "insertData", "classSpatialIndex_1_1ISpatialIndex.html#a222029c2d7767204f3dcd0440799899a", null ],
+    [ "insertData", "classSpatialIndex_1_1ISpatialIndex.html#a5be567356b7c0fced39fe242f9241011", null ],
     [ "internalNodesQuery", "classSpatialIndex_1_1ISpatialIndex.html#a54b140d8695c6586ef99074913919eae", null ],
     [ "intersectsWithQuery", "classSpatialIndex_1_1ISpatialIndex.html#a1b553d31a28d27405dc08a68150e3f48", null ],
     [ "isIndexValid", "classSpatialIndex_1_1ISpatialIndex.html#acf7a0a3a9d1ffbea4a82293abf7c6941", null ],
