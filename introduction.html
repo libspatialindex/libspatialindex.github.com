@@ -1,11 +1,9 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
     <title>Introduction &#8212; libspatialindex 1.9.0 documentation</title>
     <link rel="stylesheet" href="_static/nature.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -13,6 +11,7 @@
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" /> 
   </head><body>
@@ -36,21 +35,20 @@
 <h1>Introduction<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="library-goals">
 <h2>Library Goals<a class="headerlink" href="#library-goals" title="Permalink to this headline">¶</a></h2>
-<dl class="docutils">
-<dt>The purpose of this library is to provide:</dt>
-<dd><ol class="first last arabic simple">
-<li>An extensible framework that will support robust spatial indexing
-methods.</li>
-<li>Support for sophisticated spatial queries. Range, point location,
+<dl class="simple">
+<dt>The purpose of this library is to provide:</dt><dd><ol class="arabic simple">
+<li><p>An extensible framework that will support robust spatial indexing
+methods.</p></li>
+<li><p>Support for sophisticated spatial queries. Range, point location,
 nearest neighbor and k-nearest neighbor as well as parametric
-queries (defined by spatial constraints) should be easy to deploy and run.</li>
-<li>Easy to use interfaces for inserting, deleting and updating information.</li>
-<li>Wide variety of customization capabilities. Basic index and storage
+queries (defined by spatial constraints) should be easy to deploy and run.</p></li>
+<li><p>Easy to use interfaces for inserting, deleting and updating information.</p></li>
+<li><p>Wide variety of customization capabilities. Basic index and storage
 characteristics like the page size, node capacity, minimum fan-out,
-splitting algorithm, etc. should be easy to customize.</li>
-<li>Index persistence. Internal memory and external memory structures
+splitting algorithm, etc. should be easy to customize.</p></li>
+<li><p>Index persistence. Internal memory and external memory structures
 should be supported.  Clustered and non-clustered indices should
-be easy to be persisted.</li>
+be easy to be persisted.</p></li>
 </ol>
 </dd>
 </dl>
@@ -58,21 +56,21 @@ be easy to be persisted.</li>
 <div class="section" id="features">
 <h2>Features<a class="headerlink" href="#features" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Generic main memory and disk based storage managers.</li>
-<li>R*-tree index (also supports linear and quadratic splitting).</li>
-<li>MVR-tree index (a.k.a. PPR-tree).</li>
-<li>TPR-tree index.</li>
-<li>Advanced query capabilities, using Strategy and Visitor patterns.</li>
-<li>Arbitrary shaped range queries, by defining generic geometry interfaces.</li>
-<li>Large parameterization capabilities, including dimensionality, fill factor,
-node capacity, etc.</li>
-<li>STR packing / bulk loading.</li>
+<li><p>Generic main memory and disk based storage managers.</p></li>
+<li><p>R*-tree index (also supports linear and quadratic splitting).</p></li>
+<li><p>MVR-tree index (a.k.a. PPR-tree).</p></li>
+<li><p>TPR-tree index.</p></li>
+<li><p>Advanced query capabilities, using Strategy and Visitor patterns.</p></li>
+<li><p>Arbitrary shaped range queries, by defining generic geometry interfaces.</p></li>
+<li><p>Large parameterization capabilities, including dimensionality, fill factor,
+node capacity, etc.</p></li>
+<li><p>STR packing / bulk loading.</p></li>
 </ul>
 </div>
 <div class="section" id="warnings">
 <h2>Warnings<a class="headerlink" href="#warnings" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>The library is not thread-safe, even for seemingly read-only operations. Queries and updates must be run from within mutexes.</li>
+<li><p>The library is not thread-safe, even for seemingly read-only operations. Queries and updates must be run from within mutexes.</p></li>
 </ul>
 </div>
 </div>
@@ -106,8 +104,6 @@ node capacity, etc.</li>
     <form class="search" action="search.html" method="get">
       <input type="text" name="q" />
       <input type="submit" value="Go" />
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
     </form>
     </div>
 </div>
@@ -127,7 +123,7 @@ node capacity, etc.</li>
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2019, Marios Hadjieleftheriou.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.2.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 2.0.1.
     </div>
   </body>
 </html>

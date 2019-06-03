@@ -43,7 +43,7 @@ var sidx__api_8h =
     [ "IndexItem_GetBounds", "sidx__api_8h.html#ad25bfcc1691c2a1d6ee47d8ed45ff88f", null ],
     [ "IndexItem_GetData", "sidx__api_8h.html#a11dfbfbc543489f87d8987609c5f6bb4", null ],
     [ "IndexItem_GetID", "sidx__api_8h.html#a60d3a6bebf6d28c82ab3ddd55b17c6c1", null ],
-    [ "IndexProperty_Create", "sidx__api_8h.html#aeaf0e8a21c244d043a2183e44e6a1a47", null ],
+    [ "IndexProperty_Create", "sidx__api_8h.html#a905c05303978236f7b4097ea28f3da8e", null ],
     [ "IndexProperty_Destroy", "sidx__api_8h.html#a51263951bd0ac078a70b5f89570d45fe", null ],
     [ "IndexProperty_GetBufferingCapacity", "sidx__api_8h.html#a5dc9864c051f5e1f10ee5887fdefabea", null ],
     [ "IndexProperty_GetCustomStorageCallbacks", "sidx__api_8h.html#ac1a1dfe547c28fdd02a3ddbf546ceacb", null ],
@@ -101,5 +101,5 @@ var sidx__api_8h =
     [ "IndexProperty_SetWriteThrough", "sidx__api_8h.html#a0f4a5a7591d5c471b20498cc4d9da012", null ],
     [ "SIDX_DeleteBuffer", "sidx__api_8h.html#ade3fc8b9b5e62b1badf1b3a0a404fe21", null ],
     [ "SIDX_NewBuffer", "sidx__api_8h.html#af6a07ce4d8f26bbd511868c0fc818d13", null ],
-    [ "SIDX_Version", "sidx__api_8h.html#ad62ad674316de447ac10c08140d7002a", null ]
+    [ "SIDX_Version", "sidx__api_8h.html#a8295fc412ac49b04c3aedcf6f7e7076b", null ]
 ];
