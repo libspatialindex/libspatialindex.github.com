@@ -46,8 +46,8 @@ var NAVTREEINDEX =
 "classSpatialIndex_1_1Region.html#aa46df29896b54bc3cf81b447e38b43ff",
 "classTools_1_1BufferedFile.html#a15b611c2cff59e4891102427b010eaa1",
 "functions_b.html",
-"sidx__api_8cc.html#a4751b93a70286b810dd6d372cd5c79f9",
-"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#aa542a2a410d7f64cdd468a699bd83db3"
+"sidx__api_8cc.html#a467718276779a48d7908003a104ba69e",
+"structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
