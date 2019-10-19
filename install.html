@@ -14,7 +14,7 @@
     <script type="text/javascript" src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Download" href="download.html" />
+    <link rel="next" title="Mailing List" href="community.html" />
     <link rel="prev" title="libspatialindex" href="index.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
@@ -24,7 +24,7 @@
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="download.html" title="Download"
+          <a href="community.html" title="Mailing List"
              accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="index.html" title="libspatialindex"
@@ -40,31 +40,7 @@
             
   <div class="section" id="installation">
 <span id="install"></span><h1>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h1>
-<p>libspatialindex supports building and installation using a couple of
-different methods.  The primary method on unix-like systems is the
-<a class="reference external" href="http://en.wikipedia.org/wiki/GNU_build_system">Autotools</a>-style build.  Alternatively, a <a class="reference external" href="http://www.cmake.org">CMake</a>-derived build system is also
-available for building libspatialindex as of the 1.7.0 release</p>
-<div class="section" id="autotools">
-<h2>Autotools<a class="headerlink" href="#autotools" title="Permalink to this headline">¶</a></h2>
-<p>First run <cite>autogen.sh</cite> to generate the configure scripts.
-By default include files and library files will be installed in <cite>/usr/local</cite>. If
-you would like to use a different installation directory (e.g., in case
-that you do not have root access) run the configure script with
-the –prefix option:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[hobu@fire libspatialindex]$ ./configure --prefix=/home/marioh/usr
-</pre></div>
-</div>
-<p>Make the library:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[hobu@fire libspatialindex]$ make
-</pre></div>
-</div>
-<p>Install the library:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[hobu@fire libspatialindex]$ make install
-</pre></div>
-</div>
-</div>
-<div class="section" id="cmake">
-<h2>CMake<a class="headerlink" href="#cmake" title="Permalink to this headline">¶</a></h2>
+<p>libspatialindex supports building an installation through a <a class="reference external" href="http://www.cmake.org">CMake</a>-derived build system.</p>
 <p>The CMake scenario for building libspatialindex is also quite simple.</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>[hobu@fire libspatialindex]$ cmake -DCMAKE_INSTALL_PREFIX=/home/marioh/usr .
 </pre></div>
@@ -76,7 +52,6 @@ the –prefix option:</p>
 </pre></div>
 </div>
 </div>
-</div>
 
 
           </div>
@@ -84,21 +59,12 @@ the –prefix option:</p>
       </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
-  <h3><a href="index.html">Table of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Installation</a><ul>
-<li><a class="reference internal" href="#autotools">Autotools</a></li>
-<li><a class="reference internal" href="#cmake">CMake</a></li>
-</ul>
-</li>
-</ul>
-
   <h4>Previous topic</h4>
   <p class="topless"><a href="index.html"
                         title="previous chapter">libspatialindex</a></p>
   <h4>Next topic</h4>
-  <p class="topless"><a href="download.html"
-                        title="next chapter">Download</a></p>
+  <p class="topless"><a href="community.html"
+                        title="next chapter">Mailing List</a></p>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -127,7 +93,7 @@ the –prefix option:</p>
           <a href="genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="download.html" title="Download"
+          <a href="community.html" title="Mailing List"
              >next</a> |</li>
         <li class="right" >
           <a href="index.html" title="libspatialindex"
