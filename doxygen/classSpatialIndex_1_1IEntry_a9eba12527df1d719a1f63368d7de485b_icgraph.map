@@ -1,9 +1,6 @@
 <map id="SpatialIndex::IEntry::getShape" name="SpatialIndex::IEntry::getShape">
-<area shape="rect" id="node2" href="$LeafQuery_8cc.html#add4e392bdee1b4e8450142ea1215748e" title="get_results" alt="" coords="252,5,339,32"/>
-<area shape="rect" id="node4" href="$classBoundsQuery.html#abc723beb3706431cf0c483b671b90279" title="BoundsQuery::getNextEntry" alt="" coords="202,56,389,83"/>
-<area shape="rect" id="node5" href="$sidx__api_8cc.html#a2026f36055eca6ff93a973027418fff0" title="IndexItem_GetBounds" alt="" coords="219,107,371,133"/>
-<area shape="rect" id="node6" href="$structSpatialIndex_1_1RTree_1_1RTree_1_1NNEntry_1_1ascending.html#a1ac5006c2c11ea212a60508c58534145" title="SpatialIndex::RTree\l::RTree::NNEntry::ascending\l::operator()" alt="" coords="199,157,391,213"/>
-<area shape="rect" id="node7" href="$structSpatialIndex_1_1TPRTree_1_1TPRTree_1_1NNEntry_1_1ascending.html#a4922b3fd53529117256a879650bf0551" title="SpatialIndex::TPRTree\l::TPRTree::NNEntry::ascending\l::operator()" alt="" coords="191,237,400,293"/>
-<area shape="rect" id="node8" href="$structSpatialIndex_1_1MVRTree_1_1MVRTree_1_1NNEntry_1_1greater.html#a41674c4a70268f25f04a65aedc069a53" title="SpatialIndex::MVRTree\l::MVRTree::NNEntry::greater\l::operator()" alt="" coords="199,317,392,373"/>
-<area shape="rect" id="node3" href="$classLeafQuery.html#a615197e6e3a134a18a6966a1218f2db2" title="LeafQuery::getNextEntry" alt="" coords="448,5,615,32"/>
+<area shape="rect" id="node2" href="$LeafQuery_8cc.html#add4e392bdee1b4e8450142ea1215748e" title="get_results" alt="" coords="241,5,327,32"/>
+<area shape="rect" id="node4" href="$classBoundsQuery.html#abc723beb3706431cf0c483b671b90279" title="BoundsQuery::getNextEntry" alt="" coords="191,56,377,83"/>
+<area shape="rect" id="node5" href="$sidx__api_8cc.html#a2026f36055eca6ff93a973027418fff0" title="IndexItem_GetBounds" alt="" coords="208,107,360,133"/>
+<area shape="rect" id="node3" href="$classLeafQuery.html#a615197e6e3a134a18a6966a1218f2db2" title="LeafQuery::getNextEntry" alt="" coords="425,5,592,32"/>
 </map>

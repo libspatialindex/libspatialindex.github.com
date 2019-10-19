@@ -122,10 +122,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa1d4d3ba80ed7ac6ad24ff5073e5791d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af0f9703598a872dfedc12c003f13017c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#af0f9703598a872dfedc12c003f13017c">getByteArraySize</a> () override</td></tr>
 <tr class="separator:af0f9703598a872dfedc12c003f13017c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa9fba56920645573aaaa9e89ef93ebf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#afa9fba56920645573aaaa9e89ef93ebf">loadFromByteArray</a> (const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *data) override</td></tr>
-<tr class="separator:afa9fba56920645573aaaa9e89ef93ebf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ccb6acf1d62f8b8d7ff491fd3063072"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#a8ccb6acf1d62f8b8d7ff491fd3063072">storeToByteArray</a> (<a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data, uint32_t &amp;len) override</td></tr>
-<tr class="separator:a8ccb6acf1d62f8b8d7ff491fd3063072"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a321518da3feaaf821860130355c706ce"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#a321518da3feaaf821860130355c706ce">loadFromByteArray</a> (const uint8_t *data) override</td></tr>
+<tr class="separator:a321518da3feaaf821860130355c706ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aced735b40b0e3bf3e07636f39077c998"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#aced735b40b0e3bf3e07636f39077c998">storeToByteArray</a> (uint8_t **data, uint32_t &amp;len) override</td></tr>
+<tr class="separator:aced735b40b0e3bf3e07636f39077c998"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a34086ac2356d3dd2de538c62a515c9fc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#a34086ac2356d3dd2de538c62a515c9fc">intersectsShapeInTime</a> (const <a class="el" href="classSpatialIndex_1_1ITimeShape.html">ITimeShape</a> &amp;in) const override</td></tr>
 <tr class="separator:a34086ac2356d3dd2de538c62a515c9fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bb001bdac1fa607c44754df3695c43d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1TimePoint.html#a7bb001bdac1fa607c44754df3695c43d">intersectsShapeInTime</a> (const <a class="el" href="classTools_1_1IInterval.html">Tools::IInterval</a> &amp;ivI, const <a class="el" href="classSpatialIndex_1_1ITimeShape.html">ITimeShape</a> &amp;in) const override</td></tr>
@@ -725,7 +725,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1TimePoint_af0f9703598a872dfedc12c003f13017c_icgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_af0f9703598a872dfedc12c003f13017c_icgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1TimePoint_af0f9703598a872dfedc12c003f13017c_icgraph" id="classSpatialIndex_1_1TimePoint_af0f9703598a872dfedc12c003f13017c_icgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#a8ccb6acf1d62f8b8d7ff491fd3063072" title="SpatialIndex::TimePoint\l::storeToByteArray" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#aced735b40b0e3bf3e07636f39077c998" title="SpatialIndex::TimePoint\l::storeToByteArray" alt="" coords="215,5,376,47"/>
 </map>
 </div>
 
@@ -826,7 +826,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="TimePoint_8cc_source.html#l00260">260</a> of file <a class="el" href="TimePoint_8cc_source.html">TimePoint.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00084">Tools::IT_RIGHTOPEN</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00082">Tools::IT_RIGHTOPEN</a>.</p>
 
 </div>
 </div>
@@ -1059,8 +1059,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="afa9fba56920645573aaaa9e89ef93ebf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa9fba56920645573aaaa9e89ef93ebf">&#9670;&nbsp;</a></span>loadFromByteArray()</h2>
+<a id="a321518da3feaaf821860130355c706ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a321518da3feaaf821860130355c706ce">&#9670;&nbsp;</a></span>loadFromByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1071,7 +1071,7 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname">void TimePoint::loadFromByteArray </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *&#160;</td>
+          <td class="paramtype">const uint8_t *&#160;</td>
           <td class="paramname"><em>data</em></td><td>)</td>
           <td></td>
         </tr>
@@ -1083,7 +1083,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="classSpatialIndex_1_1Point.html#aaa10b86048f833f56852d761363942ed">SpatialIndex::Point</a>.</p>
+<p>Reimplemented from <a class="el" href="classSpatialIndex_1_1Point.html#a55ba71666970b1b259a0801bf177f236">SpatialIndex::Point</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="TimePoint_8cc_source.html#l00121">121</a> of file <a class="el" href="TimePoint_8cc_source.html">TimePoint.cc</a>.</p>
 
@@ -1091,8 +1091,8 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1TimePoint_afa9fba56920645573aaaa9e89ef93ebf_cgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_afa9fba56920645573aaaa9e89ef93ebf_cgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1TimePoint_afa9fba56920645573aaaa9e89ef93ebf_cgraph" id="classSpatialIndex_1_1TimePoint_afa9fba56920645573aaaa9e89ef93ebf_cgraph">
+<div class="center"><img src="classSpatialIndex_1_1TimePoint_a321518da3feaaf821860130355c706ce_cgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_a321518da3feaaf821860130355c706ce_cgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1TimePoint_a321518da3feaaf821860130355c706ce_cgraph" id="classSpatialIndex_1_1TimePoint_a321518da3feaaf821860130355c706ce_cgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#a4a5f9a8890fc0c3e5565102c3265bdc4" title="SpatialIndex::TimePoint\l::makeDimension" alt="" coords="215,5,376,47"/>
 </map>
 </div>
@@ -1135,7 +1135,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1TimePoint_a4a5f9a8890fc0c3e5565102c3265bdc4_icgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_a4a5f9a8890fc0c3e5565102c3265bdc4_icgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1TimePoint_a4a5f9a8890fc0c3e5565102c3265bdc4_icgraph" id="classSpatialIndex_1_1TimePoint_a4a5f9a8890fc0c3e5565102c3265bdc4_icgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#afa9fba56920645573aaaa9e89ef93ebf" title="SpatialIndex::TimePoint\l::loadFromByteArray" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#a321518da3feaaf821860130355c706ce" title="SpatialIndex::TimePoint\l::loadFromByteArray" alt="" coords="215,5,376,47"/>
 <area shape="rect" id="node3" href="classSpatialIndex_1_1TimePoint.html#a2448a2bec00ac8ce0287f9d1ecba52d0" title="SpatialIndex::TimePoint\l::makeInfinite" alt="" coords="215,71,376,112"/>
 <area shape="rect" id="node4" href="classSpatialIndex_1_1TimePoint.html#ad82a29544d0b4be71c17c82ad1876175" title="SpatialIndex::TimePoint\l::operator=" alt="" coords="215,136,376,177"/>
 </map>
@@ -1340,8 +1340,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a8ccb6acf1d62f8b8d7ff491fd3063072"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ccb6acf1d62f8b8d7ff491fd3063072">&#9670;&nbsp;</a></span>storeToByteArray()</h2>
+<a id="aced735b40b0e3bf3e07636f39077c998"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aced735b40b0e3bf3e07636f39077c998">&#9670;&nbsp;</a></span>storeToByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1352,7 +1352,7 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname">void TimePoint::storeToByteArray </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -1374,7 +1374,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="classSpatialIndex_1_1Point.html#ac168d073e87d8babc6a466b9dca2b703">SpatialIndex::Point</a>.</p>
+<p>Reimplemented from <a class="el" href="classSpatialIndex_1_1Point.html#a27108bbd21c3611cd345fae35c36103b">SpatialIndex::Point</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="TimePoint_8cc_source.html#l00136">136</a> of file <a class="el" href="TimePoint_8cc_source.html">TimePoint.cc</a>.</p>
 
@@ -1382,8 +1382,8 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1TimePoint_a8ccb6acf1d62f8b8d7ff491fd3063072_cgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_a8ccb6acf1d62f8b8d7ff491fd3063072_cgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1TimePoint_a8ccb6acf1d62f8b8d7ff491fd3063072_cgraph" id="classSpatialIndex_1_1TimePoint_a8ccb6acf1d62f8b8d7ff491fd3063072_cgraph">
+<div class="center"><img src="classSpatialIndex_1_1TimePoint_aced735b40b0e3bf3e07636f39077c998_cgraph.png" border="0" usemap="#classSpatialIndex_1_1TimePoint_aced735b40b0e3bf3e07636f39077c998_cgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1TimePoint_aced735b40b0e3bf3e07636f39077c998_cgraph" id="classSpatialIndex_1_1TimePoint_aced735b40b0e3bf3e07636f39077c998_cgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1TimePoint.html#af0f9703598a872dfedc12c003f13017c" title="SpatialIndex::TimePoint\l::getByteArraySize" alt="" coords="215,5,376,47"/>
 </map>
 </div>
@@ -1542,7 +1542,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceSpatialIndex.html">SpatialIndex</a></li><li class="navelem"><a class="el" href="classSpatialIndex_1_1TimePoint.html">TimePoint</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

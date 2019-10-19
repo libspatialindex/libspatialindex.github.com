@@ -1,6 +1,6 @@
 <map id="SpatialIndex::IShape::containsShape" name="SpatialIndex::IShape::containsShape">
-<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1RTree.html#ab5000400cecbb92cb199dd1802323ce8" title="SpatialIndex::RTree\l::RTree::containsWhatQuery" alt="" coords="196,5,385,47"/>
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="221,71,360,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="211,136,370,177"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a9bac42373f2e8e6086302744a55b7f7f" title="SpatialIndex::RTree\l::RTree::internalNodesQuery" alt="" coords="196,201,385,243"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a421c405e0e1e86b9bf418493d7d381ed" title="SpatialIndex::RTree\l::RTree::containsWhatQuery" alt="" coords="196,5,385,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="221,71,360,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="211,136,370,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a5208978d2eb2fb120f325663c183ca31" title="SpatialIndex::RTree\l::RTree::internalNodesQuery" alt="" coords="196,201,385,243"/>
 </map>

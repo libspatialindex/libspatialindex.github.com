@@ -1,5 +1,5 @@
 <map id="SpatialIndex::TimeRegion::intersectsInterval" name="SpatialIndex::TimeRegion::intersectsInterval">
-<area shape="rect" id="node2" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="232,5,391,47"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="232,5,391,47"/>
 <area shape="rect" id="node3" href="$classSpatialIndex_1_1TimeRegion.html#aa60444dfc7525d39d30c7be9dd87ff14" title="SpatialIndex::TimeRegion\l::intersectsRegionInTime" alt="" coords="225,71,397,112"/>
 <area shape="rect" id="node5" href="$classSpatialIndex_1_1TimeRegion.html#afa1139e70fc54ba352c3250487f45955" title="SpatialIndex::TimeRegion\l::setBounds" alt="" coords="225,136,397,177"/>
 <area shape="rect" id="node6" href="$classSpatialIndex_1_1TimeRegion.html#a6e162a34469fbc826cc3ad860fa2b5e2" title="SpatialIndex::TimeRegion\l::touchesPointInTime" alt="" coords="225,201,397,243"/>

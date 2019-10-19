@@ -1,0 +1,9 @@
+<map id="Index_Contains_count" name="Index_Contains_count">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1ISpatialIndex.html#af1fdef28414e8d3c85b5364837efefe8" title="SpatialIndex::ISpatialIndex\l::containsWhatQuery" alt="" coords="214,5,393,47"/>
+<area shape="rect" id="node3" href="$sidx__api_8cc.html#a7bbf8e749750f51800b63c97c76f44d1" title="Error_PushError" alt="" coords="246,71,361,98"/>
+<area shape="rect" id="node4" href="$classCountVisitor.html#a9acd032ce172b9b62bce38e43d126c0c" title="CountVisitor::GetResultCount" alt="" coords="205,122,401,149"/>
+<area shape="rect" id="node7" href="$classIndex.html#a06b9c2149d1825247185cf4efa21fb7d" title="Index::index" alt="" coords="257,173,350,199"/>
+<area shape="rect" id="node8" href="$classTools_1_1Exception.html#a31b97b309a334d0ac3c309066f813855" title="Tools::Exception::what" alt="" coords="225,223,381,250"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="449,83,592,124"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="449,148,592,189"/>
+</map>

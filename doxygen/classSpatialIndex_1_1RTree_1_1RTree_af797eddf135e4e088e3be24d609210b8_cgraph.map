@@ -1,0 +1,7 @@
+<map id="SpatialIndex::RTree::RTree::nearestNeighborQuery" name="SpatialIndex::RTree::RTree::nearestNeighborQuery">
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="549,5,691,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a162e95f05feee62758274b83ee97d2d5" title="SpatialIndex::RTree\l::RTree::nearestNeighborQuery" alt="" coords="257,71,461,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1INearestNeighborComparator.html#acc1b1b15857147f203aa9ad59c7fb87c" title="SpatialIndex::INearestNeighbor\lComparator::getMinimumDistance" alt="" coords="509,71,731,112"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="549,136,691,177"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="549,201,691,243"/>
+</map>

@@ -1,13 +1,5 @@
 var hierarchy =
 [
-    [ "binary_function", null, [
-      [ "SpatialIndex::MovingRegion::CrossPoint::ascending", "structSpatialIndex_1_1MovingRegion_1_1CrossPoint_1_1ascending.html", null ],
-      [ "SpatialIndex::MVRTree::MVRTree::NNEntry::greater", "structSpatialIndex_1_1MVRTree_1_1MVRTree_1_1NNEntry_1_1greater.html", null ],
-      [ "SpatialIndex::RTree::ExternalSorter::PQEntry::SortAscending", "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1PQEntry_1_1SortAscending.html", null ],
-      [ "SpatialIndex::RTree::ExternalSorter::Record::SortAscending", "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record_1_1SortAscending.html", null ],
-      [ "SpatialIndex::RTree::RTree::NNEntry::ascending", "structSpatialIndex_1_1RTree_1_1RTree_1_1NNEntry_1_1ascending.html", null ],
-      [ "SpatialIndex::TPRTree::TPRTree::NNEntry::ascending", "structSpatialIndex_1_1TPRTree_1_1TPRTree_1_1NNEntry_1_1ascending.html", null ]
-    ] ],
     [ "Tools::BufferedFile", "classTools_1_1BufferedFile.html", [
       [ "Tools::BufferedFileReader", "classTools_1_1BufferedFileReader.html", null ],
       [ "Tools::BufferedFileWriter", "classTools_1_1BufferedFileWriter.html", null ]
@@ -145,6 +137,8 @@ var hierarchy =
     [ "Tools::PoolPointer< TimeRegion >", "classTools_1_1PoolPointer.html", null ],
     [ "Tools::Random", "classTools_1_1Random.html", null ],
     [ "SpatialIndex::RTree::ExternalSorter::Record", "classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html", null ],
+    [ "SpatialIndex::RTree::ExternalSorter::PQEntry::SortAscending", "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1PQEntry_1_1SortAscending.html", null ],
+    [ "SpatialIndex::RTree::ExternalSorter::Record::SortAscending", "structSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record_1_1SortAscending.html", null ],
     [ "Tools::TemporaryFile", "classTools_1_1TemporaryFile.html", null ],
     [ "Tools::Variant", "classTools_1_1Variant.html", null ]
 ];

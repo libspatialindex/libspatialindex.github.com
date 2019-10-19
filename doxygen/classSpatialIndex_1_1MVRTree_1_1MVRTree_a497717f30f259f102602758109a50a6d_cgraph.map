@@ -1,0 +1,24 @@
+<map id="SpatialIndex::MVRTree::MVRTree::flush" name="SpatialIndex::MVRTree::MVRTree::flush">
+<area shape="rect" id="node2" href="$classTools_1_1PointerPool.html#a15633e39be0a6e674f5b4782d290108b" title="Tools::PointerPool\l::acquire" alt="" coords="483,316,612,357"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#a0ad9a8bc51528f126d930dbe5ec4e2d6" title="SpatialIndex::IShape\l::containsShape" alt="" coords="241,57,384,99"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IStorageManager.html#abeef9dbc08c082a010160674280b7e56" title="SpatialIndex::IStorageManager\l::deleteByteArray" alt="" coords="212,123,413,164"/>
+<area shape="rect" id="node5" href="$classTools_1_1PoolPointer.html#a828e830ff7ae2704a0fc88a6e03e4cdf" title="Tools::PoolPointer::get" alt="" coords="235,189,390,215"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1Region.html#a5c74b8acaf9ea1267d71607bca8398ca" title="SpatialIndex::Region\l::getDimension" alt="" coords="241,240,384,281"/>
+<area shape="rect" id="node7" href="$classTools_1_1PropertySet.html#a5720b21d187b1dda20466a849814820a" title="Tools::PropertySet\l::getProperty" alt="" coords="247,305,378,347"/>
+<area shape="rect" id="node8" href="$classSpatialIndex_1_1TimeRegion.html#ac3e7298abfcdaab2339d89e4ab207994" title="SpatialIndex::TimeRegion\l::intersectsInterval" alt="" coords="227,371,399,412"/>
+<area shape="rect" id="node9" href="$classTools_1_1IInterval.html#adbad6f876c24eb6f45d2aba57b33cb84" title="Tools::IInterval::intersects\lInterval" alt="" coords="225,436,400,477"/>
+<area shape="rect" id="node10" href="$classSpatialIndex_1_1IShape.html#a5728089c380bc570b0a8e4566b2e04c3" title="SpatialIndex::IShape\l::intersectsShape" alt="" coords="241,501,384,543"/>
+<area shape="rect" id="node11" href="$classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2" title="SpatialIndex::IStorageManager\l::loadByteArray" alt="" coords="212,567,413,608"/>
+<area shape="rect" id="node12" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5" title="SpatialIndex::MVRTree\l::Node::loadFromByteArray" alt="" coords="222,632,403,673"/>
+<area shape="rect" id="node13" href="$classSpatialIndex_1_1TimeRegion.html#a271744cb1513ea325a8af6b6ecfcaf94" title="SpatialIndex::TimeRegion\l::makeInfinite" alt="" coords="227,697,399,739"/>
+<area shape="rect" id="node15" href="$classTools_1_1PoolPointer.html#a9d94a6c441bd1430a015de08b53a16ce" title="Tools::PoolPointer\l::relinquish" alt="" coords="248,763,377,804"/>
+<area shape="rect" id="node16" href="$classTools_1_1PointerPool.html#aded11393d073b1644695df2c19bfe2a0" title="Tools::PointerPool\l::setCapacity" alt="" coords="248,828,377,869"/>
+<area shape="rect" id="node17" href="$classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="212,893,413,935"/>
+<area shape="rect" id="node18" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#a502df32b2036dc56701c9b921d541a9f" title="SpatialIndex::MVRTree\l::Node::storeToByteArray" alt="" coords="227,959,398,1000"/>
+<area shape="rect" id="node20" href="$classTools_1_1PoolPointer.html#a631753f485f527aff056b3192cb620fc" title="Tools::PoolPointer\l::unique" alt="" coords="248,1024,377,1065"/>
+<area shape="rect" id="node21" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="241,1089,384,1131"/>
+<area shape="rect" id="node22" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="241,1155,384,1196"/>
+<area shape="rect" id="node23" href="$classSpatialIndex_1_1InvalidPageException.html#a8ac41f6dc9e00d4d67efc9c4a0007bc4" title="SpatialIndex::InvalidPage\lException::what" alt="" coords="227,1220,398,1261"/>
+<area shape="rect" id="node14" href="$classSpatialIndex_1_1TimeRegion.html#a130aeae299ac1188109bbd57597f75db" title="SpatialIndex::TimeRegion\l::makeDimension" alt="" coords="461,697,633,739"/>
+<area shape="rect" id="node19" href="$classSpatialIndex_1_1MVRTree_1_1Node.html#aae2e0cef242319b4de2308d818bda803" title="SpatialIndex::MVRTree\l::Node::getByteArraySize" alt="" coords="462,959,633,1000"/>
+</map>

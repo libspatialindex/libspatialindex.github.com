@@ -115,8 +115,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a9054f0ffafae43cdf92e5026b6db05e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f12a82980600f6126e67f3037c5c6a4"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1BufferedFileReader.html#a2f12a82980600f6126e67f3037c5c6a4">readString</a> ()</td></tr>
 <tr class="separator:a2f12a82980600f6126e67f3037c5c6a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8cc4123fe6a1a92bc7c3b9cf24f7a8e6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1BufferedFileReader.html#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6">readBytes</a> (uint32_t u32Len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **pData)</td></tr>
-<tr class="separator:a8cc4123fe6a1a92bc7c3b9cf24f7a8e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78aa9e677db00652f62edc4e96804f8c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1BufferedFileReader.html#a78aa9e677db00652f62edc4e96804f8c">readBytes</a> (uint32_t u32Len, uint8_t **pData)</td></tr>
+<tr class="separator:a78aa9e677db00652f62edc4e96804f8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classTools_1_1BufferedFile"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classTools_1_1BufferedFile')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classTools_1_1BufferedFile.html">Tools::BufferedFile</a></td></tr>
 <tr class="memitem:a9351bba79fbde3803dfc37d4244fecbf inherit pub_methods_classTools_1_1BufferedFile"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1BufferedFile.html#a9351bba79fbde3803dfc37d4244fecbf">BufferedFile</a> (uint32_t u32BufferSize=16384)</td></tr>
 <tr class="separator:a9351bba79fbde3803dfc37d4244fecbf inherit pub_methods_classTools_1_1BufferedFile"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -141,7 +141,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="Tools_8h_source.html#l00426">426</a> of file <a class="el" href="Tools_8h_source.html">Tools.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="Tools_8h_source.html#l00424">424</a> of file <a class="el" href="Tools_8h_source.html">Tools.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae3e1cbfec894a42114389db9c4d0a738"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae3e1cbfec894a42114389db9c4d0a738">&#9670;&nbsp;</a></span>BufferedFileReader() <span class="overload">[1/2]</span></h2>
@@ -283,7 +283,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00748">748</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_buffer</a>, <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>, <a class="el" href="Tools_8h_source.html#l00422">Tools::BufferedFile::m_u32BufferSize</a>, and <a class="el" href="classTools_1_1BufferedFileReader.html#a4b53f355eca198322de1531f9489c42a">~BufferedFileReader()</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, <a class="el" href="Tools_8h_source.html#l00419">Tools::BufferedFile::m_buffer</a>, <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>, <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_u32BufferSize</a>, and <a class="el" href="classTools_1_1BufferedFileReader.html#a4b53f355eca198322de1531f9489c42a">~BufferedFileReader()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l00742">BufferedFileReader()</a>, and <a class="el" href="Tools_8cc_source.html#l00925">Tools::BufferedFileWriter::BufferedFileWriter()</a>.</p>
 <div class="dynheader">
@@ -331,12 +331,12 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00867">867</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 </div>
 </div>
-<a id="a8cc4123fe6a1a92bc7c3b9cf24f7a8e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8cc4123fe6a1a92bc7c3b9cf24f7a8e6">&#9670;&nbsp;</a></span>readBytes()</h2>
+<a id="a78aa9e677db00652f62edc4e96804f8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78aa9e677db00652f62edc4e96804f8c">&#9670;&nbsp;</a></span>readBytes()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -353,7 +353,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>pData</em>&#160;</td>
         </tr>
         <tr>
@@ -371,15 +371,15 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00908">908</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01199">Tools::TemporaryFile::readBytes()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classTools_1_1BufferedFileReader_a8cc4123fe6a1a92bc7c3b9cf24f7a8e6_icgraph.png" border="0" usemap="#classTools_1_1BufferedFileReader_a8cc4123fe6a1a92bc7c3b9cf24f7a8e6_icgraph" alt=""/></div>
-<map name="classTools_1_1BufferedFileReader_a8cc4123fe6a1a92bc7c3b9cf24f7a8e6_icgraph" id="classTools_1_1BufferedFileReader_a8cc4123fe6a1a92bc7c3b9cf24f7a8e6_icgraph">
-<area shape="rect" id="node2" href="classTools_1_1TemporaryFile.html#ab4f368e3fd089fb869445047723ae2b0" title="Tools::TemporaryFile\l::readBytes" alt="" coords="228,39,373,80"/>
+<div class="center"><img src="classTools_1_1BufferedFileReader_a78aa9e677db00652f62edc4e96804f8c_icgraph.png" border="0" usemap="#classTools_1_1BufferedFileReader_a78aa9e677db00652f62edc4e96804f8c_icgraph" alt=""/></div>
+<map name="classTools_1_1BufferedFileReader_a78aa9e677db00652f62edc4e96804f8c_icgraph" id="classTools_1_1BufferedFileReader_a78aa9e677db00652f62edc4e96804f8c_icgraph">
+<area shape="rect" id="node2" href="classTools_1_1TemporaryFile.html#a9c204845320447c357fb1f00227e6d7a" title="Tools::TemporaryFile\l::readBytes" alt="" coords="228,39,373,80"/>
 <area shape="rect" id="node3" href="classSpatialIndex_1_1RTree_1_1ExternalSorter_1_1Record.html#a60270774579db67ca8c6d99eafad6ca5" title="SpatialIndex::RTree\l::ExternalSorter::Record\l::loadFromFile" alt="" coords="421,31,584,87"/>
 <area shape="rect" id="node4" href="classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a8d35379de261926a43cf8c277fa23f86" title="SpatialIndex::RTree\l::ExternalSorter::getNextRecord" alt="" coords="632,5,841,47"/>
 <area shape="rect" id="node5" href="classSpatialIndex_1_1RTree_1_1ExternalSorter.html#a4cd6cd15e42fe7d84d84e1326eded66a" title="SpatialIndex::RTree\l::ExternalSorter::sort" alt="" coords="665,71,808,112"/>
@@ -413,7 +413,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00853">853</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01181">Tools::TemporaryFile::readDouble()</a>.</p>
 <div class="dynheader">
@@ -455,7 +455,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00839">839</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01172">Tools::TemporaryFile::readFloat()</a>.</p>
 <div class="dynheader">
@@ -494,7 +494,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00881">881</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01190">Tools::TemporaryFile::readString()</a>.</p>
 <div class="dynheader">
@@ -533,7 +533,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00797">797</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01145">Tools::TemporaryFile::readUInt16()</a>.</p>
 <div class="dynheader">
@@ -572,7 +572,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00811">811</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01154">Tools::TemporaryFile::readUInt32()</a>.</p>
 <div class="dynheader">
@@ -614,7 +614,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00825">825</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01163">Tools::TemporaryFile::readUInt64()</a>.</p>
 <div class="dynheader">
@@ -656,7 +656,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00783">783</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01136">Tools::TemporaryFile::readUInt8()</a>.</p>
 <div class="dynheader">
@@ -697,7 +697,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00764">764</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Tools_8cc_source.html#l01102">Tools::TemporaryFile::rewindForReading()</a>.</p>
 <div class="dynheader">
@@ -739,7 +739,7 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Tools_8cc_source.html#l00774">774</a> of file <a class="el" href="Tools_8cc_source.html">Tools.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00423">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00420">Tools::BufferedFile::m_file</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00421">Tools::BufferedFile::m_bEOF</a>, and <a class="el" href="Tools_8h_source.html#l00418">Tools::BufferedFile::m_file</a>.</p>
 
 </div>
 </div>
@@ -753,7 +753,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceTools.html">Tools</a></li><li class="navelem"><a class="el" href="classTools_1_1BufferedFileReader.html">BufferedFileReader</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

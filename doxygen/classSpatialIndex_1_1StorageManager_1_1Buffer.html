@@ -104,10 +104,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0bbaca2d47ade89fb96c2366195f7694"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57c3388255eda5face7910c24b1e4863"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a57c3388255eda5face7910c24b1e4863">flush</a> () override</td></tr>
 <tr class="separator:a57c3388255eda5face7910c24b1e4863"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e4f22f32ee3455a90bc09b37dd3a6d0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a8e4f22f32ee3455a90bc09b37dd3a6d0">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t &amp;len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data) override</td></tr>
-<tr class="separator:a8e4f22f32ee3455a90bc09b37dd3a6d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2665ab14e03f8dcfc4d7ac9897b644f7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a2665ab14e03f8dcfc4d7ac9897b644f7">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;page, const uint32_t len, const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const data) override</td></tr>
-<tr class="separator:a2665ab14e03f8dcfc4d7ac9897b644f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dff039d62743572c808247e9115fb04"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1dff039d62743572c808247e9115fb04">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t &amp;len, uint8_t **data) override</td></tr>
+<tr class="separator:a1dff039d62743572c808247e9115fb04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1b3d6b49c39238d115d6ffd4dc730cc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#ab1b3d6b49c39238d115d6ffd4dc730cc">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;page, const uint32_t len, const uint8_t *const data) override</td></tr>
+<tr class="separator:ab1b3d6b49c39238d115d6ffd4dc730cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1931edbae9c0208f6de7ac4d8d7212ec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1931edbae9c0208f6de7ac4d8d7212ec">deleteByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page) override</td></tr>
 <tr class="separator:a1931edbae9c0208f6de7ac4d8d7212ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ca80587a68ed937f86adef12300f239"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a4ca80587a68ed937f86adef12300f239">clear</a> () override</td></tr>
@@ -173,7 +173,7 @@ Protected Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="Buffer_8cc_source.html#l00033">33</a> of file <a class="el" href="Buffer_8cc_source.html">Buffer.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Tools_8h_source.html#l00293">Tools::Variant::blVal</a>, <a class="el" href="Tools_8cc_source.html#l00346">Tools::PropertySet::getProperty()</a>, <a class="el" href="Buffer_8h_source.html#l00079">m_bWriteThrough</a>, <a class="el" href="Buffer_8h_source.html#l00078">m_capacity</a>, <a class="el" href="classTools_1_1Variant.html#a756b1cb4b67c4f96f2a8039e8289b46d">Tools::Variant::m_val</a>, <a class="el" href="Tools_8h_source.html#l00279">Tools::Variant::m_varType</a>, <a class="el" href="Tools_8h_source.html#l00291">Tools::Variant::ulVal</a>, <a class="el" href="Tools_8h_source.html#l00102">Tools::VT_BOOL</a>, <a class="el" href="Tools_8h_source.html#l00105">Tools::VT_EMPTY</a>, and <a class="el" href="Tools_8h_source.html#l00099">Tools::VT_ULONG</a>.</p>
+<p class="reference">References <a class="el" href="Tools_8h_source.html#l00291">Tools::Variant::blVal</a>, <a class="el" href="Tools_8cc_source.html#l00346">Tools::PropertySet::getProperty()</a>, <a class="el" href="Buffer_8h_source.html#l00079">m_bWriteThrough</a>, <a class="el" href="Buffer_8h_source.html#l00078">m_capacity</a>, <a class="el" href="classTools_1_1Variant.html#a756b1cb4b67c4f96f2a8039e8289b46d">Tools::Variant::m_val</a>, <a class="el" href="Tools_8h_source.html#l00277">Tools::Variant::m_varType</a>, <a class="el" href="Tools_8h_source.html#l00289">Tools::Variant::ulVal</a>, <a class="el" href="Tools_8h_source.html#l00100">Tools::VT_BOOL</a>, <a class="el" href="Tools_8h_source.html#l00103">Tools::VT_EMPTY</a>, and <a class="el" href="Tools_8h_source.html#l00097">Tools::VT_ULONG</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -217,7 +217,7 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a0bbaca2d47ade89fb96c2366195f7694_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a0bbaca2d47ade89fb96c2366195f7694_cgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a0bbaca2d47ade89fb96c2366195f7694_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a0bbaca2d47ade89fb96c2366195f7694_cgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a57c3388255eda5face7910c24b1e4863" title="SpatialIndex::StorageManager\l::Buffer::flush" alt="" coords="251,5,448,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="496,5,697,47"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="496,5,697,47"/>
 </map>
 </div>
 
@@ -266,8 +266,8 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_aa8291fc0211015c649559eb78729ab63_icgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_aa8291fc0211015c649559eb78729ab63_icgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1StorageManager_1_1Buffer_aa8291fc0211015c649559eb78729ab63_icgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_aa8291fc0211015c649559eb78729ab63_icgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a8e4f22f32ee3455a90bc09b37dd3a6d0" title="SpatialIndex::StorageManager\l::Buffer::loadByteArray" alt="" coords="251,5,448,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a2665ab14e03f8dcfc4d7ac9897b644f7" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1dff039d62743572c808247e9115fb04" title="SpatialIndex::StorageManager\l::Buffer::loadByteArray" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#ab1b3d6b49c39238d115d6ffd4dc730cc" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="251,71,448,112"/>
 </map>
 </div>
 
@@ -300,13 +300,13 @@ Here is the caller graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Buffer_8cc_source.html#l00134">134</a> of file <a class="el" href="Buffer_8cc_source.html">Buffer.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
+<p class="reference">References <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a4ca80587a68ed937f86adef12300f239_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a4ca80587a68ed937f86adef12300f239_cgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a4ca80587a68ed937f86adef12300f239_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a4ca80587a68ed937f86adef12300f239_cgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,5,452,47"/>
+<area shape="rect" id="node2" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,5,452,47"/>
 </map>
 </div>
 
@@ -379,7 +379,7 @@ Here is the call graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="Buffer_8cc_source.html#l00059">59</a> of file <a class="el" href="Buffer_8cc_source.html">Buffer.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
+<p class="reference">References <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="Buffer_8cc_source.html#l00054">~Buffer()</a>.</p>
 <div class="dynheader">
@@ -387,7 +387,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a57c3388255eda5face7910c24b1e4863_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a57c3388255eda5face7910c24b1e4863_cgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a57c3388255eda5face7910c24b1e4863_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a57c3388255eda5face7910c24b1e4863_cgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,5,452,47"/>
+<area shape="rect" id="node2" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,5,452,47"/>
 </map>
 </div>
 <div class="dynheader">
@@ -432,8 +432,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a8e4f22f32ee3455a90bc09b37dd3a6d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e4f22f32ee3455a90bc09b37dd3a6d0">&#9670;&nbsp;</a></span>loadByteArray()</h2>
+<a id="a1dff039d62743572c808247e9115fb04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dff039d62743572c808247e9115fb04">&#9670;&nbsp;</a></span>loadByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -456,7 +456,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -472,18 +472,18 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da">SpatialIndex::IStorageManager</a>.</p>
+<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2">SpatialIndex::IStorageManager</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="Buffer_8cc_source.html#l00072">72</a> of file <a class="el" href="Buffer_8cc_source.html">Buffer.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63">addEntry()</a>, <a class="el" href="classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da">SpatialIndex::IStorageManager::loadByteArray()</a>, <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, and <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>.</p>
+<p class="reference">References <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63">addEntry()</a>, <a class="el" href="classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2">SpatialIndex::IStorageManager::loadByteArray()</a>, <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, and <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a8e4f22f32ee3455a90bc09b37dd3a6d0_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a8e4f22f32ee3455a90bc09b37dd3a6d0_cgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a8e4f22f32ee3455a90bc09b37dd3a6d0_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a8e4f22f32ee3455a90bc09b37dd3a6d0_cgraph">
+<div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a1dff039d62743572c808247e9115fb04_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a1dff039d62743572c808247e9115fb04_cgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a1dff039d62743572c808247e9115fb04_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a1dff039d62743572c808247e9115fb04_cgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63" title="SpatialIndex::StorageManager\l::Buffer::addEntry" alt="" coords="253,5,450,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da" title="SpatialIndex::IStorageManager\l::loadByteArray" alt="" coords="251,71,452,112"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2" title="SpatialIndex::IStorageManager\l::loadByteArray" alt="" coords="251,71,452,112"/>
 </map>
 </div>
 
@@ -516,8 +516,8 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a id="a2665ab14e03f8dcfc4d7ac9897b644f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2665ab14e03f8dcfc4d7ac9897b644f7">&#9670;&nbsp;</a></span>storeByteArray()</h2>
+<a id="ab1b3d6b49c39238d115d6ffd4dc730cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1b3d6b49c39238d115d6ffd4dc730cc">&#9670;&nbsp;</a></span>storeByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -540,7 +540,7 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const&#160;</td>
+          <td class="paramtype">const uint8_t *const&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -556,18 +556,18 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">SpatialIndex::IStorageManager</a>.</p>
+<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">SpatialIndex::IStorageManager</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="Buffer_8cc_source.html#l00090">90</a> of file <a class="el" href="Buffer_8cc_source.html">Buffer.cc</a>.</p>
 
-<p class="reference">References <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63">addEntry()</a>, <a class="el" href="Buffer_8h_source.html#l00072">SpatialIndex::StorageManager::Buffer::Entry::m_bDirty</a>, <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00079">m_bWriteThrough</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>, <a class="el" href="SpatialIndex_8h_source.html#l00218">SpatialIndex::StorageManager::NewPage</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
+<p class="reference">References <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63">addEntry()</a>, <a class="el" href="Buffer_8h_source.html#l00072">SpatialIndex::StorageManager::Buffer::Entry::m_bDirty</a>, <a class="el" href="Buffer_8h_source.html#l00081">m_buffer</a>, <a class="el" href="Buffer_8h_source.html#l00079">m_bWriteThrough</a>, <a class="el" href="Buffer_8h_source.html#l00080">m_pStorageManager</a>, <a class="el" href="Buffer_8h_source.html#l00082">m_u64Hits</a>, <a class="el" href="SpatialIndex_8h_source.html#l00218">SpatialIndex::StorageManager::NewPage</a>, and <a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">SpatialIndex::IStorageManager::storeByteArray()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_a2665ab14e03f8dcfc4d7ac9897b644f7_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_a2665ab14e03f8dcfc4d7ac9897b644f7_cgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1StorageManager_1_1Buffer_a2665ab14e03f8dcfc4d7ac9897b644f7_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_a2665ab14e03f8dcfc4d7ac9897b644f7_cgraph">
+<div class="center"><img src="classSpatialIndex_1_1StorageManager_1_1Buffer_ab1b3d6b49c39238d115d6ffd4dc730cc_cgraph.png" border="0" usemap="#classSpatialIndex_1_1StorageManager_1_1Buffer_ab1b3d6b49c39238d115d6ffd4dc730cc_cgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1StorageManager_1_1Buffer_ab1b3d6b49c39238d115d6ffd4dc730cc_cgraph" id="classSpatialIndex_1_1StorageManager_1_1Buffer_ab1b3d6b49c39238d115d6ffd4dc730cc_cgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#aa8291fc0211015c649559eb78729ab63" title="SpatialIndex::StorageManager\l::Buffer::addEntry" alt="" coords="253,5,450,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,71,452,112"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="251,71,452,112"/>
 </map>
 </div>
 
@@ -714,7 +714,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceSpatialIndex.html">SpatialIndex</a></li><li class="navelem"><a class="el" href="namespaceSpatialIndex_1_1StorageManager.html">StorageManager</a></li><li class="navelem"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html">Buffer</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

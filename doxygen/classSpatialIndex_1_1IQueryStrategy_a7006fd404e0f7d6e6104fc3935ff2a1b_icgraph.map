@@ -1,7 +1,7 @@
 <map id="SpatialIndex::IQueryStrategy::getNextEntry" name="SpatialIndex::IQueryStrategy::getNextEntry">
-<area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ab3b872d431af65e1d7a26f7c87efb89d" title="SpatialIndex::TPRTree\l::TPRTree::queryStrategy" alt="" coords="256,5,428,47"/>
-<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a4e34e115086c3a0045a84f89698d1839" title="SpatialIndex::RTree\l::RTree::queryStrategy" alt="" coords="265,71,419,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a2825a1d3c1a68f42c191baa0e90805dd" title="SpatialIndex::MVRTree\l::MVRTree::queryStrategy" alt="" coords="255,136,429,177"/>
+<area shape="rect" id="node2" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#a94fd459e37ef7cb2318556a57ab86713" title="SpatialIndex::TPRTree\l::TPRTree::queryStrategy" alt="" coords="256,5,428,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a70d2d913b29a1703412acca964bb1e52" title="SpatialIndex::RTree\l::RTree::queryStrategy" alt="" coords="265,71,419,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a23e39043349367fbf0d01f5936de2a53" title="SpatialIndex::MVRTree\l::MVRTree::queryStrategy" alt="" coords="255,136,429,177"/>
 <area shape="rect" id="node5" href="$classBoundsQuery.html#ad435c0c52d95f3a2661c48c963b41eb3" title="BoundsQuery::~BoundsQuery" alt="" coords="244,202,440,229"/>
 <area shape="rect" id="node6" href="$classLeafQuery.html#a5c0c096e767fadd3aab65cce0cc0eefa" title="LeafQuery::~LeafQuery" alt="" coords="263,253,421,279"/>
 </map>

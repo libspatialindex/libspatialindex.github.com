@@ -1,0 +1,5 @@
+<map id="SpatialIndex::RTree::RTree::deleteData" name="SpatialIndex::RTree::RTree::deleteData">
+<area shape="rect" id="node2" href="$classTools_1_1PointerPool.html#a15633e39be0a6e674f5b4782d290108b" title="Tools::PointerPool\l::acquire" alt="" coords="199,5,328,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="192,71,335,112"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="192,136,335,177"/>
+</map>

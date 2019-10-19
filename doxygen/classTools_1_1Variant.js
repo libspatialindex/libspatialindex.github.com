@@ -2,7 +2,7 @@ var classTools_1_1Variant =
 [
     [ "Variant", "classTools_1_1Variant.html#a5bbc36a5773c64eb5ce287a40a45fe2c", null ],
     [ "blVal", "classTools_1_1Variant.html#a3a9b22b44bf0c202a4839a5753f0d890", null ],
-    [ "bVal", "classTools_1_1Variant.html#ab0c94e68ec0407c65890d03dcf39c598", null ],
+    [ "bVal", "classTools_1_1Variant.html#a73af48fb0c88beab854440c1edad158d", null ],
     [ "cVal", "classTools_1_1Variant.html#aebc9ab97282478c2a994764a6732a241", null ],
     [ "dblVal", "classTools_1_1Variant.html#a57bfb62c9f5807f36120a864cae896a8", null ],
     [ "fltVal", "classTools_1_1Variant.html#a48e72fc9fb675dda48515fb6ce8e5442", null ],

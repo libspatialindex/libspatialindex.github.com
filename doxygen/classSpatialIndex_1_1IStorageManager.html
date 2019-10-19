@@ -91,10 +91,10 @@ Collaboration diagram for SpatialIndex::IStorageManager:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:abac5268313d0eb09eae4d7631a1d16da"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> id, uint32_t &amp;len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data)=0</td></tr>
-<tr class="separator:abac5268313d0eb09eae4d7631a1d16da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a821a25a5f0be61a6144980943e62df67"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;id, const uint32_t len, const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const data)=0</td></tr>
-<tr class="separator:a821a25a5f0be61a6144980943e62df67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace2275e8e954b0586542f9527c7d64e2"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> id, uint32_t &amp;len, uint8_t **data)=0</td></tr>
+<tr class="separator:ace2275e8e954b0586542f9527c7d64e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea09f2af4217a25c0dc0803225067283"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;id, const uint32_t len, const uint8_t *const data)=0</td></tr>
+<tr class="separator:aea09f2af4217a25c0dc0803225067283"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abeef9dbc08c082a010160674280b7e56"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#abeef9dbc08c082a010160674280b7e56">deleteByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> id)=0</td></tr>
 <tr class="separator:abeef9dbc08c082a010160674280b7e56"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9a0cc45469aee50d40abdf31f5641d1a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1IStorageManager.html#a9a0cc45469aee50d40abdf31f5641d1a">flush</a> ()=0</td></tr>
@@ -158,16 +158,16 @@ Public Member Functions</h2></td></tr>
 
 <p>Implemented in <a class="el" href="classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html#a5f7e265a601c10da26a67775c7f9ddde">SpatialIndex::StorageManager::CustomStorageManager</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1931edbae9c0208f6de7ac4d8d7212ec">SpatialIndex::StorageManager::Buffer</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a0f06e13e24c6c2f46890eade062de0b9">SpatialIndex::StorageManager::MemoryStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html#a56307519a0ca1a49055055615409c033">SpatialIndex::StorageManager::DiskStorageManager</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="Buffer_8cc_source.html#l00122">SpatialIndex::StorageManager::Buffer::deleteByteArray()</a>, <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00845">SpatialIndex::RTree::RTree::flush()</a>, and <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="Buffer_8cc_source.html#l00122">SpatialIndex::StorageManager::Buffer::deleteByteArray()</a>, <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00846">SpatialIndex::RTree::RTree::flush()</a>, and <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSpatialIndex_1_1IStorageManager_abeef9dbc08c082a010160674280b7e56_icgraph.png" border="0" usemap="#classSpatialIndex_1_1IStorageManager_abeef9dbc08c082a010160674280b7e56_icgraph" alt=""/></div>
 <map name="classSpatialIndex_1_1IStorageManager_abeef9dbc08c082a010160674280b7e56_icgraph" id="classSpatialIndex_1_1IStorageManager_abeef9dbc08c082a010160674280b7e56_icgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1931edbae9c0208f6de7ac4d8d7212ec" title="SpatialIndex::StorageManager\l::Buffer::deleteByteArray" alt="" coords="255,5,452,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,71,431,112"/>
-<area shape="rect" id="node4" href="classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,136,423,177"/>
-<area shape="rect" id="node5" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,201,433,243"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#abffcc5151b5e6235acd381f5183b1676" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,71,431,112"/>
+<area shape="rect" id="node4" href="classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,136,423,177"/>
+<area shape="rect" id="node5" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,201,433,243"/>
 </map>
 </div>
 
@@ -200,8 +200,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="abac5268313d0eb09eae4d7631a1d16da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abac5268313d0eb09eae4d7631a1d16da">&#9670;&nbsp;</a></span>loadByteArray()</h2>
+<a id="ace2275e8e954b0586542f9527c7d64e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace2275e8e954b0586542f9527c7d64e2">&#9670;&nbsp;</a></span>loadByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -224,7 +224,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -240,25 +240,25 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html#a717da581d071b052a315d3076ed53de0">SpatialIndex::StorageManager::CustomStorageManager</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a8e4f22f32ee3455a90bc09b37dd3a6d0">SpatialIndex::StorageManager::Buffer</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#aeb501d116fcc01d328e59cb27344bb65">SpatialIndex::StorageManager::MemoryStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html#a1a290b9503fde8352c75b48c35675503">SpatialIndex::StorageManager::DiskStorageManager</a>.</p>
+<p>Implemented in <a class="el" href="classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html#a2cb44f5261bf68e3ae968bd5ed323b87">SpatialIndex::StorageManager::CustomStorageManager</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1dff039d62743572c808247e9115fb04">SpatialIndex::StorageManager::Buffer</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a1f0eab9120ad98d09f2cde7875ce5cca">SpatialIndex::StorageManager::MemoryStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html#a84c50b92a4588c6dd28573c32190d31d">SpatialIndex::StorageManager::DiskStorageManager</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00845">SpatialIndex::RTree::RTree::flush()</a>, <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>, and <a class="el" href="Buffer_8cc_source.html#l00072">SpatialIndex::StorageManager::Buffer::loadByteArray()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00846">SpatialIndex::RTree::RTree::flush()</a>, <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>, and <a class="el" href="Buffer_8cc_source.html#l00072">SpatialIndex::StorageManager::Buffer::loadByteArray()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1IStorageManager_abac5268313d0eb09eae4d7631a1d16da_icgraph.png" border="0" usemap="#classSpatialIndex_1_1IStorageManager_abac5268313d0eb09eae4d7631a1d16da_icgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1IStorageManager_abac5268313d0eb09eae4d7631a1d16da_icgraph" id="classSpatialIndex_1_1IStorageManager_abac5268313d0eb09eae4d7631a1d16da_icgraph">
-<area shape="rect" id="node2" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,5,431,47"/>
-<area shape="rect" id="node3" href="classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,71,423,112"/>
-<area shape="rect" id="node4" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,136,433,177"/>
-<area shape="rect" id="node5" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a8e4f22f32ee3455a90bc09b37dd3a6d0" title="SpatialIndex::StorageManager\l::Buffer::loadByteArray" alt="" coords="255,201,452,243"/>
+<div class="center"><img src="classSpatialIndex_1_1IStorageManager_ace2275e8e954b0586542f9527c7d64e2_icgraph.png" border="0" usemap="#classSpatialIndex_1_1IStorageManager_ace2275e8e954b0586542f9527c7d64e2_icgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1IStorageManager_ace2275e8e954b0586542f9527c7d64e2_icgraph" id="classSpatialIndex_1_1IStorageManager_ace2275e8e954b0586542f9527c7d64e2_icgraph">
+<area shape="rect" id="node2" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#abffcc5151b5e6235acd381f5183b1676" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,5,431,47"/>
+<area shape="rect" id="node3" href="classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,71,423,112"/>
+<area shape="rect" id="node4" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,136,433,177"/>
+<area shape="rect" id="node5" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a1dff039d62743572c808247e9115fb04" title="SpatialIndex::StorageManager\l::Buffer::loadByteArray" alt="" coords="255,201,452,243"/>
 </map>
 </div>
 
 </div>
 </div>
-<a id="a821a25a5f0be61a6144980943e62df67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a821a25a5f0be61a6144980943e62df67">&#9670;&nbsp;</a></span>storeByteArray()</h2>
+<a id="aea09f2af4217a25c0dc0803225067283"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea09f2af4217a25c0dc0803225067283">&#9670;&nbsp;</a></span>storeByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -281,7 +281,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const&#160;</td>
+          <td class="paramtype">const uint8_t *const&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -297,21 +297,21 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html#a4855038b29efb4cf163a20663dee8c81">SpatialIndex::StorageManager::CustomStorageManager</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a2665ab14e03f8dcfc4d7ac9897b644f7">SpatialIndex::StorageManager::Buffer</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a8f63de7539cbece2d488001ba3953b64">SpatialIndex::StorageManager::MemoryStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html#a3940b6f27503b442952ecb6ae3c91b29">SpatialIndex::StorageManager::DiskStorageManager</a>.</p>
+<p>Implemented in <a class="el" href="classSpatialIndex_1_1StorageManager_1_1CustomStorageManager.html#a75302222c5d94b233de2fb5704058c1d">SpatialIndex::StorageManager::CustomStorageManager</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#ab1b3d6b49c39238d115d6ffd4dc730cc">SpatialIndex::StorageManager::Buffer</a>, <a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#abc0257f5bf4ad17749379fff1234eeb1">SpatialIndex::StorageManager::MemoryStorageManager</a>, and <a class="el" href="classSpatialIndex_1_1StorageManager_1_1DiskStorageManager.html#a29dcb60e8085918ee163992a74fa7ed5">SpatialIndex::StorageManager::DiskStorageManager</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="Buffer_8cc_source.html#l00134">SpatialIndex::StorageManager::Buffer::clear()</a>, <a class="el" href="Buffer_8cc_source.html#l00059">SpatialIndex::StorageManager::Buffer::flush()</a>, <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00845">SpatialIndex::RTree::RTree::flush()</a>, <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>, <a class="el" href="RandomEvictionsBuffer_8cc_source.html#l00080">SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry()</a>, and <a class="el" href="Buffer_8cc_source.html#l00090">SpatialIndex::StorageManager::Buffer::storeByteArray()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="Buffer_8cc_source.html#l00134">SpatialIndex::StorageManager::Buffer::clear()</a>, <a class="el" href="Buffer_8cc_source.html#l00059">SpatialIndex::StorageManager::Buffer::flush()</a>, <a class="el" href="TPRTree_8cc_source.html#l00581">SpatialIndex::TPRTree::TPRTree::flush()</a>, <a class="el" href="RTree_8cc_source.html#l00846">SpatialIndex::RTree::RTree::flush()</a>, <a class="el" href="MVRTree_8cc_source.html#l00560">SpatialIndex::MVRTree::MVRTree::flush()</a>, <a class="el" href="RandomEvictionsBuffer_8cc_source.html#l00080">SpatialIndex::StorageManager::RandomEvictionsBuffer::removeEntry()</a>, and <a class="el" href="Buffer_8cc_source.html#l00090">SpatialIndex::StorageManager::Buffer::storeByteArray()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classSpatialIndex_1_1IStorageManager_a821a25a5f0be61a6144980943e62df67_icgraph.png" border="0" usemap="#classSpatialIndex_1_1IStorageManager_a821a25a5f0be61a6144980943e62df67_icgraph" alt=""/></div>
-<map name="classSpatialIndex_1_1IStorageManager_a821a25a5f0be61a6144980943e62df67_icgraph" id="classSpatialIndex_1_1IStorageManager_a821a25a5f0be61a6144980943e62df67_icgraph">
+<div class="center"><img src="classSpatialIndex_1_1IStorageManager_aea09f2af4217a25c0dc0803225067283_icgraph.png" border="0" usemap="#classSpatialIndex_1_1IStorageManager_aea09f2af4217a25c0dc0803225067283_icgraph" alt=""/></div>
+<map name="classSpatialIndex_1_1IStorageManager_aea09f2af4217a25c0dc0803225067283_icgraph" id="classSpatialIndex_1_1IStorageManager_aea09f2af4217a25c0dc0803225067283_icgraph">
 <area shape="rect" id="node2" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a4ca80587a68ed937f86adef12300f239" title="SpatialIndex::StorageManager\l::Buffer::clear" alt="" coords="255,5,452,47"/>
 <area shape="rect" id="node3" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a57c3388255eda5face7910c24b1e4863" title="SpatialIndex::StorageManager\l::Buffer::flush" alt="" coords="255,71,452,112"/>
-<area shape="rect" id="node5" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,136,431,177"/>
-<area shape="rect" id="node6" href="classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,201,423,243"/>
-<area shape="rect" id="node7" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,267,433,308"/>
+<area shape="rect" id="node5" href="classSpatialIndex_1_1TPRTree_1_1TPRTree.html#abffcc5151b5e6235acd381f5183b1676" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,136,431,177"/>
+<area shape="rect" id="node6" href="classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,201,423,243"/>
+<area shape="rect" id="node7" href="classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,267,433,308"/>
 <area shape="rect" id="node8" href="classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#ae4f5e0fa6ab22a5e9c032c8e150f9774" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\lremoveEntry" alt="" coords="255,333,452,389"/>
-<area shape="rect" id="node10" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a2665ab14e03f8dcfc4d7ac9897b644f7" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="255,413,452,455"/>
+<area shape="rect" id="node10" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#ab1b3d6b49c39238d115d6ffd4dc730cc" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="255,413,452,455"/>
 <area shape="rect" id="node4" href="classSpatialIndex_1_1StorageManager_1_1Buffer.html#a0bbaca2d47ade89fb96c2366195f7694" title="SpatialIndex::StorageManager\l::Buffer::~Buffer" alt="" coords="500,71,697,112"/>
 <area shape="rect" id="node9" href="classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#af8b50927ada719b69587945b3334c7a1" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\laddEntry" alt="" coords="500,333,697,389"/>
 </map>
@@ -328,7 +328,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceSpatialIndex.html">SpatialIndex</a></li><li class="navelem"><a class="el" href="classSpatialIndex_1_1IStorageManager.html">IStorageManager</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:33 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

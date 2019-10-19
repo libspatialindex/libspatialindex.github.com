@@ -15,12 +15,12 @@ var classSpatialIndex_1_1MovingPoint =
     [ "getProjectedCoord", "classSpatialIndex_1_1MovingPoint.html#a8477b4040c12a929875c99713d4daa73", null ],
     [ "getVCoord", "classSpatialIndex_1_1MovingPoint.html#a413b46463116521138111883e74a82ab", null ],
     [ "getVMBR", "classSpatialIndex_1_1MovingPoint.html#abca3439e3baa6f661999dd78bbd3a910", null ],
-    [ "loadFromByteArray", "classSpatialIndex_1_1MovingPoint.html#ae859489390b580c2d0b4247a333273eb", null ],
+    [ "loadFromByteArray", "classSpatialIndex_1_1MovingPoint.html#abd9b50b78e57555fdc3c6d7994ca5006", null ],
     [ "makeDimension", "classSpatialIndex_1_1MovingPoint.html#a4f6b7e702dd82abe87eb61a81a22bd90", null ],
     [ "makeInfinite", "classSpatialIndex_1_1MovingPoint.html#aed5b01734c9b2d3f138154830f8f0634", null ],
     [ "operator=", "classSpatialIndex_1_1MovingPoint.html#a79129816d3f49c90ba9796a4105445dc", null ],
     [ "operator==", "classSpatialIndex_1_1MovingPoint.html#aa27bde06486b95e82430aa925e155e1a", null ],
-    [ "storeToByteArray", "classSpatialIndex_1_1MovingPoint.html#ace234a976505cbaa97d381a2267be0cd", null ],
+    [ "storeToByteArray", "classSpatialIndex_1_1MovingPoint.html#af2f276b33468764b32ef7af2c85fdb34", null ],
     [ "operator<<", "classSpatialIndex_1_1MovingPoint.html#abc46d36363fd5e46264acea1a2d4b4c0", null ],
     [ "m_pVCoords", "classSpatialIndex_1_1MovingPoint.html#a78117b3baaae2c93dffcbb9b1015a98c", null ]
 ];

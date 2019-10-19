@@ -22,7 +22,6 @@ var Tools_8h =
     [ "BufferedFileWriter", "classTools_1_1BufferedFileWriter.html", "classTools_1_1BufferedFileWriter" ],
     [ "TemporaryFile", "classTools_1_1TemporaryFile.html", "classTools_1_1TemporaryFile" ],
     [ "SIDX_DLL", "Tools_8h.html#a929105974caf76123d75feba16d5f4d4", null ],
-    [ "byte", "Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94", null ],
     [ "FileMode", "Tools_8h.html#abc82e601242ae13082c141b581d390f0", [
       [ "APPEND", "Tools_8h.html#abc82e601242ae13082c141b581d390f0ad143d50f6db8216fb1a34f7c68c962f1", null ],
       [ "CREATE", "Tools_8h.html#abc82e601242ae13082c141b581d390f0acf8915266505167f4811c05463de6423", null ]

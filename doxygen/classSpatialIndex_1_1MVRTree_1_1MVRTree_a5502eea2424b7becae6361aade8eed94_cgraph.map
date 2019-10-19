@@ -1,0 +1,8 @@
+<map id="SpatialIndex::MVRTree::MVRTree::deleteData" name="SpatialIndex::MVRTree::MVRTree::deleteData">
+<area shape="rect" id="node2" href="$classTools_1_1PointerPool.html#a15633e39be0a6e674f5b4782d290108b" title="Tools::PointerPool\l::acquire" alt="" coords="233,5,363,47"/>
+<area shape="rect" id="node3" href="$classSpatialIndex_1_1IShape.html#ab5c8e70c4b956d78ca22361396cfa636" title="SpatialIndex::IShape\l::getDimension" alt="" coords="227,71,369,112"/>
+<area shape="rect" id="node4" href="$classTools_1_1IInterval.html#ac6f407bcb5bf762f22f96b3b9def7a8c" title="Tools::IInterval::getLower\lBound" alt="" coords="213,136,383,177"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1IShape.html#ae8a27e61bc138ee2755b7f6a427905f0" title="SpatialIndex::IShape\l::getMBR" alt="" coords="227,201,369,243"/>
+<area shape="rect" id="node6" href="$classTools_1_1IInterval.html#aca6d1028e536aef416dc6932230337f6" title="Tools::IInterval::getUpper\lBound" alt="" coords="213,267,383,308"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1TimeRegion.html#a130aeae299ac1188109bbd57597f75db" title="SpatialIndex::TimeRegion\l::makeDimension" alt="" coords="212,332,384,373"/>
+</map>

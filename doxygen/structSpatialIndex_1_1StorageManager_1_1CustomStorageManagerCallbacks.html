@@ -92,10 +92,10 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a253fd3a36ebdb44d2fdfa6895ff331b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a56638139d988d9cf91246dfa81997aa2"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a56638139d988d9cf91246dfa81997aa2">flushCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, int *errorCode)</td></tr>
 <tr class="separator:a56638139d988d9cf91246dfa81997aa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1593e3b22c3b1cf2fd842ac8fb76db73"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a1593e3b22c3b1cf2fd842ac8fb76db73">loadByteArrayCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t *len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data, int *errorCode)</td></tr>
-<tr class="separator:a1593e3b22c3b1cf2fd842ac8fb76db73"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09d3b504af2f9a5a5980c3dcda595de9"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a09d3b504af2f9a5a5980c3dcda595de9">storeByteArrayCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> *page, const uint32_t len, const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const data, int *errorCode)</td></tr>
-<tr class="separator:a09d3b504af2f9a5a5980c3dcda595de9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7db617a8b1acc3e777aedc381755cffe"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a7db617a8b1acc3e777aedc381755cffe">loadByteArrayCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t *len, uint8_t **data, int *errorCode)</td></tr>
+<tr class="separator:a7db617a8b1acc3e777aedc381755cffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa542a2a410d7f64cdd468a699bd83db3"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#aa542a2a410d7f64cdd468a699bd83db3">storeByteArrayCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> *page, const uint32_t len, const uint8_t *const data, int *errorCode)</td></tr>
+<tr class="separator:aa542a2a410d7f64cdd468a699bd83db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a2ad1af73fbdd7599e27727444bb352"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#a2a2ad1af73fbdd7599e27727444bb352">deleteByteArrayCallback</a> )(const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, int *errorCode)</td></tr>
 <tr class="separator:a2a2ad1af73fbdd7599e27727444bb352"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -221,14 +221,14 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a1593e3b22c3b1cf2fd842ac8fb76db73"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1593e3b22c3b1cf2fd842ac8fb76db73">&#9670;&nbsp;</a></span>loadByteArrayCallback</h2>
+<a id="a7db617a8b1acc3e777aedc381755cffe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7db617a8b1acc3e777aedc381755cffe">&#9670;&nbsp;</a></span>loadByteArrayCallback</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void(* SpatialIndex::StorageManager::CustomStorageManagerCallbacks::loadByteArrayCallback) (const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t *len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data, int *errorCode)</td>
+          <td class="memname">void(* SpatialIndex::StorageManager::CustomStorageManagerCallbacks::loadByteArrayCallback) (const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t *len, uint8_t **data, int *errorCode)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -239,14 +239,14 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a09d3b504af2f9a5a5980c3dcda595de9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09d3b504af2f9a5a5980c3dcda595de9">&#9670;&nbsp;</a></span>storeByteArrayCallback</h2>
+<a id="aa542a2a410d7f64cdd468a699bd83db3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa542a2a410d7f64cdd468a699bd83db3">&#9670;&nbsp;</a></span>storeByteArrayCallback</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void(* SpatialIndex::StorageManager::CustomStorageManagerCallbacks::storeByteArrayCallback) (const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> *page, const uint32_t len, const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const data, int *errorCode)</td>
+          <td class="memname">void(* SpatialIndex::StorageManager::CustomStorageManagerCallbacks::storeByteArrayCallback) (const void *<a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html#ac7915e0adcc0b09b79b31ac8ce2afdf7">context</a>, <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> *page, const uint32_t len, const uint8_t *const data, int *errorCode)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -266,7 +266,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceSpatialIndex.html">SpatialIndex</a></li><li class="navelem"><a class="el" href="namespaceSpatialIndex_1_1StorageManager.html">StorageManager</a></li><li class="navelem"><a class="el" href="structSpatialIndex_1_1StorageManager_1_1CustomStorageManagerCallbacks.html">CustomStorageManagerCallbacks</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

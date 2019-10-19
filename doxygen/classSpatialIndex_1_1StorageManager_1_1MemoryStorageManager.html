@@ -94,10 +94,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3b30ea03f8e6369f89363775eb7a16d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a537a4161b041fc4d2d3d575a100bb944"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a537a4161b041fc4d2d3d575a100bb944">flush</a> () override</td></tr>
 <tr class="separator:a537a4161b041fc4d2d3d575a100bb944"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb501d116fcc01d328e59cb27344bb65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#aeb501d116fcc01d328e59cb27344bb65">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t &amp;len, <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data) override</td></tr>
-<tr class="separator:aeb501d116fcc01d328e59cb27344bb65"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f63de7539cbece2d488001ba3953b64"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a8f63de7539cbece2d488001ba3953b64">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;page, const uint32_t len, const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const data) override</td></tr>
-<tr class="separator:a8f63de7539cbece2d488001ba3953b64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f0eab9120ad98d09f2cde7875ce5cca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a1f0eab9120ad98d09f2cde7875ce5cca">loadByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page, uint32_t &amp;len, uint8_t **data) override</td></tr>
+<tr class="separator:a1f0eab9120ad98d09f2cde7875ce5cca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc0257f5bf4ad17749379fff1234eeb1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#abc0257f5bf4ad17749379fff1234eeb1">storeByteArray</a> (<a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> &amp;page, const uint32_t len, const uint8_t *const data) override</td></tr>
+<tr class="separator:abc0257f5bf4ad17749379fff1234eeb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0f06e13e24c6c2f46890eade062de0b9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html#a0f06e13e24c6c2f46890eade062de0b9">deleteByteArray</a> (const <a class="el" href="namespaceSpatialIndex.html#adb5b9f88aa0125fb5261422a465d179d">id_type</a> page) override</td></tr>
 <tr class="separator:a0f06e13e24c6c2f46890eade062de0b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classSpatialIndex_1_1IStorageManager"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classSpatialIndex_1_1IStorageManager')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classSpatialIndex_1_1IStorageManager.html">SpatialIndex::IStorageManager</a></td></tr>
@@ -215,8 +215,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="aeb501d116fcc01d328e59cb27344bb65"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb501d116fcc01d328e59cb27344bb65">&#9670;&nbsp;</a></span>loadByteArray()</h2>
+<a id="a1f0eab9120ad98d09f2cde7875ce5cca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f0eab9120ad98d09f2cde7875ce5cca">&#9670;&nbsp;</a></span>loadByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -239,7 +239,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -255,14 +255,14 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da">SpatialIndex::IStorageManager</a>.</p>
+<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2">SpatialIndex::IStorageManager</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="MemoryStorageManager_8cc_source.html#l00062">62</a> of file <a class="el" href="MemoryStorageManager_8cc_source.html">MemoryStorageManager.cc</a>.</p>
 
 </div>
 </div>
-<a id="a8f63de7539cbece2d488001ba3953b64"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f63de7539cbece2d488001ba3953b64">&#9670;&nbsp;</a></span>storeByteArray()</h2>
+<a id="abc0257f5bf4ad17749379fff1234eeb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc0257f5bf4ad17749379fff1234eeb1">&#9670;&nbsp;</a></span>storeByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -285,7 +285,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *const&#160;</td>
+          <td class="paramtype">const uint8_t *const&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -301,7 +301,7 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67">SpatialIndex::IStorageManager</a>.</p>
+<p>Implements <a class="el" href="classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283">SpatialIndex::IStorageManager</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="MemoryStorageManager_8cc_source.html#l00081">81</a> of file <a class="el" href="MemoryStorageManager_8cc_source.html">MemoryStorageManager.cc</a>.</p>
 
@@ -319,7 +319,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceSpatialIndex.html">SpatialIndex</a></li><li class="navelem"><a class="el" href="namespaceSpatialIndex_1_1StorageManager.html">StorageManager</a></li><li class="navelem"><a class="el" href="classSpatialIndex_1_1StorageManager_1_1MemoryStorageManager.html">MemoryStorageManager</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

@@ -111,14 +111,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a79063a931fb0b710213df9935d1eaf42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17affb47941b72c62ba6dabb16e9aeb9"><td class="memItemLeft" align="right" valign="top">virtual uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1ISerializable.html#a17affb47941b72c62ba6dabb16e9aeb9">getByteArraySize</a> ()=0</td></tr>
 <tr class="separator:a17affb47941b72c62ba6dabb16e9aeb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a890bd776e19d1e121da27929942b6667"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1ISerializable.html#a890bd776e19d1e121da27929942b6667">loadFromByteArray</a> (const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *data)=0</td></tr>
-<tr class="separator:a890bd776e19d1e121da27929942b6667"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0cd496a745f2c921c689e41064911186"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1ISerializable.html#a0cd496a745f2c921c689e41064911186">storeToByteArray</a> (<a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **data, uint32_t &amp;length)=0</td></tr>
-<tr class="separator:a0cd496a745f2c921c689e41064911186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab74a27f922abc0e13f2230e9d386f6fe"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1ISerializable.html#ab74a27f922abc0e13f2230e9d386f6fe">loadFromByteArray</a> (const uint8_t *data)=0</td></tr>
+<tr class="separator:ab74a27f922abc0e13f2230e9d386f6fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca45697c3b30dac71df7405af8cf2855"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTools_1_1ISerializable.html#aca45697c3b30dac71df7405af8cf2855">storeToByteArray</a> (uint8_t **data, uint32_t &amp;length)=0</td></tr>
+<tr class="separator:aca45697c3b30dac71df7405af8cf2855"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="Tools_8h_source.html#l00220">220</a> of file <a class="el" href="Tools_8h_source.html">Tools.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="Tools_8h_source.html#l00218">218</a> of file <a class="el" href="Tools_8h_source.html">Tools.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a79063a931fb0b710213df9935d1eaf42"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a79063a931fb0b710213df9935d1eaf42">&#9670;&nbsp;</a></span>~ISerializable()</h2>
@@ -173,8 +173,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a890bd776e19d1e121da27929942b6667"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a890bd776e19d1e121da27929942b6667">&#9670;&nbsp;</a></span>loadFromByteArray()</h2>
+<a id="ab74a27f922abc0e13f2230e9d386f6fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab74a27f922abc0e13f2230e9d386f6fe">&#9670;&nbsp;</a></span>loadFromByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -185,7 +185,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void Tools::ISerializable::loadFromByteArray </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> *&#160;</td>
+          <td class="paramtype">const uint8_t *&#160;</td>
           <td class="paramname"><em>data</em></td><td>)</td>
           <td></td>
         </tr>
@@ -197,12 +197,12 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classTools_1_1PropertySet.html#af65d7e92325670c90f037f528d0adc07">Tools::PropertySet</a>, <a class="el" href="classSpatialIndex_1_1MovingRegion.html#a082cd40fa0ad28f468cbad3b582be1c3">SpatialIndex::MovingRegion</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Data.html#a301af3d8e8e96741664bb15aa59790a3">SpatialIndex::RTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TimeRegion.html#ad1ac787349a5ef98c1c52c38b9419846">SpatialIndex::TimeRegion</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Data.html#ac8e82398bcc9b2008c4e95afadc96342">SpatialIndex::MVRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Data.html#a6ffdfb4d2da96acfa7b533c44e3c600d">SpatialIndex::TPRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1MovingPoint.html#ae859489390b580c2d0b4247a333273eb">SpatialIndex::MovingPoint</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Node.html#a9ea001d9001b38f619f5d977e9356d4f">SpatialIndex::MVRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Node.html#a9ea001d9001b38f619f5d977e9356d4f">SpatialIndex::RTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Node.html#a9ea001d9001b38f619f5d977e9356d4f">SpatialIndex::TPRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TimePoint.html#afa9fba56920645573aaaa9e89ef93ebf">SpatialIndex::TimePoint</a>, <a class="el" href="classSpatialIndex_1_1Point.html#aaa10b86048f833f56852d761363942ed">SpatialIndex::Point</a>, <a class="el" href="classSpatialIndex_1_1LineSegment.html#a7f17e4ac3646390fccbcee7212713e2f">SpatialIndex::LineSegment</a>, and <a class="el" href="classSpatialIndex_1_1Region.html#ad069e27104f4dc831c6939a746e9202d">SpatialIndex::Region</a>.</p>
+<p>Implemented in <a class="el" href="classTools_1_1PropertySet.html#a067cc44e8f64a15c39cabcb10b4ecdde">Tools::PropertySet</a>, <a class="el" href="classSpatialIndex_1_1MovingRegion.html#a2eeef36314561239f42ac9b6ce147097">SpatialIndex::MovingRegion</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Data.html#ab66247555b3e49f222250e8817450760">SpatialIndex::RTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TimeRegion.html#a6b9e8a98b0bd518dfd84c2757e8123d2">SpatialIndex::TimeRegion</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Data.html#ad92b98ebebbe3177ff150bc682d0d2ad">SpatialIndex::MVRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Data.html#a548b052e5c574262046b2301bc6d256c">SpatialIndex::TPRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1MovingPoint.html#abd9b50b78e57555fdc3c6d7994ca5006">SpatialIndex::MovingPoint</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5">SpatialIndex::MVRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5">SpatialIndex::RTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5">SpatialIndex::TPRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TimePoint.html#a321518da3feaaf821860130355c706ce">SpatialIndex::TimePoint</a>, <a class="el" href="classSpatialIndex_1_1Point.html#a55ba71666970b1b259a0801bf177f236">SpatialIndex::Point</a>, <a class="el" href="classSpatialIndex_1_1LineSegment.html#a5d747e9d1e99a9c4e8a5b732847b750a">SpatialIndex::LineSegment</a>, and <a class="el" href="classSpatialIndex_1_1Region.html#a404684a4f5f2cf94497873218115bc5d">SpatialIndex::Region</a>.</p>
 
 </div>
 </div>
-<a id="a0cd496a745f2c921c689e41064911186"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0cd496a745f2c921c689e41064911186">&#9670;&nbsp;</a></span>storeToByteArray()</h2>
+<a id="aca45697c3b30dac71df7405af8cf2855"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca45697c3b30dac71df7405af8cf2855">&#9670;&nbsp;</a></span>storeToByteArray()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -213,7 +213,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void Tools::ISerializable::storeToByteArray </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="Tools_8h.html#ab8ef12fab634c171394422d0ee8baf94">byte</a> **&#160;</td>
+          <td class="paramtype">uint8_t **&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -235,7 +235,7 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classTools_1_1PropertySet.html#a337777e61bfc04c92321007ea3c2abda">Tools::PropertySet</a>, <a class="el" href="classSpatialIndex_1_1MovingRegion.html#ace82e3e545f14b606dc8c6d6274634b9">SpatialIndex::MovingRegion</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Data.html#a5a0fab901a034cef1ec2882a639ff7a3">SpatialIndex::RTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TimeRegion.html#a8e612a666ee593bfd946520591242775">SpatialIndex::TimeRegion</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Data.html#acdd0bf5d68bc20e9d7114989e0a600c6">SpatialIndex::MVRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Data.html#a8af7170db61c7e4d44cc43f968be9109">SpatialIndex::TPRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1MovingPoint.html#ace234a976505cbaa97d381a2267be0cd">SpatialIndex::MovingPoint</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Node.html#a9da06755d4f4434c0e5468b33a90da76">SpatialIndex::MVRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Node.html#a9da06755d4f4434c0e5468b33a90da76">SpatialIndex::RTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Node.html#a9da06755d4f4434c0e5468b33a90da76">SpatialIndex::TPRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TimePoint.html#a8ccb6acf1d62f8b8d7ff491fd3063072">SpatialIndex::TimePoint</a>, <a class="el" href="classSpatialIndex_1_1Point.html#ac168d073e87d8babc6a466b9dca2b703">SpatialIndex::Point</a>, <a class="el" href="classSpatialIndex_1_1LineSegment.html#a4e653cee8e48cce1feb8db4e415c5f0e">SpatialIndex::LineSegment</a>, and <a class="el" href="classSpatialIndex_1_1Region.html#ade30a90af07f54d8f4c08a6c5c631e73">SpatialIndex::Region</a>.</p>
+<p>Implemented in <a class="el" href="classTools_1_1PropertySet.html#ab56efe219a800dd4764838d15e9defbf">Tools::PropertySet</a>, <a class="el" href="classSpatialIndex_1_1MovingRegion.html#a46501f01b5b0233f86e12e26221e39d9">SpatialIndex::MovingRegion</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Data.html#a74d56833027786dcd9baea352f598fe7">SpatialIndex::RTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TimeRegion.html#a31631c34b5f3bc9b4f9d1a095b6b0d93">SpatialIndex::TimeRegion</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Data.html#af7abc5aa27d15a8a2f3c049a60525b79">SpatialIndex::MVRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Data.html#ae1ef7e7dac8d05f5837e458c772dd31b">SpatialIndex::TPRTree::Data</a>, <a class="el" href="classSpatialIndex_1_1MovingPoint.html#af2f276b33468764b32ef7af2c85fdb34">SpatialIndex::MovingPoint</a>, <a class="el" href="classSpatialIndex_1_1MVRTree_1_1Node.html#a502df32b2036dc56701c9b921d541a9f">SpatialIndex::MVRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1RTree_1_1Node.html#a502df32b2036dc56701c9b921d541a9f">SpatialIndex::RTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TPRTree_1_1Node.html#a502df32b2036dc56701c9b921d541a9f">SpatialIndex::TPRTree::Node</a>, <a class="el" href="classSpatialIndex_1_1TimePoint.html#aced735b40b0e3bf3e07636f39077c998">SpatialIndex::TimePoint</a>, <a class="el" href="classSpatialIndex_1_1Point.html#a27108bbd21c3611cd345fae35c36103b">SpatialIndex::Point</a>, <a class="el" href="classSpatialIndex_1_1LineSegment.html#af650e24d513302e16929a493aa707333">SpatialIndex::LineSegment</a>, and <a class="el" href="classSpatialIndex_1_1Region.html#a3b43a33ddce0ce2d24a18836491a7491">SpatialIndex::Region</a>.</p>
 
 </div>
 </div>
@@ -248,7 +248,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceTools.html">Tools</a></li><li class="navelem"><a class="el" href="classTools_1_1ISerializable.html">ISerializable</a></li>
-    <li class="footer">Generated on Mon Feb 4 2019 18:48:34 for libspatialindex API Reference by
+    <li class="footer">Generated on Sat Oct 19 2019 21:20:55 for libspatialindex API Reference by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
