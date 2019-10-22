@@ -1,8 +1,8 @@
 <map id="Tools::PoolPointer::relinquish" name="Tools::PoolPointer::relinquish">
 <area shape="rect" id="node2" href="$classSpatialIndex_1_1RTree_1_1Index.html#a6d0a2421b9a38a121e0d1aefe9657bd9" title="SpatialIndex::RTree\l::Index::chooseSubtree" alt="" coords="183,5,341,47"/>
 <area shape="rect" id="node3" href="$classSpatialIndex_1_1RTree_1_1Leaf.html#ada903ef1341589020a9db44196382d93" title="SpatialIndex::RTree\l::Leaf::deleteData" alt="" coords="193,71,331,112"/>
-<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="389,100,528,141"/>
+<area shape="rect" id="node4" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="389,100,528,141"/>
 <area shape="rect" id="node5" href="$classSpatialIndex_1_1RTree_1_1Index.html#a4982f1ca608d4ab3dcb1c13058969e30" title="SpatialIndex::RTree\l::Index::findLeaf" alt="" coords="193,188,331,229"/>
-<area shape="rect" id="node6" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#abffcc5151b5e6235acd381f5183b1676" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="185,253,339,295"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="183,319,341,360"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="185,253,339,295"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="183,319,341,360"/>
 </map>

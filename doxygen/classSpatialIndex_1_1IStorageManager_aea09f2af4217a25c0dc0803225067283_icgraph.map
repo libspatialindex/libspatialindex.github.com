@@ -1,9 +1,9 @@
 <map id="SpatialIndex::IStorageManager::storeByteArray" name="SpatialIndex::IStorageManager::storeByteArray">
 <area shape="rect" id="node2" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a4ca80587a68ed937f86adef12300f239" title="SpatialIndex::StorageManager\l::Buffer::clear" alt="" coords="255,5,452,47"/>
 <area shape="rect" id="node3" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a57c3388255eda5face7910c24b1e4863" title="SpatialIndex::StorageManager\l::Buffer::flush" alt="" coords="255,71,452,112"/>
-<area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#abffcc5151b5e6235acd381f5183b1676" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,136,431,177"/>
-<area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a03cbcbd7640e031bd0e7c6ecd4c82cbb" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,201,423,243"/>
-<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#a497717f30f259f102602758109a50a6d" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,267,433,308"/>
+<area shape="rect" id="node5" href="$classSpatialIndex_1_1TPRTree_1_1TPRTree.html#ae731f6efcfdb6613b76df126037ddeca" title="SpatialIndex::TPRTree\l::TPRTree::flush" alt="" coords="276,136,431,177"/>
+<area shape="rect" id="node6" href="$classSpatialIndex_1_1RTree_1_1RTree.html#a58f44a52d8ec2c3181f55afb608b4af0" title="SpatialIndex::RTree\l::RTree::flush" alt="" coords="284,201,423,243"/>
+<area shape="rect" id="node7" href="$classSpatialIndex_1_1MVRTree_1_1MVRTree.html#ab5173a3e2d9919f0d1c5b6b7d7df112f" title="SpatialIndex::MVRTree\l::MVRTree::flush" alt="" coords="274,267,433,308"/>
 <area shape="rect" id="node8" href="$classSpatialIndex_1_1StorageManager_1_1RandomEvictionsBuffer.html#ae4f5e0fa6ab22a5e9c032c8e150f9774" title="SpatialIndex::StorageManager\l::RandomEvictionsBuffer::\lremoveEntry" alt="" coords="255,333,452,389"/>
 <area shape="rect" id="node10" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#ab1b3d6b49c39238d115d6ffd4dc730cc" title="SpatialIndex::StorageManager\l::Buffer::storeByteArray" alt="" coords="255,413,452,455"/>
 <area shape="rect" id="node4" href="$classSpatialIndex_1_1StorageManager_1_1Buffer.html#a0bbaca2d47ade89fb96c2366195f7694" title="SpatialIndex::StorageManager\l::Buffer::~Buffer" alt="" coords="500,71,697,112"/>

@@ -6,13 +6,13 @@
 <area shape="rect" id="node9" href="$classSpatialIndex_1_1Region.html#a5c74b8acaf9ea1267d71607bca8398ca" title="SpatialIndex::Region\l::getDimension" alt="" coords="237,477,380,519"/>
 <area shape="rect" id="node10" href="$classTools_1_1PropertySet.html#a5720b21d187b1dda20466a849814820a" title="Tools::PropertySet\l::getProperty" alt="" coords="243,543,374,584"/>
 <area shape="rect" id="node11" href="$classSpatialIndex_1_1MovingRegion.html#ac57ec33816a3e4eabc2d84689c392a95" title="SpatialIndex::MovingRegion\l::intersectsRegionInTime" alt="" coords="216,243,401,284"/>
-<area shape="rect" id="node14" href="$classSpatialIndex_1_1IStorageManager.html#abac5268313d0eb09eae4d7631a1d16da" title="SpatialIndex::IStorageManager\l::loadByteArray" alt="" coords="208,608,409,649"/>
-<area shape="rect" id="node15" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a9ea001d9001b38f619f5d977e9356d4f" title="SpatialIndex::TPRTree\l::Node::loadFromByteArray" alt="" coords="218,73,399,115"/>
+<area shape="rect" id="node14" href="$classSpatialIndex_1_1IStorageManager.html#ace2275e8e954b0586542f9527c7d64e2" title="SpatialIndex::IStorageManager\l::loadByteArray" alt="" coords="208,608,409,649"/>
+<area shape="rect" id="node15" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a3f1125f44ede3cd671965f4bcc340eb5" title="SpatialIndex::TPRTree\l::Node::loadFromByteArray" alt="" coords="218,73,399,115"/>
 <area shape="rect" id="node17" href="$classSpatialIndex_1_1MovingRegion.html#ae627ceefb66bf757c60a937426cac25e" title="SpatialIndex::MovingRegion\l::makeInfinite" alt="" coords="216,152,401,193"/>
 <area shape="rect" id="node18" href="$classTools_1_1PoolPointer.html#a9d94a6c441bd1430a015de08b53a16ce" title="Tools::PoolPointer\l::relinquish" alt="" coords="244,673,373,715"/>
 <area shape="rect" id="node19" href="$classTools_1_1PointerPool.html#aded11393d073b1644695df2c19bfe2a0" title="Tools::PointerPool\l::setCapacity" alt="" coords="244,739,373,780"/>
-<area shape="rect" id="node20" href="$classSpatialIndex_1_1IStorageManager.html#a821a25a5f0be61a6144980943e62df67" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="208,804,409,845"/>
-<area shape="rect" id="node21" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a9da06755d4f4434c0e5468b33a90da76" title="SpatialIndex::TPRTree\l::Node::storeToByteArray" alt="" coords="223,869,394,911"/>
+<area shape="rect" id="node20" href="$classSpatialIndex_1_1IStorageManager.html#aea09f2af4217a25c0dc0803225067283" title="SpatialIndex::IStorageManager\l::storeByteArray" alt="" coords="208,804,409,845"/>
+<area shape="rect" id="node21" href="$classSpatialIndex_1_1TPRTree_1_1Node.html#a502df32b2036dc56701c9b921d541a9f" title="SpatialIndex::TPRTree\l::Node::storeToByteArray" alt="" coords="223,869,394,911"/>
 <area shape="rect" id="node23" href="$classTools_1_1PoolPointer.html#a631753f485f527aff056b3192cb620fc" title="Tools::PoolPointer\l::unique" alt="" coords="244,935,373,976"/>
 <area shape="rect" id="node24" href="$classSpatialIndex_1_1IVisitor.html#ac35fdf09b07a33156142ecb2c9410e46" title="SpatialIndex::IVisitor\l::visitData" alt="" coords="237,1000,380,1041"/>
 <area shape="rect" id="node25" href="$classSpatialIndex_1_1IVisitor.html#a98c8c2807cdc8e5cb811f069b3bcbc56" title="SpatialIndex::IVisitor\l::visitNode" alt="" coords="237,1065,380,1107"/>
