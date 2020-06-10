@@ -9,5 +9,5 @@ var classTools_1_1PropertySet =
     [ "removeProperty", "classTools_1_1PropertySet.html#ac567a92583bca26f6970f51fcd644cc1", null ],
     [ "setProperty", "classTools_1_1PropertySet.html#a09e9e0c3b816e0a877cab547709992a8", null ],
     [ "storeToByteArray", "classTools_1_1PropertySet.html#ab56efe219a800dd4764838d15e9defbf", null ],
-    [ "Tools::operator<<", "classTools_1_1PropertySet.html#a21040c5160b4c2e1345172e20b275d06", null ]
+    [ "operator<<", "classTools_1_1PropertySet.html#aa12b433d86f1eb586e7d65ec987b59e5", null ]
 ];
