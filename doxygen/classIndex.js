@@ -15,7 +15,7 @@ var classIndex =
     [ "insertFeature", "classIndex.html#a333850b9563e9c56c2e13957025f2238", null ],
     [ "SetIndexStorage", "classIndex.html#a87806c3a0ffc33f0074576bb1ffe3aad", null ],
     [ "SetIndexType", "classIndex.html#a9ed6d9543d578be0bf8553e51eb71dc8", null ],
-    [ "SetIndexVariant", "classIndex.html#a2ed83240aa7e024fdfe51f25955f1e97", null ],
+    [ "SetIndexVariant", "classIndex.html#a97d65167d27764fa13145b0dd6c592f1", null ],
     [ "SetResultSetLimit", "classIndex.html#ace457a9c88d95939e0dbaefc68117196", null ],
     [ "SetResultSetOffset", "classIndex.html#ad415a9cc29d6edb6b920adbce22b8352", null ]
 ];
